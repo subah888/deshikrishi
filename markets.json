@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "name": "Shwapno – Dhaka",
+    "location": "Farmgate",
+    "buying_price_per_kg": {
+      "Potato": 16,
+      "Onion": 20
+    },
+    "max_quantity": 1000
+  },
+  {
+    "id": 102,
+    "name": "Agora – Chittagong",
+    "location": "GEC Circle",
+    "buying_price_per_kg": {
+      "Tomato": 22,
+      "Potato": 14
+    },
+    "max_quantity": 800
+  },
+  {
+    "id": 103,
+    "name": "Mina Bazar – Khulna",
+    "location": "Sonadanga",
+    "buying_price_per_kg": {
+      "Onion": 21,
+      "Tomato": 19
+    },
+    "max_quantity": 600
+  }
+]
