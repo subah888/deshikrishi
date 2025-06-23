@@ -24,3 +24,30 @@
     "preferred_market": "Agora"
   }
 ]
+=======
+[
+  {
+    "id": 1,
+    "name": "Abdul Karim",
+    "location": "Bogra",
+    "crop": "Potato",
+    "quantity_kg": 500,
+    "preferred_market": "Shwapno"
+  },
+  {
+    "id": 2,
+    "name": "Rahima Begum",
+    "location": "Jessore",
+    "crop": "Onion",
+    "quantity_kg": 300,
+    "preferred_market": "Mina Bazar"
+  },
+  {
+    "id": 3,
+    "name": "Jamal Uddin",
+    "location": "Rangpur",
+    "crop": "Tomato",
+    "quantity_kg": 200,
+    "preferred_market": "Agora"
+  }
+]
