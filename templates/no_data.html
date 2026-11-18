@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}No data{% endblock %}
+{% block content %}
+<div class="dk-card mx-auto" style="max-width: 640px">
+  <h4 class="fw-bold">দামের ডেটা এখনো তৈরি হয়নি</h4>
+  <p class="en">The price data has not been built yet. Run the pipeline once:</p>
+  <pre class="p-3 rounded" style="background: var(--bg)">pip install -r requirements-pipeline.txt
+python pipeline/build_data.py</pre>
+  <p class="mb-0 en">It downloads WFP Bangladesh food prices, trains the model, and writes the files in <code>data/</code>.</p>
+</div>
+{% endblock %}

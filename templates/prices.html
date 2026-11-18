@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Price trends{% endblock %}
+{% block content %}
+<div class="dk-card">
+  <div class="d-flex flex-wrap justify-content-between align-items-end gap-3 mb-3">
+    <div>
+      <h3 class="fw-bold mb-0">দামের ধারা ও পূর্বাভাস</h3>
+      <div class="en">Price history and next-month forecast (BDT per {{ f.unit | lower }})</div>
+    </div>
+    <form method="GET" action="/prices">
+      <select class="form-select" name="series" onchange="this.form.submit()">
+        {% for o in options %}
+        <option value="{{ o.id }}" {{ 'selected' if o.id == selected }}>{{ o.label }} ({{ o.label_en }})</option>
+        {% endfor %}
+      </select>
+    </form>
+  </div>
+  <canvas id="chart" height="110"></canvas>
+  <p class="mt-3 mb-0">
+    {{ f.last_month | month_bn }}: {{ f.last_price | tk(2) }}/কেজি। {{ next_month | month_bn }}-এর পূর্বাভাস:
+    <strong>{{ (f.last_price * (1 + f.pred_return)) | tk(2) }}</strong>
+    (৮০% সম্ভাব্য সীমা {{ (f.last_price * (1 + f.lo_return)) | tk(2) }} – {{ (f.last_price * (1 + f.hi_return)) | tk(2) }})।
+    <a href="/decide?series={{ selected | urlencode }}">⚖️ বেচব না রাখব?</a>
+  </p>
+</div>
+{% endblock %}
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.js"></script>
+<script>
+  const c = {{ chart | tojson }};
+  new Chart(document.getElementById('chart'), {
+    type: 'line',
+    data: {
+      labels: c.labels,
+      datasets: [
+        { label: 'দাম (Price)', data: c.prices, borderColor: '#2D5F34', pointRadius: 0, borderWidth: 2 },
+        { label: 'পূর্বাভাস (Forecast)', data: c.forecast, borderColor: '#c0762b', borderDash: [6, 4], pointRadius: 4, borderWidth: 2 },
+        { label: '৮০% সীমা (80% range)', data: c.hi, borderColor: 'rgba(192,118,43,.5)', pointStyle: 'line', pointRadius: 10, showLine: false },
+        { label: '', data: c.lo, borderColor: 'rgba(192,118,43,.5)', pointStyle: 'line', pointRadius: 10, showLine: false },
+      ]
+    },
+    options: {
+      spanGaps: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: { legend: { labels: { filter: i => i.text !== '' } } },
+      scales: { x: { ticks: { maxTicksLimit: 12 } }, y: { title: { display: true, text: 'BDT' } } }
+    }
+  });
+</script>
+{% endblock %}

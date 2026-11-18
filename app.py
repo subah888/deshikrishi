@@ -1,108 +1,173 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sat Jun 21 17:56:09 2025
-@author: Lenovo
-"""
+DeshiKrishi: a sell-now-or-wait advisor for Bangladeshi farmers.
 
-from flask import Flask, render_template, request, jsonify
-import json
-import pandas as pd
+The app reads price history, backtest results and next-month forecasts from data/
+(built by pipeline/build_data.py) and turns them into a simple decision:
+sell now, or store for a month and sell later?
+"""
 import os
+from pathlib import Path
+
+import pandas as pd
+from flask import Flask, jsonify, redirect, render_template, request, url_for
+
+from core.agribot import reply as agribot_reply
+from core.decision import (KG_PER_MAUND, DecisionEngine, bn_num, crop_bn,
+                           market_bn, month_bn, tk)
+
+DATA_DIR = Path(os.environ.get("DESHIKRISHI_DATA", Path(__file__).parent / "data"))
+SADAI_URL = "https://sadai.gov.bd/"
+
+STORAGE_OPTIONS = [
+    (0.01, "ঘরে সংরক্ষণ (মাসে ~১%)", "Home storage (~1%/month)"),
+    (0.02, "সাধারণ গুদাম (মাসে ~২%)", "Warehouse (~2%/month)"),
+    (0.05, "কোল্ড স্টোরেজ / বেশি ক্ষতি (মাসে ~৫%)", "Cold storage or high losses (~5%/month)"),
+]
 
 app = Flask(__name__)
+engine = DecisionEngine(DATA_DIR)
+
+app.jinja_env.filters["bn"] = bn_num
+app.jinja_env.filters["tk"] = tk
+app.jinja_env.filters["crop_bn"] = crop_bn
+app.jinja_env.filters["market_bn"] = market_bn
+app.jinja_env.filters["month_bn"] = month_bn
+
+
+@app.context_processor
+def common():
+    stale = None
+    if engine.ready:
+        end = pd.Timestamp(engine.meta["data_end"])
+        months_old = (pd.Timestamp.today().to_period("M") - end.to_period("M")).n
+        stale = {"end": end, "months_old": months_old} if months_old > 6 else None
+    return {"ready": engine.ready, "meta": getattr(engine, "meta", {}), "stale": stale,
+            "sadai_url": SADAI_URL, "KG_PER_MAUND": KG_PER_MAUND}
+
+
+def _parse_quantity(form):
+    try:
+        qty = float(form.get("quantity", "1").translate(str.maketrans("০১২৩৪৫৬৭৮৯", "0123456789")))
+    except ValueError:
+        return None
+    if qty <= 0 or qty > 1_000_000:
+        return None
+    return qty * KG_PER_MAUND if form.get("unit", "maund") == "maund" else qty
+
 
 @app.route("/")
 def home():
     return render_template("index.html")
 
-@app.route("/farmers")
-def show_farmers():
-    with open("farmers.json", "r") as f:
-        farmers = json.load(f)
-    return render_template("farmers.html", farmers=farmers)
 
-@app.route("/markets")
-def show_markets():
-    with open("markets.json", "r") as f:
-        markets = json.load(f)
-    return render_template("markets.html", markets=markets)
-
-@app.route("/predict", methods=["GET", "POST"])
-def predict():
-    prediction = None
-    crop = region = None
-
+@app.route("/decide", methods=["GET", "POST"])
+def decide():
+    if not engine.ready:
+        return render_template("no_data.html"), 503
+    options = engine.series_options()
+    advice, error = None, None
+    form = request.form if request.method == "POST" else request.args
+    selected = {
+        "series": form.get("series", options[0]["id"]),
+        "quantity": form.get("quantity", "20"),
+        "unit": form.get("unit", "maund"),
+        "storage": form.get("storage", "0.02"),
+    }
     if request.method == "POST":
-        crop = request.form["crop"]
-        region = request.form["region"]
-        area = float(request.form["area"])
-
-        df = pd.read_csv("price_history.csv")
-        match = df[(df["crop"] == crop) & (df["region"] == region)]
-
-        if not match.empty:
-            prediction = round(match["price_per_kg"].mean(), 2)
+        qty_kg = _parse_quantity(form)
+        try:
+            storage = float(selected["storage"])
+        except ValueError:
+            storage = None
+        valid_ids = {o["id"] for o in options}
+        if qty_kg is None:
+            error = "সঠিক পরিমাণ লিখুন (Enter a valid quantity)."
+        elif storage is None or not 0 <= storage < 0.5:
+            error = "সংরক্ষণ খরচ বেছে নিন (Choose a storage option)."
+        elif selected["series"] not in valid_ids:
+            error = "ফসল ও এলাকা বেছে নিন (Choose a crop and area)."
         else:
-            prediction = "Unavailable"
+            advice = engine.advise(selected["series"], qty_kg, storage)
+    return render_template("decide.html", options=options, storage_options=STORAGE_OPTIONS,
+                           selected=selected, advice=advice, error=error)
 
-    return render_template("price.html", prediction=prediction, crop=crop, region=region)
 
-@app.route("/chat", methods=["GET", "POST"])
-def chat_page():
-    user_message = ""
-    bot_reply = "হ্যালো! আমি AgriBot। কীভাবে সাহায্য করতে পারি?"
+@app.route("/prices")
+def prices():
+    if not engine.ready:
+        return render_template("no_data.html"), 503
+    options = engine.series_options()
+    sid = request.args.get("series", options[0]["id"])
+    if sid not in {o["id"] for o in options}:
+        sid = options[0]["id"]
+    hist = engine.history(sid).tail(60)          # last 5 years keeps the forecast visible
+    f = engine.forecast_row(sid)
+    next_month = (pd.Timestamp(f["last_month"]) + pd.offsets.MonthBegin(1))
+    chart = {
+        "labels": [m.strftime("%Y-%m") for m in hist["month"]] + [next_month.strftime("%Y-%m")],
+        "prices": [round(float(p), 2) for p in hist["price"]] + [None],
+        "forecast": [None] * (len(hist) - 1) + [round(float(f["last_price"]), 2),
+                                                 round(float(f["last_price"]) * (1 + f["pred_return"]), 2)],
+        "lo": [None] * len(hist) + [round(float(f["last_price"]) * (1 + f["lo_return"]), 2)],
+        "hi": [None] * len(hist) + [round(float(f["last_price"]) * (1 + f["hi_return"]), 2)],
+    }
+    return render_template("prices.html", options=options, selected=sid, f=f, chart=chart,
+                           next_month=next_month)
 
-    if request.method == "POST":
-        user_message = request.form["message"]
-
-        if "market" in user_message.lower():
-            bot_reply = "আপনি কোন এলাকার বাজার খুঁজছেন? আপনি 'Find Markets' ফিচার ব্যবহার করতে পারেন।"
-        elif "price" in user_message.lower():
-            bot_reply = "দয়া করে ফসলের নাম ও এলাকা বলুন, আমি দাম অনুমান করতে চেষ্টা করব।"
-        else:
-            bot_reply = "দুঃখিত, আমি বুঝতে পারিনি। আপনি অন্যভাবে বলুন।"
-
-        return render_template("chat.html", user_message=user_message, bot_reply=bot_reply)
-
-    return render_template("chat.html")
-
-@app.route("/api/chat", methods=["POST"])
-def chat_api():
-    user_message = request.json.get("message", "").lower()
-
-    # Simple keyword-based logic
-    if "potato" in user_message and "price" in user_message:
-        reply = "The current price of potato is 35 BDT/kg in Karwan Bazar."
-    elif "onion" in user_message and "price" in user_message:
-        reply = "Onion is selling at 42 BDT/kg in Shwapno."
-    else:
-        reply = "Sorry, I couldn’t understand. Try asking like: 'potato price today'."
-
-    return jsonify({"response": reply})
-
-@app.route("/offer", methods=["GET", "POST"])
-def offer():
-    message = None
-    if request.method == "POST":
-        name = request.form["name"]
-        crop = request.form["crop"]
-        quantity = request.form["quantity"]
-        market = request.form["market"]
-
-        # You can later save to a database or file
-        message = f"{name} has offered {quantity} kg of {crop} to {market}!"
-
-    return render_template("offer.html", message=message)
-
-@app.route("/listings")
-def listings():
-    return render_template("listings.html")
 
 @app.route("/agribot")
 def agribot():
     return render_template("agribot.html")
 
+
+@app.route("/about")
+def about():
+    return render_template("about.html")
+
+
+# ---------- JSON APIs ----------
+@app.route("/api/chat", methods=["POST"])
+def api_chat():
+    message = (request.get_json(silent=True) or {}).get("message", "")
+    return jsonify({"response": agribot_reply(engine, str(message)[:500])})
+
+
+@app.route("/api/advice")
+def api_advice():
+    if not engine.ready:
+        return jsonify({"error": "no data"}), 503
+    sid = request.args.get("series", "")
+    if sid not in {o["id"] for o in engine.series_options()}:
+        return jsonify({"error": "unknown series", "series": [o["id"] for o in engine.series_options()]}), 404
+    try:
+        qty = float(request.args.get("quantity_kg", KG_PER_MAUND))
+        storage = float(request.args.get("storage", 0.02))
+    except ValueError:
+        return jsonify({"error": "quantity_kg and storage must be numbers"}), 400
+    if qty <= 0 or not 0 <= storage < 0.5:
+        return jsonify({"error": "out of range"}), 400
+    return jsonify(engine.advise(sid, qty, storage).to_dict())
+
+
+# ---------- old routes from the marketplace version ----------
+@app.route("/predict")
+def old_predict():
+    return redirect(url_for("decide"))
+
+
+@app.route("/chat")
+def old_chat():
+    return redirect(url_for("agribot"))
+
+
+@app.route("/markets")
+@app.route("/listings")
+@app.route("/farmers")
+@app.route("/offer")
+def old_marketplace():
+    return redirect(url_for("about") + "#sadai")
+
+
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
-
+    app.run(host="0.0.0.0", port=port, debug=os.environ.get("FLASK_DEBUG") == "1")

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}DeshiKrishi{% endblock %} · দেশীকৃষি</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root { --green: #2D5F34; --green-2: #407C48; --cream: #f7f2e8; --bg: #f1f8f0; --ink: #1f2a20; }
+    body { background: var(--bg); color: var(--ink); font-family: 'Hind Siliguri', 'Segoe UI', sans-serif; }
+    .dk-nav { background: var(--green); }
+    .dk-nav a { color: #fff; text-decoration: none; margin-left: 18px; font-weight: 500; }
+    .dk-nav a:hover, .dk-nav a.active { color: #d9f0d4; }
+    .dk-brand { color: #fff; font-weight: 700; font-size: 1.3rem; display: flex; align-items: center; gap: 10px; }
+    .dk-brand img { height: 36px; border-radius: 8px; background: var(--cream); padding: 2px; }
+    .dk-card { background: #fff; border-radius: 14px; box-shadow: 0 4px 16px rgba(0,0,0,.07); padding: 28px; }
+    .btn-green { background: var(--green); color: #fff; border: none; border-radius: 10px; padding: 10px 20px; font-weight: 600; }
+    .btn-green:hover { background: var(--green-2); color: #fff; }
+    .en { color: #6b7a6c; font-size: .85em; }
+    .stale { background: #fff4d6; border-bottom: 1px solid #f0d58a; font-size: .95rem; }
+    footer { color: #6b7a6c; font-size: .85rem; }
+  </style>
+  {% block head %}{% endblock %}
+</head>
+<body>
+<nav class="dk-nav py-3 px-3 px-md-4 d-flex flex-wrap justify-content-between align-items-center">
+  <a class="dk-brand" href="/" style="margin:0"><img src="/static/images/logo.png" alt="">DeshiKrishi</a>
+  <div class="mt-2 mt-md-0">
+    <a href="/decide" class="{{ 'active' if request.path == '/decide' }}">⚖️ বেচব না রাখব?</a>
+    <a href="/prices" class="{{ 'active' if request.path == '/prices' }}">📈 দামের ধারা</a>
+    <a href="/agribot" class="{{ 'active' if request.path == '/agribot' }}">🤖 AgriBot</a>
+    <a href="/about" class="{{ 'active' if request.path == '/about' }}">ℹ️ পদ্ধতি</a>
+  </div>
+</nav>
+
+{% if stale %}
+<div class="stale px-3 px-md-4 py-2">
+  ⚠️ <strong>গবেষণা ডেমো:</strong> সর্বশেষ দামের তথ্য {{ stale.end | month_bn }}-এর। আজকের দামের জন্য
+  <a href="{{ sadai_url }}" target="_blank" rel="noopener">কৃষি বিপণন অধিদপ্তরের সদাই</a> দেখুন।
+  <span class="en">Research demo: price data ends {{ stale.end.strftime('%B %Y') }}.</span>
+</div>
+{% endif %}
+
+<main class="container my-4 my-md-5">
+  {% block content %}{% endblock %}
+</main>
+
+<footer class="container pb-4 text-center">
+  দামের তথ্য: {{ meta.get('source', 'WFP') }} · DeshiKrishi research prototype
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>
