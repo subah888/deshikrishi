@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="row align-items-center g-4">
+  <div class="col-lg-7">
+    <h1 class="fw-bold" style="color: var(--green)">ফসল এখন বেচবেন, নাকি এক মাস রাখবেন?</h1>
+    <p class="lead mt-3">
+      DeshiKrishi দামের পূর্বাভাস আর সংরক্ষণ খরচ মিলিয়ে বলে দেয়, অপেক্ষা করলে লাভ হবে কিনা,
+      আর কত টাকা।
+    </p>
+    <p class="en">Should you sell your harvest now or store it for a month? DeshiKrishi combines a price
+      forecast with your storage cost and tells you whether waiting is likely to pay off, and by how much.</p>
+    <a href="/decide" class="btn btn-green btn-lg mt-2">⚖️ সিদ্ধান্ত নিন · Get advice</a>
+    <a href="/agribot" class="btn btn-outline-success btn-lg mt-2 ms-2">🤖 AgriBot-কে জিজ্ঞেস করুন</a>
+  </div>
+  <div class="col-lg-5">
+    <div class="dk-card">
+      <h5 class="fw-bold mb-3">কীভাবে কাজ করে <span class="en">How it works</span></h5>
+      <ol class="mb-0">
+        <li class="mb-2">ফসল, এলাকা, পরিমাণ আর সংরক্ষণের ধরন বেছে নিন।</li>
+        <li class="mb-2">মেশিন লার্নিং মডেল পরের মাসের দামের পূর্বাভাস দেয়।</li>
+        <li class="mb-2">সংরক্ষণ খরচ বাদ দিয়ে হিসাব হয়: অপেক্ষা করলে লাভ না ক্ষতি।</li>
+        <li>অতীতের তথ্যে এই পরামর্শ কতবার সঠিক ছিল, সেটাও দেখানো হয়।</li>
+      </ol>
+    </div>
+  </div>
+</div>
+{% if not ready %}
+<div class="alert alert-warning mt-4">দামের ডেটা এখনো তৈরি হয়নি। <span class="en">No data yet: run
+  <code>python pipeline/build_data.py</code>.</span></div>
+{% endif %}
+{% endblock %}

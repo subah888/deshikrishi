@@ -1,0 +1,2341 @@
+issue,page,commodity,town,month,price_tk_per_quintal,suspect_copy
+2020_Aug,31,Rice (Medium),Dhaka,2020-03-01,3800.0,False
+2020_Aug,31,Rice (Medium),Dhaka,2020-04-01,4300.0,False
+2020_Aug,31,Rice (Medium),Dhaka,2020-05-01,4200.0,False
+2020_Aug,31,Rice (Medium),Dhaka,2020-06-01,4200.0,False
+2020_Aug,31,Rice (Medium),Dhaka,2020-07-01,4200.0,False
+2020_Aug,31,Rice (Medium),Dhaka,2020-08-01,4500.0,False
+2020_Aug,31,Rice (Medium),Chattogram,2020-03-01,4400.0,False
+2020_Aug,31,Rice (Medium),Chattogram,2020-04-01,4400.0,False
+2020_Aug,31,Rice (Medium),Chattogram,2020-05-01,4300.0,False
+2020_Aug,31,Rice (Medium),Chattogram,2020-06-01,4800.0,False
+2020_Aug,31,Rice (Medium),Chattogram,2020-07-01,4700.0,False
+2020_Aug,31,Rice (Medium),Chattogram,2020-08-01,4700.0,False
+2020_Aug,31,Rice (Medium),Rajshahi,2020-03-01,3893.0,False
+2020_Aug,31,Rice (Medium),Rajshahi,2020-04-01,4600.0,False
+2020_Aug,31,Rice (Medium),Rajshahi,2020-05-01,4173.0,False
+2020_Aug,31,Rice (Medium),Rajshahi,2020-06-01,4300.0,False
+2020_Aug,31,Rice (Medium),Rajshahi,2020-07-01,4260.0,False
+2020_Aug,31,Rice (Medium),Rajshahi,2020-08-01,4307.0,False
+2020_Aug,31,Rice (Medium),Khulna,2020-03-01,4000.0,False
+2020_Aug,31,Rice (Medium),Khulna,2020-04-01,4000.0,False
+2020_Aug,31,Rice (Medium),Khulna,2020-05-01,4000.0,False
+2020_Aug,31,Rice (Medium),Khulna,2020-06-01,3900.0,False
+2020_Aug,31,Rice (Medium),Khulna,2020-07-01,4200.0,False
+2020_Aug,31,Rice (Medium),Khulna,2020-08-01,4200.0,False
+2020_Aug,31,Rice (Medium),Sylhet,2020-03-01,5250.0,False
+2020_Aug,31,Rice (Medium),Sylhet,2020-04-01,5500.0,False
+2020_Aug,31,Rice (Medium),Sylhet,2020-05-01,5500.0,False
+2020_Aug,31,Rice (Medium),Sylhet,2020-06-01,5200.0,False
+2020_Aug,31,Rice (Medium),Sylhet,2020-07-01,5300.0,False
+2020_Aug,31,Rice (Medium),Sylhet,2020-08-01,5400.0,False
+2020_Aug,31,Rice (Medium),Rangpur,2020-03-01,2900.0,False
+2020_Aug,31,Rice (Medium),Rangpur,2020-04-01,3850.0,False
+2020_Aug,31,Rice (Medium),Rangpur,2020-05-01,4160.0,False
+2020_Aug,31,Rice (Medium),Rangpur,2020-06-01,4820.0,False
+2020_Aug,31,Rice (Medium),Rangpur,2020-07-01,4820.0,False
+2020_Aug,31,Rice (Medium),Rangpur,2020-08-01,4820.0,False
+2020_Aug,31,Rice (Coarse),Dhaka,2020-03-01,3300.0,False
+2020_Aug,31,Rice (Coarse),Dhaka,2020-04-01,3500.0,False
+2020_Aug,31,Rice (Coarse),Dhaka,2020-05-01,3400.0,False
+2020_Aug,31,Rice (Coarse),Dhaka,2020-06-01,3500.0,False
+2020_Aug,31,Rice (Coarse),Dhaka,2020-07-01,3700.0,False
+2020_Aug,31,Rice (Coarse),Dhaka,2020-08-01,3700.0,False
+2020_Aug,31,Rice (Coarse),Chattogram,2020-03-01,3600.0,False
+2020_Aug,31,Rice (Coarse),Chattogram,2020-04-01,3600.0,False
+2020_Aug,31,Rice (Coarse),Chattogram,2020-05-01,3800.0,False
+2020_Aug,31,Rice (Coarse),Chattogram,2020-06-01,4000.0,False
+2020_Aug,31,Rice (Coarse),Chattogram,2020-07-01,3800.0,False
+2020_Aug,31,Rice (Coarse),Chattogram,2020-08-01,3800.0,False
+2020_Aug,31,Rice (Coarse),Rajshahi,2020-03-01,2840.0,False
+2020_Aug,31,Rice (Coarse),Rajshahi,2020-04-01,3813.0,False
+2020_Aug,31,Rice (Coarse),Rajshahi,2020-05-01,3807.0,False
+2020_Aug,31,Rice (Coarse),Rajshahi,2020-06-01,3910.0,False
+2020_Aug,31,Rice (Coarse),Rajshahi,2020-07-01,3930.0,False
+2020_Aug,31,Rice (Coarse),Rajshahi,2020-08-01,3973.0,False
+2020_Aug,31,Rice (Coarse),Khulna,2020-03-01,3200.0,False
+2020_Aug,31,Rice (Coarse),Khulna,2020-04-01,3200.0,False
+2020_Aug,31,Rice (Coarse),Khulna,2020-05-01,3200.0,False
+2020_Aug,31,Rice (Coarse),Khulna,2020-06-01,3100.0,False
+2020_Aug,31,Rice (Coarse),Khulna,2020-07-01,3300.0,False
+2020_Aug,31,Rice (Coarse),Khulna,2020-08-01,3300.0,False
+2020_Aug,31,Rice (Coarse),Sylhet,2020-03-01,4500.0,False
+2020_Aug,31,Rice (Coarse),Sylhet,2020-04-01,5000.0,False
+2020_Aug,31,Rice (Coarse),Sylhet,2020-05-01,4800.0,False
+2020_Aug,31,Rice (Coarse),Sylhet,2020-06-01,4500.0,False
+2020_Aug,31,Rice (Coarse),Sylhet,2020-07-01,4400.0,False
+2020_Aug,31,Rice (Coarse),Sylhet,2020-08-01,4500.0,False
+2020_Aug,31,Rice (Coarse),Rangpur,2020-03-01,2700.0,False
+2020_Aug,31,Rice (Coarse),Rangpur,2020-04-01,3300.0,False
+2020_Aug,31,Rice (Coarse),Rangpur,2020-05-01,3800.0,False
+2020_Aug,31,Rice (Coarse),Rangpur,2020-06-01,4050.0,False
+2020_Aug,31,Rice (Coarse),Rangpur,2020-07-01,4250.0,False
+2020_Aug,31,Rice (Coarse),Rangpur,2020-08-01,4050.0,False
+2020_Aug,31,Masur,Dhaka,2020-03-01,11500.0,False
+2020_Aug,31,Masur,Dhaka,2020-04-01,11500.0,False
+2020_Aug,31,Masur,Dhaka,2020-05-01,12500.0,False
+2020_Aug,31,Masur,Dhaka,2020-06-01,11500.0,False
+2020_Aug,31,Masur,Dhaka,2020-07-01,13000.0,False
+2020_Aug,31,Masur,Dhaka,2020-08-01,13000.0,False
+2020_Aug,31,Masur,Chattogram,2020-03-01,9700.0,False
+2020_Aug,31,Masur,Chattogram,2020-04-01,12000.0,False
+2020_Aug,31,Masur,Chattogram,2020-05-01,11500.0,False
+2020_Aug,31,Masur,Chattogram,2020-06-01,12000.0,False
+2020_Aug,31,Masur,Chattogram,2020-07-01,11500.0,False
+2020_Aug,31,Masur,Chattogram,2020-08-01,11000.0,False
+2020_Aug,31,Masur,Rajshahi,2020-03-01,9683.0,False
+2020_Aug,31,Masur,Rajshahi,2020-04-01,15033.0,False
+2020_Aug,31,Masur,Rajshahi,2020-05-01,11460.0,False
+2020_Aug,31,Masur,Rajshahi,2020-06-01,11287.0,False
+2020_Aug,31,Masur,Rajshahi,2020-07-01,9877.0,False
+2020_Aug,31,Masur,Rajshahi,2020-08-01,9877.0,False
+2020_Aug,31,Masur,Khulna,2020-03-01,10900.0,False
+2020_Aug,31,Masur,Khulna,2020-04-01,10900.0,False
+2020_Aug,31,Masur,Khulna,2020-05-01,11500.0,False
+2020_Aug,31,Masur,Khulna,2020-06-01,11000.0,False
+2020_Aug,31,Masur,Khulna,2020-07-01,11500.0,False
+2020_Aug,31,Masur,Khulna,2020-08-01,11500.0,False
+2020_Aug,31,Masur,Sylhet,2020-03-01,8500.0,False
+2020_Aug,31,Masur,Sylhet,2020-04-01,10000.0,False
+2020_Aug,31,Masur,Sylhet,2020-05-01,11000.0,False
+2020_Aug,31,Masur,Sylhet,2020-06-01,10000.0,False
+2020_Aug,31,Masur,Sylhet,2020-07-01,10000.0,False
+2020_Aug,31,Masur,Sylhet,2020-08-01,10000.0,False
+2020_Aug,31,Masur,Rangpur,2020-03-01,10300.0,False
+2020_Aug,31,Masur,Rangpur,2020-04-01,12000.0,False
+2020_Aug,31,Masur,Rangpur,2020-05-01,11300.0,False
+2020_Aug,31,Masur,Rangpur,2020-06-01,11550.0,False
+2020_Aug,31,Masur,Rangpur,2020-07-01,11600.0,False
+2020_Aug,31,Masur,Rangpur,2020-08-01,10500.0,False
+2020_Aug,32,Onion,Dhaka,2020-03-01,4800.0,False
+2020_Aug,32,Onion,Dhaka,2020-04-01,4600.0,False
+2020_Aug,32,Onion,Dhaka,2020-05-01,3500.0,False
+2020_Aug,32,Onion,Dhaka,2020-06-01,4600.0,False
+2020_Aug,32,Onion,Dhaka,2020-07-01,4600.0,False
+2020_Aug,32,Onion,Dhaka,2020-08-01,4600.0,False
+2020_Aug,32,Onion,Chattogram,2020-03-01,6500.0,False
+2020_Aug,32,Onion,Chattogram,2020-04-01,6500.0,False
+2020_Aug,32,Onion,Chattogram,2020-05-01,3200.0,False
+2020_Aug,32,Onion,Chattogram,2020-06-01,2700.0,False
+2020_Aug,32,Onion,Chattogram,2020-07-01,2500.0,False
+2020_Aug,32,Onion,Chattogram,2020-08-01,2500.0,False
+2020_Aug,32,Onion,Rajshahi,2020-03-01,3540.0,False
+2020_Aug,32,Onion,Rajshahi,2020-04-01,5017.0,False
+2020_Aug,32,Onion,Rajshahi,2020-05-01,3587.0,False
+2020_Aug,32,Onion,Rajshahi,2020-06-01,4660.0,False
+2020_Aug,32,Onion,Rajshahi,2020-07-01,3253.0,False
+2020_Aug,32,Onion,Rajshahi,2020-08-01,3253.0,False
+2020_Aug,32,Onion,Khulna,2020-03-01,4200.0,False
+2020_Aug,32,Onion,Khulna,2020-04-01,5700.0,False
+2020_Aug,32,Onion,Khulna,2020-05-01,4200.0,False
+2020_Aug,32,Onion,Khulna,2020-06-01,4200.0,False
+2020_Aug,32,Onion,Khulna,2020-07-01,3600.0,False
+2020_Aug,32,Onion,Khulna,2020-08-01,3600.0,False
+2020_Aug,32,Onion,Sylhet,2020-03-01,7500.0,False
+2020_Aug,32,Onion,Sylhet,2020-04-01,5400.0,False
+2020_Aug,32,Onion,Sylhet,2020-05-01,5000.0,False
+2020_Aug,32,Onion,Sylhet,2020-06-01,2600.0,False
+2020_Aug,32,Onion,Sylhet,2020-07-01,2600.0,False
+2020_Aug,32,Onion,Sylhet,2020-08-01,3000.0,False
+2020_Aug,32,Onion,Rangpur,2020-03-01,6400.0,False
+2020_Aug,32,Onion,Rangpur,2020-04-01,4500.0,False
+2020_Aug,32,Onion,Rangpur,2020-05-01,4340.0,False
+2020_Aug,32,Onion,Rangpur,2020-06-01,4500.0,False
+2020_Aug,32,Onion,Rangpur,2020-07-01,4000.0,False
+2020_Aug,32,Onion,Rangpur,2020-08-01,3550.0,False
+2020_Aug,33,Potato,Dhaka,2020-03-01,2000.0,False
+2020_Aug,33,Potato,Dhaka,2020-04-01,2400.0,False
+2020_Aug,33,Potato,Dhaka,2020-05-01,2400.0,False
+2020_Aug,33,Potato,Dhaka,2020-06-01,2600.0,False
+2020_Aug,33,Potato,Dhaka,2020-07-01,2700.0,False
+2020_Aug,33,Potato,Dhaka,2020-08-01,2700.0,False
+2020_Aug,33,Potato,Chattogram,2020-03-01,1700.0,False
+2020_Aug,33,Potato,Chattogram,2020-04-01,2000.0,False
+2020_Aug,33,Potato,Chattogram,2020-05-01,2000.0,False
+2020_Aug,33,Potato,Chattogram,2020-06-01,2400.0,False
+2020_Aug,33,Potato,Chattogram,2020-07-01,2800.0,False
+2020_Aug,33,Potato,Chattogram,2020-08-01,2800.0,False
+2020_Aug,33,Potato,Rajshahi,2020-03-01,1360.0,False
+2020_Aug,33,Potato,Rajshahi,2020-04-01,2267.0,False
+2020_Aug,33,Potato,Rajshahi,2020-05-01,2187.0,False
+2020_Aug,33,Potato,Rajshahi,2020-06-01,2607.0,False
+2020_Aug,33,Potato,Rajshahi,2020-07-01,2433.0,False
+2020_Aug,33,Potato,Rajshahi,2020-08-01,2760.0,False
+2020_Aug,33,Potato,Khulna,2020-03-01,1300.0,False
+2020_Aug,33,Potato,Khulna,2020-04-01,2200.0,False
+2020_Aug,33,Potato,Khulna,2020-05-01,2250.0,False
+2020_Aug,33,Potato,Khulna,2020-06-01,2400.0,False
+2020_Aug,33,Potato,Khulna,2020-07-01,2750.0,False
+2020_Aug,33,Potato,Khulna,2020-08-01,3300.0,False
+2020_Aug,33,Potato,Sylhet,2020-03-01,1800.0,False
+2020_Aug,33,Potato,Sylhet,2020-04-01,2500.0,False
+2020_Aug,33,Potato,Sylhet,2020-05-01,2200.0,False
+2020_Aug,33,Potato,Sylhet,2020-06-01,2200.0,False
+2020_Aug,33,Potato,Sylhet,2020-07-01,2200.0,False
+2020_Aug,33,Potato,Sylhet,2020-08-01,3000.0,False
+2020_Aug,33,Potato,Rangpur,2020-03-01,1750.0,False
+2020_Aug,33,Potato,Rangpur,2020-04-01,2570.0,False
+2020_Aug,33,Potato,Rangpur,2020-05-01,2780.0,False
+2020_Aug,33,Potato,Rangpur,2020-06-01,3650.0,False
+2020_Aug,33,Potato,Rangpur,2020-07-01,3200.0,False
+2020_Aug,33,Potato,Rangpur,2020-08-01,3800.0,False
+2021_Aug,29,Rice (Medium),Dhaka,2021-03-01,4600.0,False
+2021_Aug,29,Rice (Medium),Dhaka,2021-04-01,4600.0,False
+2021_Aug,29,Rice (Medium),Dhaka,2021-05-01,4600.0,False
+2021_Aug,29,Rice (Medium),Dhaka,2021-06-01,4600.0,False
+2021_Aug,29,Rice (Medium),Dhaka,2021-07-01,4300.0,False
+2021_Aug,29,Rice (Medium),Dhaka,2021-08-01,4300.0,False
+2021_Aug,29,Rice (Medium),Chattogram,2021-03-01,4700.0,False
+2021_Aug,29,Rice (Medium),Chattogram,2021-04-01,5600.0,False
+2021_Aug,29,Rice (Medium),Chattogram,2021-05-01,5400.0,False
+2021_Aug,29,Rice (Medium),Chattogram,2021-06-01,5400.0,False
+2021_Aug,29,Rice (Medium),Chattogram,2021-07-01,5400.0,True
+2021_Aug,29,Rice (Medium),Chattogram,2021-08-01,5400.0,True
+2021_Aug,29,Rice (Medium),Rajshahi,2021-03-01,6200.0,False
+2021_Aug,29,Rice (Medium),Rajshahi,2021-04-01,5800.0,False
+2021_Aug,29,Rice (Medium),Rajshahi,2021-05-01,5600.0,False
+2021_Aug,29,Rice (Medium),Rajshahi,2021-06-01,5600.0,False
+2021_Aug,29,Rice (Medium),Rajshahi,2021-07-01,5600.0,False
+2021_Aug,29,Rice (Medium),Rajshahi,2021-08-01,5500.0,False
+2021_Aug,29,Rice (Medium),Khulna,2021-03-01,5600.0,False
+2021_Aug,29,Rice (Medium),Khulna,2021-04-01,5900.0,False
+2021_Aug,29,Rice (Medium),Khulna,2021-05-01,5800.0,False
+2021_Aug,29,Rice (Medium),Khulna,2021-06-01,5700.0,False
+2021_Aug,29,Rice (Medium),Khulna,2021-07-01,5700.0,False
+2021_Aug,29,Rice (Medium),Khulna,2021-08-01,5700.0,False
+2021_Aug,29,Rice (Medium),Sylhet,2021-03-01,5800.0,False
+2021_Aug,29,Rice (Medium),Sylhet,2021-04-01,5800.0,False
+2021_Aug,29,Rice (Medium),Sylhet,2021-05-01,5800.0,False
+2021_Aug,29,Rice (Medium),Sylhet,2021-06-01,5800.0,False
+2021_Aug,29,Rice (Medium),Sylhet,2021-07-01,5800.0,False
+2021_Aug,29,Rice (Medium),Sylhet,2021-08-01,5800.0,False
+2021_Aug,29,Rice (Medium),Rangpur,2021-03-01,5440.0,False
+2021_Aug,29,Rice (Medium),Rangpur,2021-04-01,5250.0,False
+2021_Aug,29,Rice (Medium),Rangpur,2021-05-01,5020.0,False
+2021_Aug,29,Rice (Medium),Rangpur,2021-06-01,5220.0,False
+2021_Aug,29,Rice (Medium),Rangpur,2021-07-01,5220.0,False
+2021_Aug,29,Rice (Medium),Rangpur,2021-08-01,5220.0,False
+2021_Aug,29,Rice (Coarse),Dhaka,2021-03-01,4300.0,False
+2021_Aug,29,Rice (Coarse),Dhaka,2021-04-01,4300.0,False
+2021_Aug,29,Rice (Coarse),Dhaka,2021-05-01,4700.0,False
+2021_Aug,29,Rice (Coarse),Dhaka,2021-06-01,4300.0,False
+2021_Aug,29,Rice (Coarse),Dhaka,2021-07-01,4300.0,False
+2021_Aug,29,Rice (Coarse),Dhaka,2021-08-01,4300.0,False
+2021_Aug,29,Rice (Coarse),Chattogram,2021-03-01,4400.0,False
+2021_Aug,29,Rice (Coarse),Chattogram,2021-04-01,4600.0,False
+2021_Aug,29,Rice (Coarse),Chattogram,2021-05-01,4600.0,False
+2021_Aug,29,Rice (Coarse),Chattogram,2021-06-01,4600.0,False
+2021_Aug,29,Rice (Coarse),Chattogram,2021-07-01,4600.0,True
+2021_Aug,29,Rice (Coarse),Chattogram,2021-08-01,4600.0,True
+2021_Aug,29,Rice (Coarse),Rajshahi,2021-03-01,4800.0,False
+2021_Aug,29,Rice (Coarse),Rajshahi,2021-04-01,4900.0,False
+2021_Aug,29,Rice (Coarse),Rajshahi,2021-05-01,4500.0,False
+2021_Aug,29,Rice (Coarse),Rajshahi,2021-06-01,4500.0,False
+2021_Aug,29,Rice (Coarse),Rajshahi,2021-07-01,4500.0,True
+2021_Aug,29,Rice (Coarse),Rajshahi,2021-08-01,4500.0,True
+2021_Aug,29,Rice (Coarse),Khulna,2021-03-01,4800.0,False
+2021_Aug,29,Rice (Coarse),Khulna,2021-04-01,5700.0,False
+2021_Aug,29,Rice (Coarse),Khulna,2021-05-01,5400.0,False
+2021_Aug,29,Rice (Coarse),Khulna,2021-06-01,5300.0,False
+2021_Aug,29,Rice (Coarse),Khulna,2021-07-01,5100.0,False
+2021_Aug,29,Rice (Coarse),Khulna,2021-08-01,5200.0,False
+2021_Aug,29,Rice (Coarse),Sylhet,2021-03-01,5350.0,False
+2021_Aug,29,Rice (Coarse),Sylhet,2021-04-01,5350.0,False
+2021_Aug,29,Rice (Coarse),Sylhet,2021-05-01,5400.0,False
+2021_Aug,29,Rice (Coarse),Sylhet,2021-06-01,5400.0,False
+2021_Aug,29,Rice (Coarse),Sylhet,2021-07-01,5400.0,True
+2021_Aug,29,Rice (Coarse),Sylhet,2021-08-01,5400.0,True
+2021_Aug,29,Rice (Coarse),Rangpur,2021-03-01,4650.0,False
+2021_Aug,29,Rice (Coarse),Rangpur,2021-04-01,4760.0,False
+2021_Aug,29,Rice (Coarse),Rangpur,2021-05-01,4700.0,False
+2021_Aug,29,Rice (Coarse),Rangpur,2021-06-01,4630.0,False
+2021_Aug,29,Rice (Coarse),Rangpur,2021-07-01,4630.0,False
+2021_Aug,29,Rice (Coarse),Rangpur,2021-08-01,4700.0,False
+2021_Aug,29,Masur,Dhaka,2021-03-01,11000.0,False
+2021_Aug,29,Masur,Dhaka,2021-04-01,11000.0,False
+2021_Aug,29,Masur,Dhaka,2021-05-01,9800.0,False
+2021_Aug,29,Masur,Dhaka,2021-06-01,11000.0,False
+2021_Aug,29,Masur,Dhaka,2021-07-01,11000.0,False
+2021_Aug,29,Masur,Dhaka,2021-08-01,11000.0,False
+2021_Aug,29,Masur,Chattogram,2021-03-01,11300.0,False
+2021_Aug,29,Masur,Chattogram,2021-04-01,9700.0,False
+2021_Aug,29,Masur,Chattogram,2021-05-01,10500.0,False
+2021_Aug,29,Masur,Chattogram,2021-06-01,10500.0,False
+2021_Aug,29,Masur,Chattogram,2021-07-01,10500.0,True
+2021_Aug,29,Masur,Chattogram,2021-08-01,10500.0,True
+2021_Aug,29,Masur,Rajshahi,2021-03-01,10500.0,False
+2021_Aug,29,Masur,Rajshahi,2021-04-01,11500.0,False
+2021_Aug,29,Masur,Rajshahi,2021-05-01,11500.0,False
+2021_Aug,29,Masur,Rajshahi,2021-06-01,11500.0,False
+2021_Aug,29,Masur,Rajshahi,2021-07-01,11500.0,True
+2021_Aug,29,Masur,Rajshahi,2021-08-01,11500.0,True
+2021_Aug,29,Masur,Khulna,2021-03-01,11500.0,False
+2021_Aug,29,Masur,Khulna,2021-04-01,11500.0,False
+2021_Aug,29,Masur,Khulna,2021-05-01,11500.0,False
+2021_Aug,29,Masur,Khulna,2021-06-01,11500.0,False
+2021_Aug,29,Masur,Khulna,2021-07-01,11500.0,False
+2021_Aug,29,Masur,Khulna,2021-08-01,11500.0,False
+2021_Aug,29,Masur,Sylhet,2021-03-01,10000.0,False
+2021_Aug,29,Masur,Sylhet,2021-04-01,10000.0,False
+2021_Aug,29,Masur,Sylhet,2021-05-01,10000.0,False
+2021_Aug,29,Masur,Sylhet,2021-06-01,10000.0,False
+2021_Aug,29,Masur,Sylhet,2021-07-01,10300.0,False
+2021_Aug,29,Masur,Sylhet,2021-08-01,10500.0,False
+2021_Aug,29,Masur,Rangpur,2021-03-01,10520.0,False
+2021_Aug,29,Masur,Rangpur,2021-04-01,8040.0,False
+2021_Aug,29,Masur,Rangpur,2021-05-01,10520.0,False
+2021_Aug,29,Masur,Rangpur,2021-06-01,10520.0,False
+2021_Aug,29,Masur,Rangpur,2021-07-01,10520.0,True
+2021_Aug,29,Masur,Rangpur,2021-08-01,10520.0,True
+2021_Aug,30,Onion,Dhaka,2021-03-01,3500.0,False
+2021_Aug,30,Onion,Dhaka,2021-04-01,3500.0,False
+2021_Aug,30,Onion,Dhaka,2021-05-01,5000.0,False
+2021_Aug,30,Onion,Dhaka,2021-06-01,5000.0,False
+2021_Aug,30,Onion,Dhaka,2021-07-01,5000.0,True
+2021_Aug,30,Onion,Dhaka,2021-08-01,5000.0,True
+2021_Aug,30,Onion,Chattogram,2021-03-01,4000.0,False
+2021_Aug,30,Onion,Chattogram,2021-04-01,4000.0,False
+2021_Aug,30,Onion,Chattogram,2021-05-01,4000.0,False
+2021_Aug,30,Onion,Chattogram,2021-06-01,4000.0,False
+2021_Aug,30,Onion,Chattogram,2021-07-01,4000.0,False
+2021_Aug,30,Onion,Chattogram,2021-08-01,4500.0,False
+2021_Aug,30,Onion,Rajshahi,2021-03-01,3200.0,False
+2021_Aug,30,Onion,Rajshahi,2021-04-01,2833.0,False
+2021_Aug,30,Onion,Rajshahi,2021-05-01,4000.0,False
+2021_Aug,30,Onion,Rajshahi,2021-06-01,4000.0,False
+2021_Aug,30,Onion,Rajshahi,2021-07-01,4200.0,False
+2021_Aug,30,Onion,Rajshahi,2021-08-01,4200.0,False
+2021_Aug,30,Onion,Khulna,2021-03-01,29000.0,False
+2021_Aug,30,Onion,Khulna,2021-04-01,3600.0,False
+2021_Aug,30,Onion,Khulna,2021-05-01,4000.0,False
+2021_Aug,30,Onion,Khulna,2021-06-01,4000.0,False
+2021_Aug,30,Onion,Khulna,2021-07-01,4400.0,False
+2021_Aug,30,Onion,Khulna,2021-08-01,4400.0,False
+2021_Aug,30,Onion,Sylhet,2021-03-01,3800.0,False
+2021_Aug,30,Onion,Sylhet,2021-04-01,3800.0,False
+2021_Aug,30,Onion,Sylhet,2021-05-01,4500.0,False
+2021_Aug,30,Onion,Sylhet,2021-06-01,4500.0,False
+2021_Aug,30,Onion,Sylhet,2021-07-01,4500.0,True
+2021_Aug,30,Onion,Sylhet,2021-08-01,4500.0,True
+2021_Aug,30,Onion,Rangpur,2021-03-01,3220.0,False
+2021_Aug,30,Onion,Rangpur,2021-04-01,3220.0,False
+2021_Aug,30,Onion,Rangpur,2021-05-01,4300.0,False
+2021_Aug,30,Onion,Rangpur,2021-06-01,4300.0,False
+2021_Aug,30,Onion,Rangpur,2021-07-01,4300.0,True
+2021_Aug,30,Onion,Rangpur,2021-08-01,4300.0,True
+2021_Aug,31,Potato,Dhaka,2021-03-01,4500.0,False
+2021_Aug,31,Potato,Dhaka,2021-04-01,4500.0,False
+2021_Aug,31,Potato,Dhaka,2021-05-01,2500.0,False
+2021_Aug,31,Potato,Dhaka,2021-06-01,2500.0,False
+2021_Aug,31,Potato,Dhaka,2021-07-01,2500.0,True
+2021_Aug,31,Potato,Dhaka,2021-08-01,2500.0,True
+2021_Aug,31,Potato,Chattogram,2021-03-01,1400.0,False
+2021_Aug,31,Potato,Chattogram,2021-04-01,1400.0,False
+2021_Aug,31,Potato,Chattogram,2021-05-01,1500.0,False
+2021_Aug,31,Potato,Chattogram,2021-06-01,1500.0,False
+2021_Aug,31,Potato,Chattogram,2021-07-01,1500.0,True
+2021_Aug,31,Potato,Chattogram,2021-08-01,1500.0,True
+2021_Aug,31,Potato,Rajshahi,2021-03-01,1320.0,False
+2021_Aug,31,Potato,Rajshahi,2021-04-01,1450.0,False
+2021_Aug,31,Potato,Rajshahi,2021-05-01,1350.0,False
+2021_Aug,31,Potato,Rajshahi,2021-06-01,1350.0,False
+2021_Aug,31,Potato,Rajshahi,2021-07-01,1600.0,False
+2021_Aug,31,Potato,Rajshahi,2021-08-01,1600.0,False
+2021_Aug,31,Potato,Khulna,2021-03-01,1600.0,False
+2021_Aug,31,Potato,Khulna,2021-04-01,1800.0,False
+2021_Aug,31,Potato,Khulna,2021-05-01,1800.0,False
+2021_Aug,31,Potato,Khulna,2021-06-01,1800.0,False
+2021_Aug,31,Potato,Khulna,2021-07-01,1800.0,False
+2021_Aug,31,Potato,Khulna,2021-08-01,2000.0,False
+2021_Aug,31,Potato,Sylhet,2021-03-01,1900.0,False
+2021_Aug,31,Potato,Sylhet,2021-04-01,1900.0,False
+2021_Aug,31,Potato,Sylhet,2021-05-01,2100.0,False
+2021_Aug,31,Potato,Sylhet,2021-06-01,2000.0,False
+2021_Aug,31,Potato,Sylhet,2021-07-01,2000.0,False
+2021_Aug,31,Potato,Sylhet,2021-08-01,2000.0,False
+2021_Aug,31,Potato,Rangpur,2021-03-01,1800.0,False
+2021_Aug,31,Potato,Rangpur,2021-04-01,1800.0,False
+2021_Aug,31,Potato,Rangpur,2021-05-01,1800.0,False
+2021_Aug,31,Potato,Rangpur,2021-06-01,1800.0,False
+2021_Aug,31,Potato,Rangpur,2021-07-01,1800.0,False
+2021_Aug,31,Potato,Rangpur,2021-08-01,1800.0,False
+2021_Feb,31,Rice (Medium),Dhaka,2020-09-01,4500.0,False
+2021_Feb,31,Rice (Medium),Dhaka,2020-10-01,5100.0,False
+2021_Feb,31,Rice (Medium),Dhaka,2020-11-01,5100.0,False
+2021_Feb,31,Rice (Medium),Dhaka,2020-12-01,4900.0,False
+2021_Feb,31,Rice (Medium),Dhaka,2021-01-01,4600.0,False
+2021_Feb,31,Rice (Medium),Dhaka,2021-02-01,4600.0,False
+2021_Feb,31,Rice (Medium),Chattogram,2020-09-01,4800.0,False
+2021_Feb,31,Rice (Medium),Chattogram,2020-10-01,4800.0,False
+2021_Feb,31,Rice (Medium),Chattogram,2020-11-01,4900.0,False
+2021_Feb,31,Rice (Medium),Chattogram,2020-12-01,4900.0,False
+2021_Feb,31,Rice (Medium),Chattogram,2021-01-01,4600.0,False
+2021_Feb,31,Rice (Medium),Chattogram,2021-02-01,4600.0,False
+2021_Feb,31,Rice (Medium),Rajshahi,2020-09-01,,False
+2021_Feb,31,Rice (Medium),Rajshahi,2020-10-01,4810.0,False
+2021_Feb,31,Rice (Medium),Rajshahi,2020-11-01,4827.0,False
+2021_Feb,31,Rice (Medium),Rajshahi,2020-12-01,4827.0,False
+2021_Feb,31,Rice (Medium),Rajshahi,2021-01-01,6200.0,False
+2021_Feb,31,Rice (Medium),Rajshahi,2021-02-01,6300.0,False
+2021_Feb,31,Rice (Medium),Khulna,2020-09-01,5200.0,False
+2021_Feb,31,Rice (Medium),Khulna,2020-10-01,5300.0,False
+2021_Feb,31,Rice (Medium),Khulna,2020-11-01,5250.0,False
+2021_Feb,31,Rice (Medium),Khulna,2020-12-01,5250.0,False
+2021_Feb,31,Rice (Medium),Khulna,2021-01-01,5550.0,False
+2021_Feb,31,Rice (Medium),Khulna,2021-02-01,5550.0,False
+2021_Feb,31,Rice (Medium),Sylhet,2020-09-01,5400.0,False
+2021_Feb,31,Rice (Medium),Sylhet,2020-10-01,5400.0,False
+2021_Feb,31,Rice (Medium),Sylhet,2020-11-01,5500.0,False
+2021_Feb,31,Rice (Medium),Sylhet,2020-12-01,5600.0,False
+2021_Feb,31,Rice (Medium),Sylhet,2021-01-01,5800.0,False
+2021_Feb,31,Rice (Medium),Sylhet,2021-02-01,5800.0,False
+2021_Feb,31,Rice (Medium),Rangpur,2020-09-01,5260.0,False
+2021_Feb,31,Rice (Medium),Rangpur,2020-10-01,5050.0,False
+2021_Feb,31,Rice (Medium),Rangpur,2020-11-01,4820.0,False
+2021_Feb,31,Rice (Medium),Rangpur,2020-12-01,4820.0,False
+2021_Feb,31,Rice (Medium),Rangpur,2021-01-01,4820.0,False
+2021_Feb,31,Rice (Medium),Rangpur,2021-02-01,5240.0,False
+2021_Feb,31,Rice (Coarse),Dhaka,2020-09-01,3700.0,False
+2021_Feb,31,Rice (Coarse),Dhaka,2020-10-01,4300.0,False
+2021_Feb,31,Rice (Coarse),Dhaka,2020-11-01,4000.0,False
+2021_Feb,31,Rice (Coarse),Dhaka,2020-12-01,4000.0,False
+2021_Feb,31,Rice (Coarse),Dhaka,2021-01-01,430.0,False
+2021_Feb,31,Rice (Coarse),Dhaka,2021-02-01,4700.0,False
+2021_Feb,31,Rice (Coarse),Chattogram,2020-09-01,4000.0,False
+2021_Feb,31,Rice (Coarse),Chattogram,2020-10-01,4000.0,False
+2021_Feb,31,Rice (Coarse),Chattogram,2020-11-01,4300.0,False
+2021_Feb,31,Rice (Coarse),Chattogram,2020-12-01,4300.0,False
+2021_Feb,31,Rice (Coarse),Chattogram,2021-01-01,4200.0,False
+2021_Feb,31,Rice (Coarse),Chattogram,2021-02-01,4300.0,False
+2021_Feb,31,Rice (Coarse),Rajshahi,2020-09-01,,False
+2021_Feb,31,Rice (Coarse),Rajshahi,2020-10-01,4513.0,False
+2021_Feb,31,Rice (Coarse),Rajshahi,2020-11-01,4167.0,False
+2021_Feb,31,Rice (Coarse),Rajshahi,2020-12-01,4133.0,False
+2021_Feb,31,Rice (Coarse),Rajshahi,2021-01-01,4600.0,False
+2021_Feb,31,Rice (Coarse),Rajshahi,2021-02-01,4600.0,False
+2021_Feb,31,Rice (Coarse),Khulna,2020-09-01,4400.0,False
+2021_Feb,31,Rice (Coarse),Khulna,2020-10-01,4400.0,False
+2021_Feb,31,Rice (Coarse),Khulna,2020-11-01,4400.0,False
+2021_Feb,31,Rice (Coarse),Khulna,2020-12-01,4300.0,False
+2021_Feb,31,Rice (Coarse),Khulna,2021-01-01,5000.0,False
+2021_Feb,31,Rice (Coarse),Khulna,2021-02-01,5000.0,False
+2021_Feb,31,Rice (Coarse),Sylhet,2020-09-01,4500.0,False
+2021_Feb,31,Rice (Coarse),Sylhet,2020-10-01,4500.0,False
+2021_Feb,31,Rice (Coarse),Sylhet,2020-11-01,4800.0,False
+2021_Feb,31,Rice (Coarse),Sylhet,2020-12-01,5000.0,False
+2021_Feb,31,Rice (Coarse),Sylhet,2021-01-01,5400.0,False
+2021_Feb,31,Rice (Coarse),Sylhet,2021-02-01,5400.0,False
+2021_Feb,31,Rice (Coarse),Rangpur,2020-09-01,4450.0,False
+2021_Feb,31,Rice (Coarse),Rangpur,2020-10-01,4650.0,False
+2021_Feb,31,Rice (Coarse),Rangpur,2020-11-01,4660.0,False
+2021_Feb,31,Rice (Coarse),Rangpur,2020-12-01,4660.0,False
+2021_Feb,31,Rice (Coarse),Rangpur,2021-01-01,4340.0,False
+2021_Feb,31,Rice (Coarse),Rangpur,2021-02-01,4650.0,False
+2021_Feb,31,Masur,Dhaka,2020-09-01,9500.0,False
+2021_Feb,31,Masur,Dhaka,2020-10-01,9500.0,False
+2021_Feb,31,Masur,Dhaka,2020-11-01,9500.0,False
+2021_Feb,31,Masur,Dhaka,2020-12-01,9500.0,False
+2021_Feb,31,Masur,Dhaka,2021-01-01,11000.0,False
+2021_Feb,31,Masur,Dhaka,2021-02-01,9800.0,False
+2021_Feb,31,Masur,Chattogram,2020-09-01,10000.0,False
+2021_Feb,31,Masur,Chattogram,2020-10-01,10000.0,False
+2021_Feb,31,Masur,Chattogram,2020-11-01,10000.0,False
+2021_Feb,31,Masur,Chattogram,2020-12-01,10000.0,False
+2021_Feb,31,Masur,Chattogram,2021-01-01,10500.0,False
+2021_Feb,31,Masur,Chattogram,2021-02-01,11000.0,False
+2021_Feb,31,Masur,Rajshahi,2020-09-01,,False
+2021_Feb,31,Masur,Rajshahi,2020-10-01,7587.0,False
+2021_Feb,31,Masur,Rajshahi,2020-11-01,7593.0,False
+2021_Feb,31,Masur,Rajshahi,2020-12-01,7593.0,False
+2021_Feb,31,Masur,Rajshahi,2021-01-01,10500.0,False
+2021_Feb,31,Masur,Rajshahi,2021-02-01,10500.0,False
+2021_Feb,31,Masur,Khulna,2020-09-01,9800.0,False
+2021_Feb,31,Masur,Khulna,2020-10-01,9800.0,False
+2021_Feb,31,Masur,Khulna,2020-11-01,9800.0,False
+2021_Feb,31,Masur,Khulna,2020-12-01,9800.0,False
+2021_Feb,31,Masur,Khulna,2021-01-01,11500.0,False
+2021_Feb,31,Masur,Khulna,2021-02-01,11500.0,False
+2021_Feb,31,Masur,Sylhet,2020-09-01,,False
+2021_Feb,31,Masur,Sylhet,2020-10-01,,False
+2021_Feb,31,Masur,Sylhet,2020-11-01,,False
+2021_Feb,31,Masur,Sylhet,2020-12-01,,False
+2021_Feb,31,Masur,Sylhet,2021-01-01,10000.0,False
+2021_Feb,31,Masur,Sylhet,2021-02-01,10000.0,False
+2021_Feb,31,Masur,Rangpur,2020-09-01,8040.0,False
+2021_Feb,31,Masur,Rangpur,2020-10-01,8040.0,False
+2021_Feb,31,Masur,Rangpur,2020-11-01,8040.0,False
+2021_Feb,31,Masur,Rangpur,2020-12-01,8040.0,False
+2021_Feb,31,Masur,Rangpur,2021-01-01,10500.0,False
+2021_Feb,31,Masur,Rangpur,2021-02-01,10520.0,False
+2021_Feb,32,Onion,Dhaka,2020-09-01,6500.0,False
+2021_Feb,32,Onion,Dhaka,2020-10-01,7500.0,False
+2021_Feb,32,Onion,Dhaka,2020-11-01,7500.0,False
+2021_Feb,32,Onion,Dhaka,2020-12-01,5200.0,False
+2021_Feb,32,Onion,Dhaka,2021-01-01,3500.0,False
+2021_Feb,32,Onion,Dhaka,2021-02-01,2567.0,False
+2021_Feb,32,Onion,Chattogram,2020-09-01,6400.0,False
+2021_Feb,32,Onion,Chattogram,2020-10-01,6400.0,False
+2021_Feb,32,Onion,Chattogram,2020-11-01,6500.0,False
+2021_Feb,32,Onion,Chattogram,2020-12-01,6500.0,False
+2021_Feb,32,Onion,Chattogram,2021-01-01,3100.0,False
+2021_Feb,32,Onion,Chattogram,2021-02-01,3000.0,False
+2021_Feb,32,Onion,Rajshahi,2020-09-01,,False
+2021_Feb,32,Onion,Rajshahi,2020-10-01,7440.0,False
+2021_Feb,32,Onion,Rajshahi,2020-11-01,7440.0,False
+2021_Feb,32,Onion,Rajshahi,2020-12-01,4067.0,False
+2021_Feb,32,Onion,Rajshahi,2021-01-01,2600.0,False
+2021_Feb,32,Onion,Rajshahi,2021-02-01,2050.0,False
+2021_Feb,32,Onion,Khulna,2020-09-01,7500.0,False
+2021_Feb,32,Onion,Khulna,2020-10-01,8600.0,False
+2021_Feb,32,Onion,Khulna,2020-11-01,6600.0,False
+2021_Feb,32,Onion,Khulna,2020-12-01,6600.0,False
+2021_Feb,32,Onion,Khulna,2021-01-01,3200.0,False
+2021_Feb,32,Onion,Khulna,2021-02-01,29000.0,False
+2021_Feb,32,Onion,Sylhet,2020-09-01,10000.0,False
+2021_Feb,32,Onion,Sylhet,2020-10-01,10000.0,False
+2021_Feb,32,Onion,Sylhet,2020-11-01,5000.0,False
+2021_Feb,32,Onion,Sylhet,2020-12-01,5000.0,False
+2021_Feb,32,Onion,Sylhet,2021-01-01,5000.0,False
+2021_Feb,32,Onion,Sylhet,2021-02-01,8000.0,False
+2021_Feb,32,Onion,Rangpur,2020-09-01,8500.0,False
+2021_Feb,32,Onion,Rangpur,2020-10-01,7720.0,False
+2021_Feb,32,Onion,Rangpur,2020-11-01,6200.0,False
+2021_Feb,32,Onion,Rangpur,2020-12-01,5540.0,False
+2021_Feb,32,Onion,Rangpur,2021-01-01,2800.0,False
+2021_Feb,32,Onion,Rangpur,2021-02-01,2820.0,False
+2021_Feb,33,Potato,Dhaka,2020-09-01,2700.0,False
+2021_Feb,33,Potato,Dhaka,2020-10-01,4400.0,False
+2021_Feb,33,Potato,Dhaka,2020-11-01,4100.0,False
+2021_Feb,33,Potato,Dhaka,2020-12-01,5200.0,False
+2021_Feb,33,Potato,Dhaka,2021-01-01,4500.0,False
+2021_Feb,33,Potato,Dhaka,2021-02-01,1400.0,False
+2021_Feb,33,Potato,Chattogram,2020-09-01,3200.0,False
+2021_Feb,33,Potato,Chattogram,2020-10-01,3200.0,False
+2021_Feb,33,Potato,Chattogram,2020-11-01,4200.0,False
+2021_Feb,33,Potato,Chattogram,2020-12-01,4200.0,False
+2021_Feb,33,Potato,Chattogram,2021-01-01,1400.0,False
+2021_Feb,33,Potato,Chattogram,2021-02-01,1400.0,False
+2021_Feb,33,Potato,Rajshahi,2020-09-01,,False
+2021_Feb,33,Potato,Rajshahi,2020-10-01,4253.0,False
+2021_Feb,33,Potato,Rajshahi,2020-11-01,4253.0,False
+2021_Feb,33,Potato,Rajshahi,2020-12-01,3813.0,False
+2021_Feb,33,Potato,Rajshahi,2021-01-01,1420.0,False
+2021_Feb,33,Potato,Rajshahi,2021-02-01,1440.0,False
+2021_Feb,33,Potato,Khulna,2020-09-01,3300.0,False
+2021_Feb,33,Potato,Khulna,2020-10-01,4500.0,False
+2021_Feb,33,Potato,Khulna,2020-11-01,4500.0,False
+2021_Feb,33,Potato,Khulna,2020-12-01,4500.0,False
+2021_Feb,33,Potato,Khulna,2021-01-01,1700.0,False
+2021_Feb,33,Potato,Khulna,2021-02-01,13500.0,False
+2021_Feb,33,Potato,Sylhet,2020-09-01,5000.0,False
+2021_Feb,33,Potato,Sylhet,2020-10-01,5000.0,False
+2021_Feb,33,Potato,Sylhet,2020-11-01,4000.0,False
+2021_Feb,33,Potato,Sylhet,2020-12-01,4000.0,False
+2021_Feb,33,Potato,Sylhet,2021-01-01,2000.0,False
+2021_Feb,33,Potato,Sylhet,2021-02-01,2000.0,False
+2021_Feb,33,Potato,Rangpur,2020-09-01,3500.0,False
+2021_Feb,33,Potato,Rangpur,2020-10-01,3800.0,False
+2021_Feb,33,Potato,Rangpur,2020-11-01,4000.0,False
+2021_Feb,33,Potato,Rangpur,2020-12-01,5450.0,False
+2021_Feb,33,Potato,Rangpur,2021-01-01,1800.0,False
+2021_Feb,33,Potato,Rangpur,2021-02-01,1500.0,False
+2022_Aug,29,Rice (Medium),Dhaka,2022-03-01,5000.0,False
+2022_Aug,29,Rice (Medium),Dhaka,2022-04-01,5200.0,False
+2022_Aug,29,Rice (Medium),Dhaka,2022-05-01,5400.0,False
+2022_Aug,29,Rice (Medium),Dhaka,2022-06-01,5500.0,False
+2022_Aug,29,Rice (Medium),Dhaka,2022-07-01,5800.0,False
+2022_Aug,29,Rice (Medium),Dhaka,2022-08-01,6100.0,False
+2022_Aug,29,Rice (Medium),Chattogram,2022-03-01,5100.0,False
+2022_Aug,29,Rice (Medium),Chattogram,2022-04-01,5100.0,False
+2022_Aug,29,Rice (Medium),Chattogram,2022-05-01,5500.0,False
+2022_Aug,29,Rice (Medium),Chattogram,2022-06-01,5550.0,False
+2022_Aug,29,Rice (Medium),Chattogram,2022-07-01,5200.0,False
+2022_Aug,29,Rice (Medium),Chattogram,2022-08-01,5200.0,False
+2022_Aug,29,Rice (Medium),Rajshahi,2022-03-01,5700.0,False
+2022_Aug,29,Rice (Medium),Rajshahi,2022-04-01,5700.0,False
+2022_Aug,29,Rice (Medium),Rajshahi,2022-05-01,5100.0,False
+2022_Aug,29,Rice (Medium),Rajshahi,2022-06-01,5200.0,False
+2022_Aug,29,Rice (Medium),Rajshahi,2022-07-01,5200.0,False
+2022_Aug,29,Rice (Medium),Rajshahi,2022-08-01,5500.0,False
+2022_Aug,29,Rice (Medium),Khulna,2022-03-01,5900.0,False
+2022_Aug,29,Rice (Medium),Khulna,2022-04-01,5900.0,False
+2022_Aug,29,Rice (Medium),Khulna,2022-05-01,6000.0,False
+2022_Aug,29,Rice (Medium),Khulna,2022-06-01,6000.0,False
+2022_Aug,29,Rice (Medium),Khulna,2022-07-01,6000.0,True
+2022_Aug,29,Rice (Medium),Khulna,2022-08-01,6000.0,True
+2022_Aug,29,Rice (Medium),Sylhet,2022-03-01,6020.0,False
+2022_Aug,29,Rice (Medium),Sylhet,2022-04-01,6020.0,False
+2022_Aug,29,Rice (Medium),Sylhet,2022-05-01,6500.0,False
+2022_Aug,29,Rice (Medium),Sylhet,2022-06-01,6580.0,False
+2022_Aug,29,Rice (Medium),Sylhet,2022-07-01,6600.0,False
+2022_Aug,29,Rice (Medium),Sylhet,2022-08-01,6600.0,False
+2022_Aug,29,Rice (Medium),Rangpur,2022-03-01,5220.0,False
+2022_Aug,29,Rice (Medium),Rangpur,2022-04-01,5220.0,False
+2022_Aug,29,Rice (Medium),Rangpur,2022-05-01,5350.0,False
+2022_Aug,29,Rice (Medium),Rangpur,2022-06-01,5300.0,False
+2022_Aug,29,Rice (Medium),Rangpur,2022-07-01,5220.0,False
+2022_Aug,29,Rice (Medium),Rangpur,2022-08-01,5300.0,False
+2022_Aug,29,Rice (Coarse),Dhaka,2022-03-01,4500.0,False
+2022_Aug,29,Rice (Coarse),Dhaka,2022-04-01,4500.0,False
+2022_Aug,29,Rice (Coarse),Dhaka,2022-05-01,5200.0,False
+2022_Aug,29,Rice (Coarse),Dhaka,2022-06-01,5250.0,False
+2022_Aug,29,Rice (Coarse),Dhaka,2022-07-01,4900.0,False
+2022_Aug,29,Rice (Coarse),Dhaka,2022-08-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Chattogram,2022-03-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Chattogram,2022-04-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Chattogram,2022-05-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Chattogram,2022-06-01,5200.0,False
+2022_Aug,29,Rice (Coarse),Chattogram,2022-07-01,4900.0,False
+2022_Aug,29,Rice (Coarse),Chattogram,2022-08-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Rajshahi,2022-03-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Rajshahi,2022-04-01,5250.0,False
+2022_Aug,29,Rice (Coarse),Rajshahi,2022-05-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Rajshahi,2022-06-01,5250.0,False
+2022_Aug,29,Rice (Coarse),Rajshahi,2022-07-01,5100.0,False
+2022_Aug,29,Rice (Coarse),Rajshahi,2022-08-01,5250.0,False
+2022_Aug,29,Rice (Coarse),Khulna,2022-03-01,4800.0,False
+2022_Aug,29,Rice (Coarse),Khulna,2022-04-01,4800.0,False
+2022_Aug,29,Rice (Coarse),Khulna,2022-05-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Khulna,2022-06-01,5100.0,False
+2022_Aug,29,Rice (Coarse),Khulna,2022-07-01,4900.0,False
+2022_Aug,29,Rice (Coarse),Khulna,2022-08-01,5000.0,False
+2022_Aug,29,Rice (Coarse),Sylhet,2022-03-01,5300.0,False
+2022_Aug,29,Rice (Coarse),Sylhet,2022-04-01,5300.0,False
+2022_Aug,29,Rice (Coarse),Sylhet,2022-05-01,5250.0,False
+2022_Aug,29,Rice (Coarse),Sylhet,2022-06-01,5300.0,False
+2022_Aug,29,Rice (Coarse),Sylhet,2022-07-01,5250.0,True
+2022_Aug,29,Rice (Coarse),Sylhet,2022-08-01,5300.0,True
+2022_Aug,29,Rice (Coarse),Rangpur,2022-03-01,4700.0,False
+2022_Aug,29,Rice (Coarse),Rangpur,2022-04-01,4700.0,False
+2022_Aug,29,Rice (Coarse),Rangpur,2022-05-01,4700.0,False
+2022_Aug,29,Rice (Coarse),Rangpur,2022-06-01,4800.0,False
+2022_Aug,29,Rice (Coarse),Rangpur,2022-07-01,4700.0,False
+2022_Aug,29,Rice (Coarse),Rangpur,2022-08-01,4700.0,False
+2022_Aug,29,Masur,Dhaka,2022-03-01,10200.0,False
+2022_Aug,29,Masur,Dhaka,2022-04-01,10200.0,False
+2022_Aug,29,Masur,Dhaka,2022-05-01,12200.0,False
+2022_Aug,29,Masur,Dhaka,2022-06-01,12200.0,False
+2022_Aug,29,Masur,Dhaka,2022-07-01,10000.0,False
+2022_Aug,29,Masur,Dhaka,2022-08-01,10200.0,False
+2022_Aug,29,Masur,Chattogram,2022-03-01,10000.0,False
+2022_Aug,29,Masur,Chattogram,2022-04-01,10000.0,False
+2022_Aug,29,Masur,Chattogram,2022-05-01,12500.0,False
+2022_Aug,29,Masur,Chattogram,2022-06-01,12500.0,False
+2022_Aug,29,Masur,Chattogram,2022-07-01,10000.0,False
+2022_Aug,29,Masur,Chattogram,2022-08-01,10000.0,False
+2022_Aug,29,Masur,Rajshahi,2022-03-01,10700.0,False
+2022_Aug,29,Masur,Rajshahi,2022-04-01,10700.0,False
+2022_Aug,29,Masur,Rajshahi,2022-05-01,10600.0,False
+2022_Aug,29,Masur,Rajshahi,2022-06-01,10500.0,False
+2022_Aug,29,Masur,Rajshahi,2022-07-01,12000.0,False
+2022_Aug,29,Masur,Rajshahi,2022-08-01,12400.0,False
+2022_Aug,29,Masur,Khulna,2022-03-01,10000.0,False
+2022_Aug,29,Masur,Khulna,2022-04-01,10000.0,False
+2022_Aug,29,Masur,Khulna,2022-05-01,10500.0,False
+2022_Aug,29,Masur,Khulna,2022-06-01,10500.0,False
+2022_Aug,29,Masur,Khulna,2022-07-01,10500.0,False
+2022_Aug,29,Masur,Khulna,2022-08-01,11000.0,False
+2022_Aug,29,Masur,Sylhet,2022-03-01,10350.0,False
+2022_Aug,29,Masur,Sylhet,2022-04-01,10400.0,False
+2022_Aug,29,Masur,Sylhet,2022-05-01,10350.0,False
+2022_Aug,29,Masur,Sylhet,2022-06-01,10400.0,False
+2022_Aug,29,Masur,Sylhet,2022-07-01,12200.0,False
+2022_Aug,29,Masur,Sylhet,2022-08-01,12340.0,False
+2022_Aug,29,Masur,Rangpur,2022-03-01,10800.0,False
+2022_Aug,29,Masur,Rangpur,2022-04-01,10800.0,False
+2022_Aug,29,Masur,Rangpur,2022-05-01,10800.0,False
+2022_Aug,29,Masur,Rangpur,2022-06-01,10800.0,False
+2022_Aug,29,Masur,Rangpur,2022-07-01,10800.0,False
+2022_Aug,29,Masur,Rangpur,2022-08-01,10800.0,False
+2022_Aug,30,Onion,Dhaka,2022-03-01,5300.0,False
+2022_Aug,30,Onion,Dhaka,2022-04-01,5300.0,False
+2022_Aug,30,Onion,Dhaka,2022-05-01,3800.0,False
+2022_Aug,30,Onion,Dhaka,2022-06-01,3800.0,False
+2022_Aug,30,Onion,Dhaka,2022-07-01,3800.0,False
+2022_Aug,30,Onion,Dhaka,2022-08-01,4500.0,False
+2022_Aug,30,Onion,Chattogram,2022-03-01,4500.0,False
+2022_Aug,30,Onion,Chattogram,2022-04-01,4600.0,False
+2022_Aug,30,Onion,Chattogram,2022-05-01,3700.0,False
+2022_Aug,30,Onion,Chattogram,2022-06-01,3700.0,False
+2022_Aug,30,Onion,Chattogram,2022-07-01,3800.0,False
+2022_Aug,30,Onion,Chattogram,2022-08-01,4500.0,False
+2022_Aug,30,Onion,Rajshahi,2022-03-01,3500.0,False
+2022_Aug,30,Onion,Rajshahi,2022-04-01,3500.0,False
+2022_Aug,30,Onion,Rajshahi,2022-05-01,3100.0,False
+2022_Aug,30,Onion,Rajshahi,2022-06-01,3400.0,False
+2022_Aug,30,Onion,Rajshahi,2022-07-01,4500.0,False
+2022_Aug,30,Onion,Rajshahi,2022-08-01,5000.0,False
+2022_Aug,30,Onion,Khulna,2022-03-01,4000.0,False
+2022_Aug,30,Onion,Khulna,2022-04-01,4300.0,False
+2022_Aug,30,Onion,Khulna,2022-05-01,3500.0,False
+2022_Aug,30,Onion,Khulna,2022-06-01,3600.0,False
+2022_Aug,30,Onion,Khulna,2022-07-01,4500.0,False
+2022_Aug,30,Onion,Khulna,2022-08-01,5000.0,False
+2022_Aug,30,Onion,Sylhet,2022-03-01,4400.0,False
+2022_Aug,30,Onion,Sylhet,2022-04-01,4500.0,False
+2022_Aug,30,Onion,Sylhet,2022-05-01,3000.0,False
+2022_Aug,30,Onion,Sylhet,2022-06-01,3200.0,False
+2022_Aug,30,Onion,Sylhet,2022-07-01,4800.0,False
+2022_Aug,30,Onion,Sylhet,2022-08-01,4900.0,False
+2022_Aug,30,Onion,Rangpur,2022-03-01,4500.0,False
+2022_Aug,30,Onion,Rangpur,2022-04-01,4600.0,False
+2022_Aug,30,Onion,Rangpur,2022-05-01,4500.0,False
+2022_Aug,30,Onion,Rangpur,2022-06-01,4600.0,False
+2022_Aug,30,Onion,Rangpur,2022-07-01,4500.0,False
+2022_Aug,30,Onion,Rangpur,2022-08-01,4500.0,False
+2022_Aug,31,Potato,Dhaka,2022-03-01,2200.0,False
+2022_Aug,31,Potato,Dhaka,2022-04-01,2200.0,False
+2022_Aug,31,Potato,Dhaka,2022-05-01,2200.0,False
+2022_Aug,31,Potato,Dhaka,2022-06-01,2000.0,False
+2022_Aug,31,Potato,Dhaka,2022-07-01,2600.0,False
+2022_Aug,31,Potato,Dhaka,2022-08-01,2600.0,False
+2022_Aug,31,Potato,Chattogram,2022-03-01,2500.0,False
+2022_Aug,31,Potato,Chattogram,2022-04-01,2500.0,False
+2022_Aug,31,Potato,Chattogram,2022-05-01,1600.0,False
+2022_Aug,31,Potato,Chattogram,2022-06-01,1700.0,False
+2022_Aug,31,Potato,Chattogram,2022-07-01,2200.0,False
+2022_Aug,31,Potato,Chattogram,2022-08-01,2200.0,False
+2022_Aug,31,Potato,Rajshahi,2022-03-01,2000.0,False
+2022_Aug,31,Potato,Rajshahi,2022-04-01,2800.0,False
+2022_Aug,31,Potato,Rajshahi,2022-05-01,1700.0,False
+2022_Aug,31,Potato,Rajshahi,2022-06-01,1850.0,False
+2022_Aug,31,Potato,Rajshahi,2022-07-01,2500.0,False
+2022_Aug,31,Potato,Rajshahi,2022-08-01,2500.0,False
+2022_Aug,31,Potato,Khulna,2022-03-01,1500.0,False
+2022_Aug,31,Potato,Khulna,2022-04-01,1600.0,False
+2022_Aug,31,Potato,Khulna,2022-05-01,1800.0,False
+2022_Aug,31,Potato,Khulna,2022-06-01,1800.0,False
+2022_Aug,31,Potato,Khulna,2022-07-01,4000.0,False
+2022_Aug,31,Potato,Khulna,2022-08-01,4000.0,False
+2022_Aug,31,Potato,Sylhet,2022-03-01,2000.0,False
+2022_Aug,31,Potato,Sylhet,2022-04-01,1980.0,False
+2022_Aug,31,Potato,Sylhet,2022-05-01,1500.0,False
+2022_Aug,31,Potato,Sylhet,2022-06-01,1550.0,False
+2022_Aug,31,Potato,Sylhet,2022-07-01,2000.0,False
+2022_Aug,31,Potato,Sylhet,2022-08-01,1980.0,False
+2022_Aug,31,Potato,Rangpur,2022-03-01,2200.0,False
+2022_Aug,31,Potato,Rangpur,2022-04-01,2300.0,False
+2022_Aug,31,Potato,Rangpur,2022-05-01,2200.0,False
+2022_Aug,31,Potato,Rangpur,2022-06-01,2200.0,False
+2022_Aug,31,Potato,Rangpur,2022-07-01,2200.0,False
+2022_Aug,31,Potato,Rangpur,2022-08-01,2400.0,False
+2022_Feb,29,Rice (Medium),Dhaka,2021-09-01,4600.0,False
+2022_Feb,29,Rice (Medium),Dhaka,2021-10-01,4700.0,False
+2022_Feb,29,Rice (Medium),Dhaka,2021-11-01,4700.0,False
+2022_Feb,29,Rice (Medium),Dhaka,2021-12-01,4700.0,False
+2022_Feb,29,Rice (Medium),Dhaka,2022-01-01,5100.0,False
+2022_Feb,29,Rice (Medium),Dhaka,2022-02-01,5000.0,False
+2022_Feb,29,Rice (Medium),Chattogram,2021-09-01,5800.0,False
+2022_Feb,29,Rice (Medium),Chattogram,2021-10-01,5800.0,False
+2022_Feb,29,Rice (Medium),Chattogram,2021-11-01,5900.0,False
+2022_Feb,29,Rice (Medium),Chattogram,2021-12-01,5100.0,False
+2022_Feb,29,Rice (Medium),Chattogram,2022-01-01,5100.0,False
+2022_Feb,29,Rice (Medium),Chattogram,2022-02-01,5100.0,False
+2022_Feb,29,Rice (Medium),Rajshahi,2021-09-01,5500.0,False
+2022_Feb,29,Rice (Medium),Rajshahi,2021-10-01,5600.0,False
+2022_Feb,29,Rice (Medium),Rajshahi,2021-11-01,5700.0,False
+2022_Feb,29,Rice (Medium),Rajshahi,2021-12-01,5700.0,False
+2022_Feb,29,Rice (Medium),Rajshahi,2022-01-01,5700.0,True
+2022_Feb,29,Rice (Medium),Rajshahi,2022-02-01,5700.0,True
+2022_Feb,29,Rice (Medium),Khulna,2021-09-01,5700.0,False
+2022_Feb,29,Rice (Medium),Khulna,2021-10-01,5300.0,False
+2022_Feb,29,Rice (Medium),Khulna,2021-11-01,5300.0,False
+2022_Feb,29,Rice (Medium),Khulna,2021-12-01,5300.0,False
+2022_Feb,29,Rice (Medium),Khulna,2022-01-01,5200.0,False
+2022_Feb,29,Rice (Medium),Khulna,2022-02-01,5300.0,False
+2022_Feb,29,Rice (Medium),Sylhet,2021-09-01,6000.0,False
+2022_Feb,29,Rice (Medium),Sylhet,2021-10-01,6200.0,False
+2022_Feb,29,Rice (Medium),Sylhet,2021-11-01,6020.0,False
+2022_Feb,29,Rice (Medium),Sylhet,2021-12-01,6020.0,False
+2022_Feb,29,Rice (Medium),Sylhet,2022-01-01,6020.0,True
+2022_Feb,29,Rice (Medium),Sylhet,2022-02-01,6020.0,True
+2022_Feb,29,Rice (Medium),Rangpur,2021-09-01,5220.0,False
+2022_Feb,29,Rice (Medium),Rangpur,2021-10-01,5220.0,False
+2022_Feb,29,Rice (Medium),Rangpur,2021-11-01,5220.0,False
+2022_Feb,29,Rice (Medium),Rangpur,2021-12-01,5220.0,False
+2022_Feb,29,Rice (Medium),Rangpur,2022-01-01,5220.0,False
+2022_Feb,29,Rice (Medium),Rangpur,2022-02-01,5220.0,False
+2022_Feb,29,Rice (Coarse),Dhaka,2021-09-01,4200.0,False
+2022_Feb,29,Rice (Coarse),Dhaka,2021-10-01,4100.0,False
+2022_Feb,29,Rice (Coarse),Dhaka,2021-11-01,4200.0,False
+2022_Feb,29,Rice (Coarse),Dhaka,2021-12-01,4200.0,False
+2022_Feb,29,Rice (Coarse),Dhaka,2022-01-01,4300.0,False
+2022_Feb,29,Rice (Coarse),Dhaka,2022-02-01,4250.0,False
+2022_Feb,29,Rice (Coarse),Chattogram,2021-09-01,4900.0,False
+2022_Feb,29,Rice (Coarse),Chattogram,2021-10-01,5000.0,False
+2022_Feb,29,Rice (Coarse),Chattogram,2021-11-01,5000.0,False
+2022_Feb,29,Rice (Coarse),Chattogram,2021-12-01,5000.0,False
+2022_Feb,29,Rice (Coarse),Chattogram,2022-01-01,4900.0,False
+2022_Feb,29,Rice (Coarse),Chattogram,2022-02-01,5000.0,False
+2022_Feb,29,Rice (Coarse),Rajshahi,2021-09-01,4500.0,False
+2022_Feb,29,Rice (Coarse),Rajshahi,2021-10-01,4500.0,False
+2022_Feb,29,Rice (Coarse),Rajshahi,2021-11-01,4900.0,False
+2022_Feb,29,Rice (Coarse),Rajshahi,2021-12-01,4900.0,False
+2022_Feb,29,Rice (Coarse),Rajshahi,2022-01-01,5250.0,False
+2022_Feb,29,Rice (Coarse),Rajshahi,2022-02-01,5250.0,False
+2022_Feb,29,Rice (Coarse),Khulna,2021-09-01,5200.0,False
+2022_Feb,29,Rice (Coarse),Khulna,2021-10-01,4800.0,False
+2022_Feb,29,Rice (Coarse),Khulna,2021-11-01,4800.0,False
+2022_Feb,29,Rice (Coarse),Khulna,2021-12-01,4800.0,False
+2022_Feb,29,Rice (Coarse),Khulna,2022-01-01,4800.0,True
+2022_Feb,29,Rice (Coarse),Khulna,2022-02-01,4800.0,True
+2022_Feb,29,Rice (Coarse),Sylhet,2021-09-01,5450.0,False
+2022_Feb,29,Rice (Coarse),Sylhet,2021-10-01,5550.0,False
+2022_Feb,29,Rice (Coarse),Sylhet,2021-11-01,5250.0,False
+2022_Feb,29,Rice (Coarse),Sylhet,2021-12-01,5250.0,False
+2022_Feb,29,Rice (Coarse),Sylhet,2022-01-01,5250.0,True
+2022_Feb,29,Rice (Coarse),Sylhet,2022-02-01,5250.0,True
+2022_Feb,29,Rice (Coarse),Rangpur,2021-09-01,4700.0,False
+2022_Feb,29,Rice (Coarse),Rangpur,2021-10-01,4700.0,False
+2022_Feb,29,Rice (Coarse),Rangpur,2021-11-01,4700.0,False
+2022_Feb,29,Rice (Coarse),Rangpur,2021-12-01,4700.0,False
+2022_Feb,29,Rice (Coarse),Rangpur,2022-01-01,4700.0,False
+2022_Feb,29,Rice (Coarse),Rangpur,2022-02-01,4700.0,False
+2022_Feb,29,Masur,Dhaka,2021-09-01,9200.0,False
+2022_Feb,29,Masur,Dhaka,2021-10-01,11800.0,False
+2022_Feb,29,Masur,Dhaka,2021-11-01,9600.0,False
+2022_Feb,29,Masur,Dhaka,2021-12-01,9600.0,False
+2022_Feb,29,Masur,Dhaka,2022-01-01,9700.0,False
+2022_Feb,29,Masur,Dhaka,2022-02-01,9800.0,False
+2022_Feb,29,Masur,Chattogram,2021-09-01,11300.0,False
+2022_Feb,29,Masur,Chattogram,2021-10-01,10000.0,False
+2022_Feb,29,Masur,Chattogram,2021-11-01,11000.0,False
+2022_Feb,29,Masur,Chattogram,2021-12-01,10000.0,False
+2022_Feb,29,Masur,Chattogram,2022-01-01,10000.0,False
+2022_Feb,29,Masur,Chattogram,2022-02-01,10000.0,False
+2022_Feb,29,Masur,Rajshahi,2021-09-01,11500.0,False
+2022_Feb,29,Masur,Rajshahi,2021-10-01,10400.0,False
+2022_Feb,29,Masur,Rajshahi,2021-11-01,10600.0,False
+2022_Feb,29,Masur,Rajshahi,2021-12-01,10600.0,False
+2022_Feb,29,Masur,Rajshahi,2022-01-01,10600.0,True
+2022_Feb,29,Masur,Rajshahi,2022-02-01,10600.0,True
+2022_Feb,29,Masur,Khulna,2021-09-01,11500.0,False
+2022_Feb,29,Masur,Khulna,2021-10-01,9200.0,False
+2022_Feb,29,Masur,Khulna,2021-11-01,9200.0,False
+2022_Feb,29,Masur,Khulna,2021-12-01,9200.0,False
+2022_Feb,29,Masur,Khulna,2022-01-01,9200.0,True
+2022_Feb,29,Masur,Khulna,2022-02-01,9200.0,True
+2022_Feb,29,Masur,Sylhet,2021-09-01,10200.0,False
+2022_Feb,29,Masur,Sylhet,2021-10-01,10200.0,False
+2022_Feb,29,Masur,Sylhet,2021-11-01,10200.0,False
+2022_Feb,29,Masur,Sylhet,2021-12-01,10200.0,False
+2022_Feb,29,Masur,Sylhet,2022-01-01,10200.0,False
+2022_Feb,29,Masur,Sylhet,2022-02-01,10200.0,False
+2022_Feb,29,Masur,Rangpur,2021-09-01,10520.0,False
+2022_Feb,29,Masur,Rangpur,2021-10-01,10520.0,False
+2022_Feb,29,Masur,Rangpur,2021-11-01,10520.0,False
+2022_Feb,29,Masur,Rangpur,2021-12-01,10520.0,False
+2022_Feb,29,Masur,Rangpur,2022-01-01,10800.0,False
+2022_Feb,29,Masur,Rangpur,2022-02-01,10800.0,False
+2022_Feb,30,Onion,Dhaka,2021-09-01,3700.0,False
+2022_Feb,30,Onion,Dhaka,2021-10-01,5600.0,False
+2022_Feb,30,Onion,Dhaka,2021-11-01,4800.0,False
+2022_Feb,30,Onion,Dhaka,2021-12-01,4800.0,False
+2022_Feb,30,Onion,Dhaka,2022-01-01,5000.0,False
+2022_Feb,30,Onion,Dhaka,2022-02-01,5000.0,False
+2022_Feb,30,Onion,Chattogram,2021-09-01,3800.0,False
+2022_Feb,30,Onion,Chattogram,2021-10-01,5300.0,False
+2022_Feb,30,Onion,Chattogram,2021-11-01,4500.0,False
+2022_Feb,30,Onion,Chattogram,2021-12-01,4500.0,False
+2022_Feb,30,Onion,Chattogram,2022-01-01,4500.0,True
+2022_Feb,30,Onion,Chattogram,2022-02-01,4500.0,True
+2022_Feb,30,Onion,Rajshahi,2021-09-01,4200.0,False
+2022_Feb,30,Onion,Rajshahi,2021-10-01,5100.0,False
+2022_Feb,30,Onion,Rajshahi,2021-11-01,1300.0,False
+2022_Feb,30,Onion,Rajshahi,2021-12-01,1300.0,False
+2022_Feb,30,Onion,Rajshahi,2022-01-01,3500.0,False
+2022_Feb,30,Onion,Rajshahi,2022-02-01,3500.0,False
+2022_Feb,30,Onion,Khulna,2021-09-01,4400.0,False
+2022_Feb,30,Onion,Khulna,2021-10-01,5000.0,False
+2022_Feb,30,Onion,Khulna,2021-11-01,5500.0,False
+2022_Feb,30,Onion,Khulna,2021-12-01,5500.0,False
+2022_Feb,30,Onion,Khulna,2022-01-01,4500.0,False
+2022_Feb,30,Onion,Khulna,2022-02-01,5000.0,False
+2022_Feb,30,Onion,Sylhet,2021-09-01,4000.0,False
+2022_Feb,30,Onion,Sylhet,2021-10-01,6000.0,False
+2022_Feb,30,Onion,Sylhet,2021-11-01,6000.0,False
+2022_Feb,30,Onion,Sylhet,2021-12-01,4500.0,False
+2022_Feb,30,Onion,Sylhet,2022-01-01,4500.0,False
+2022_Feb,30,Onion,Sylhet,2022-02-01,4600.0,False
+2022_Feb,30,Onion,Rangpur,2021-09-01,4000.0,False
+2022_Feb,30,Onion,Rangpur,2021-10-01,5000.0,False
+2022_Feb,30,Onion,Rangpur,2021-11-01,5500.0,False
+2022_Feb,30,Onion,Rangpur,2021-12-01,5500.0,False
+2022_Feb,30,Onion,Rangpur,2022-01-01,5500.0,True
+2022_Feb,30,Onion,Rangpur,2022-02-01,5500.0,True
+2022_Feb,31,Potato,Dhaka,2021-09-01,1400.0,False
+2022_Feb,31,Potato,Dhaka,2021-10-01,1700.0,False
+2022_Feb,31,Potato,Dhaka,2021-11-01,2200.0,False
+2022_Feb,31,Potato,Dhaka,2021-12-01,2200.0,False
+2022_Feb,31,Potato,Dhaka,2022-01-01,2300.0,False
+2022_Feb,31,Potato,Dhaka,2022-02-01,2200.0,False
+2022_Feb,31,Potato,Chattogram,2021-09-01,1500.0,False
+2022_Feb,31,Potato,Chattogram,2021-10-01,1400.0,False
+2022_Feb,31,Potato,Chattogram,2021-11-01,2100.0,False
+2022_Feb,31,Potato,Chattogram,2021-12-01,2500.0,False
+2022_Feb,31,Potato,Chattogram,2022-01-01,2500.0,False
+2022_Feb,31,Potato,Chattogram,2022-02-01,2500.0,False
+2022_Feb,31,Potato,Rajshahi,2021-09-01,1600.0,False
+2022_Feb,31,Potato,Rajshahi,2021-10-01,1900.0,False
+2022_Feb,31,Potato,Rajshahi,2021-11-01,2000.0,False
+2022_Feb,31,Potato,Rajshahi,2021-12-01,2200.0,False
+2022_Feb,31,Potato,Rajshahi,2022-01-01,3000.0,False
+2022_Feb,31,Potato,Rajshahi,2022-02-01,2800.0,False
+2022_Feb,31,Potato,Khulna,2021-09-01,2000.0,False
+2022_Feb,31,Potato,Khulna,2021-10-01,1850.0,False
+2022_Feb,31,Potato,Khulna,2021-11-01,2100.0,False
+2022_Feb,31,Potato,Khulna,2021-12-01,2100.0,False
+2022_Feb,31,Potato,Khulna,2022-01-01,1500.0,False
+2022_Feb,31,Potato,Khulna,2022-02-01,1600.0,False
+2022_Feb,31,Potato,Sylhet,2021-09-01,2000.0,False
+2022_Feb,31,Potato,Sylhet,2021-10-01,2000.0,False
+2022_Feb,31,Potato,Sylhet,2021-11-01,1800.0,False
+2022_Feb,31,Potato,Sylhet,2021-12-01,1900.0,False
+2022_Feb,31,Potato,Sylhet,2022-01-01,1900.0,False
+2022_Feb,31,Potato,Sylhet,2022-02-01,1950.0,False
+2022_Feb,31,Potato,Rangpur,2021-09-01,2400.0,False
+2022_Feb,31,Potato,Rangpur,2021-10-01,2400.0,False
+2022_Feb,31,Potato,Rangpur,2021-11-01,2400.0,False
+2022_Feb,31,Potato,Rangpur,2021-12-01,2500.0,False
+2022_Feb,31,Potato,Rangpur,2022-01-01,2900.0,False
+2022_Feb,31,Potato,Rangpur,2022-02-01,2800.0,False
+2023_Aug,35,Rice (Medium),Dhaka,2023-03-01,6500.0,False
+2023_Aug,35,Rice (Medium),Dhaka,2023-04-01,6500.0,False
+2023_Aug,35,Rice (Medium),Dhaka,2023-05-01,6300.0,False
+2023_Aug,35,Rice (Medium),Dhaka,2023-06-01,6300.0,False
+2023_Aug,35,Rice (Medium),Dhaka,2023-07-01,6100.0,False
+2023_Aug,35,Rice (Medium),Dhaka,2023-08-01,6100.0,False
+2023_Aug,35,Rice (Medium),Chattogram,2023-03-01,6200.0,False
+2023_Aug,35,Rice (Medium),Chattogram,2023-04-01,6000.0,False
+2023_Aug,35,Rice (Medium),Chattogram,2023-05-01,6000.0,False
+2023_Aug,35,Rice (Medium),Chattogram,2023-06-01,6000.0,False
+2023_Aug,35,Rice (Medium),Chattogram,2023-07-01,6300.0,False
+2023_Aug,35,Rice (Medium),Chattogram,2023-08-01,6200.0,False
+2023_Aug,35,Rice (Medium),Rajshahi,2023-03-01,5700.0,False
+2023_Aug,35,Rice (Medium),Rajshahi,2023-04-01,5800.0,False
+2023_Aug,35,Rice (Medium),Rajshahi,2023-05-01,5700.0,False
+2023_Aug,35,Rice (Medium),Rajshahi,2023-06-01,5700.0,False
+2023_Aug,35,Rice (Medium),Rajshahi,2023-07-01,5600.0,False
+2023_Aug,35,Rice (Medium),Rajshahi,2023-08-01,5600.0,False
+2023_Aug,35,Rice (Medium),Khulna,2023-03-01,5900.0,False
+2023_Aug,35,Rice (Medium),Khulna,2023-04-01,5900.0,False
+2023_Aug,35,Rice (Medium),Khulna,2023-05-01,5800.0,False
+2023_Aug,35,Rice (Medium),Khulna,2023-06-01,5900.0,False
+2023_Aug,35,Rice (Medium),Khulna,2023-07-01,5500.0,False
+2023_Aug,35,Rice (Medium),Khulna,2023-08-01,5367.0,False
+2023_Aug,35,Rice (Medium),Sylhet,2023-03-01,6760.0,False
+2023_Aug,35,Rice (Medium),Sylhet,2023-04-01,6700.0,False
+2023_Aug,35,Rice (Medium),Sylhet,2023-05-01,6700.0,False
+2023_Aug,35,Rice (Medium),Sylhet,2023-06-01,6700.0,False
+2023_Aug,35,Rice (Medium),Sylhet,2023-07-01,6600.0,False
+2023_Aug,35,Rice (Medium),Sylhet,2023-08-01,6600.0,False
+2023_Aug,35,Rice (Medium),Rangpur,2023-03-01,5480.0,False
+2023_Aug,35,Rice (Medium),Rangpur,2023-04-01,5500.0,False
+2023_Aug,35,Rice (Medium),Rangpur,2023-05-01,5480.0,False
+2023_Aug,35,Rice (Medium),Rangpur,2023-06-01,5500.0,False
+2023_Aug,35,Rice (Medium),Rangpur,2023-07-01,5200.0,False
+2023_Aug,35,Rice (Medium),Rangpur,2023-08-01,5200.0,False
+2023_Aug,35,Rice (Coarse),Dhaka,2023-03-01,5500.0,False
+2023_Aug,35,Rice (Coarse),Dhaka,2023-04-01,5500.0,False
+2023_Aug,35,Rice (Coarse),Dhaka,2023-05-01,5200.0,False
+2023_Aug,35,Rice (Coarse),Dhaka,2023-06-01,5200.0,False
+2023_Aug,35,Rice (Coarse),Dhaka,2023-07-01,5500.0,False
+2023_Aug,35,Rice (Coarse),Dhaka,2023-08-01,5000.0,False
+2023_Aug,35,Rice (Coarse),Chattogram,2023-03-01,5000.0,False
+2023_Aug,35,Rice (Coarse),Chattogram,2023-04-01,5100.0,False
+2023_Aug,35,Rice (Coarse),Chattogram,2023-05-01,5000.0,False
+2023_Aug,35,Rice (Coarse),Chattogram,2023-06-01,5100.0,False
+2023_Aug,35,Rice (Coarse),Chattogram,2023-07-01,5300.0,False
+2023_Aug,35,Rice (Coarse),Chattogram,2023-08-01,5100.0,False
+2023_Aug,35,Rice (Coarse),Rajshahi,2023-03-01,5350.0,False
+2023_Aug,35,Rice (Coarse),Rajshahi,2023-04-01,5400.0,False
+2023_Aug,35,Rice (Coarse),Rajshahi,2023-05-01,5350.0,False
+2023_Aug,35,Rice (Coarse),Rajshahi,2023-06-01,5400.0,False
+2023_Aug,35,Rice (Coarse),Rajshahi,2023-07-01,5300.0,False
+2023_Aug,35,Rice (Coarse),Rajshahi,2023-08-01,5300.0,False
+2023_Aug,35,Rice (Coarse),Khulna,2023-03-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Khulna,2023-04-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Khulna,2023-05-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Khulna,2023-06-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Khulna,2023-07-01,4700.0,False
+2023_Aug,35,Rice (Coarse),Khulna,2023-08-01,4550.0,False
+2023_Aug,35,Rice (Coarse),Sylhet,2023-03-01,5280.0,False
+2023_Aug,35,Rice (Coarse),Sylhet,2023-04-01,5280.0,False
+2023_Aug,35,Rice (Coarse),Sylhet,2023-05-01,5200.0,False
+2023_Aug,35,Rice (Coarse),Sylhet,2023-06-01,5200.0,False
+2023_Aug,35,Rice (Coarse),Sylhet,2023-07-01,5200.0,True
+2023_Aug,35,Rice (Coarse),Sylhet,2023-08-01,5200.0,True
+2023_Aug,35,Rice (Coarse),Rangpur,2023-03-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Rangpur,2023-04-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Rangpur,2023-05-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Rangpur,2023-06-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Rangpur,2023-07-01,4800.0,False
+2023_Aug,35,Rice (Coarse),Rangpur,2023-08-01,4800.0,False
+2023_Aug,35,Masur,Dhaka,2023-03-01,12500.0,False
+2023_Aug,35,Masur,Dhaka,2023-04-01,12300.0,False
+2023_Aug,35,Masur,Dhaka,2023-05-01,12300.0,False
+2023_Aug,35,Masur,Dhaka,2023-06-01,12300.0,False
+2023_Aug,35,Masur,Dhaka,2023-07-01,12300.0,False
+2023_Aug,35,Masur,Dhaka,2023-08-01,12350.0,False
+2023_Aug,35,Masur,Chattogram,2023-03-01,13200.0,False
+2023_Aug,35,Masur,Chattogram,2023-04-01,13200.0,False
+2023_Aug,35,Masur,Chattogram,2023-05-01,13000.0,False
+2023_Aug,35,Masur,Chattogram,2023-06-01,13000.0,False
+2023_Aug,35,Masur,Chattogram,2023-07-01,13200.0,False
+2023_Aug,35,Masur,Chattogram,2023-08-01,13200.0,False
+2023_Aug,35,Masur,Rajshahi,2023-03-01,13500.0,False
+2023_Aug,35,Masur,Rajshahi,2023-04-01,13500.0,False
+2023_Aug,35,Masur,Rajshahi,2023-05-01,13000.0,False
+2023_Aug,35,Masur,Rajshahi,2023-06-01,13000.0,False
+2023_Aug,35,Masur,Rajshahi,2023-07-01,13200.0,False
+2023_Aug,35,Masur,Rajshahi,2023-08-01,13200.0,False
+2023_Aug,35,Masur,Khulna,2023-03-01,12600.0,False
+2023_Aug,35,Masur,Khulna,2023-04-01,12600.0,False
+2023_Aug,35,Masur,Khulna,2023-05-01,12500.0,False
+2023_Aug,35,Masur,Khulna,2023-06-01,12600.0,False
+2023_Aug,35,Masur,Khulna,2023-07-01,12800.0,False
+2023_Aug,35,Masur,Khulna,2023-08-01,12800.0,False
+2023_Aug,35,Masur,Sylhet,2023-03-01,12500.0,False
+2023_Aug,35,Masur,Sylhet,2023-04-01,12500.0,False
+2023_Aug,35,Masur,Sylhet,2023-05-01,12400.0,False
+2023_Aug,35,Masur,Sylhet,2023-06-01,12500.0,False
+2023_Aug,35,Masur,Sylhet,2023-07-01,12400.0,False
+2023_Aug,35,Masur,Sylhet,2023-08-01,12400.0,False
+2023_Aug,35,Masur,Rangpur,2023-03-01,12500.0,False
+2023_Aug,35,Masur,Rangpur,2023-04-01,12500.0,False
+2023_Aug,35,Masur,Rangpur,2023-05-01,12300.0,False
+2023_Aug,35,Masur,Rangpur,2023-06-01,12300.0,False
+2023_Aug,35,Masur,Rangpur,2023-07-01,12300.0,True
+2023_Aug,35,Masur,Rangpur,2023-08-01,12300.0,True
+2023_Aug,36,Onion,Dhaka,2023-03-01,3000.0,False
+2023_Aug,36,Onion,Dhaka,2023-04-01,3100.0,False
+2023_Aug,36,Onion,Dhaka,2023-05-01,6000.0,False
+2023_Aug,36,Onion,Dhaka,2023-06-01,6800.0,False
+2023_Aug,36,Onion,Dhaka,2023-07-01,6800.0,False
+2023_Aug,36,Onion,Dhaka,2023-08-01,7300.0,False
+2023_Aug,36,Onion,Chattogram,2023-03-01,3000.0,False
+2023_Aug,36,Onion,Chattogram,2023-04-01,3200.0,False
+2023_Aug,36,Onion,Chattogram,2023-05-01,5500.0,False
+2023_Aug,36,Onion,Chattogram,2023-06-01,6600.0,False
+2023_Aug,36,Onion,Chattogram,2023-07-01,6600.0,False
+2023_Aug,36,Onion,Chattogram,2023-08-01,6800.0,False
+2023_Aug,36,Onion,Rajshahi,2023-03-01,2800.0,False
+2023_Aug,36,Onion,Rajshahi,2023-04-01,2900.0,False
+2023_Aug,36,Onion,Rajshahi,2023-05-01,5400.0,False
+2023_Aug,36,Onion,Rajshahi,2023-06-01,6500.0,False
+2023_Aug,36,Onion,Rajshahi,2023-07-01,6800.0,False
+2023_Aug,36,Onion,Rajshahi,2023-08-01,7000.0,False
+2023_Aug,36,Onion,Khulna,2023-03-01,3100.0,False
+2023_Aug,36,Onion,Khulna,2023-04-01,3100.0,False
+2023_Aug,36,Onion,Khulna,2023-05-01,5200.0,False
+2023_Aug,36,Onion,Khulna,2023-06-01,6500.0,False
+2023_Aug,36,Onion,Khulna,2023-07-01,6600.0,False
+2023_Aug,36,Onion,Khulna,2023-08-01,7100.0,False
+2023_Aug,36,Onion,Sylhet,2023-03-01,3000.0,False
+2023_Aug,36,Onion,Sylhet,2023-04-01,3000.0,False
+2023_Aug,36,Onion,Sylhet,2023-05-01,5400.0,False
+2023_Aug,36,Onion,Sylhet,2023-06-01,6600.0,False
+2023_Aug,36,Onion,Sylhet,2023-07-01,6800.0,False
+2023_Aug,36,Onion,Sylhet,2023-08-01,7200.0,False
+2023_Aug,36,Onion,Rangpur,2023-03-01,3000.0,False
+2023_Aug,36,Onion,Rangpur,2023-04-01,3000.0,False
+2023_Aug,36,Onion,Rangpur,2023-05-01,5600.0,False
+2023_Aug,36,Onion,Rangpur,2023-06-01,6600.0,False
+2023_Aug,36,Onion,Rangpur,2023-07-01,6900.0,False
+2023_Aug,36,Onion,Rangpur,2023-08-01,7100.0,False
+2023_Aug,37,Potato,Dhaka,2023-03-01,2500.0,False
+2023_Aug,37,Potato,Dhaka,2023-04-01,2600.0,False
+2023_Aug,37,Potato,Dhaka,2023-05-01,3800.0,False
+2023_Aug,37,Potato,Dhaka,2023-06-01,4200.0,False
+2023_Aug,37,Potato,Dhaka,2023-07-01,4200.0,False
+2023_Aug,37,Potato,Dhaka,2023-08-01,4200.0,False
+2023_Aug,37,Potato,Chattogram,2023-03-01,2800.0,False
+2023_Aug,37,Potato,Chattogram,2023-04-01,2800.0,False
+2023_Aug,37,Potato,Chattogram,2023-05-01,3800.0,False
+2023_Aug,37,Potato,Chattogram,2023-06-01,4000.0,False
+2023_Aug,37,Potato,Chattogram,2023-07-01,4000.0,False
+2023_Aug,37,Potato,Chattogram,2023-08-01,4200.0,False
+2023_Aug,37,Potato,Rajshahi,2023-03-01,2000.0,False
+2023_Aug,37,Potato,Rajshahi,2023-04-01,1800.0,False
+2023_Aug,37,Potato,Rajshahi,2023-05-01,3500.0,False
+2023_Aug,37,Potato,Rajshahi,2023-06-01,3800.0,False
+2023_Aug,37,Potato,Rajshahi,2023-07-01,3800.0,False
+2023_Aug,37,Potato,Rajshahi,2023-08-01,3800.0,False
+2023_Aug,37,Potato,Khulna,2023-03-01,2500.0,False
+2023_Aug,37,Potato,Khulna,2023-04-01,2400.0,False
+2023_Aug,37,Potato,Khulna,2023-05-01,3500.0,False
+2023_Aug,37,Potato,Khulna,2023-06-01,3800.0,False
+2023_Aug,37,Potato,Khulna,2023-07-01,3800.0,False
+2023_Aug,37,Potato,Khulna,2023-08-01,3900.0,False
+2023_Aug,37,Potato,Sylhet,2023-03-01,2400.0,False
+2023_Aug,37,Potato,Sylhet,2023-04-01,2400.0,False
+2023_Aug,37,Potato,Sylhet,2023-05-01,3700.0,False
+2023_Aug,37,Potato,Sylhet,2023-06-01,4100.0,False
+2023_Aug,37,Potato,Sylhet,2023-07-01,4200.0,False
+2023_Aug,37,Potato,Sylhet,2023-08-01,4200.0,False
+2023_Aug,37,Potato,Rangpur,2023-03-01,3500.0,False
+2023_Aug,37,Potato,Rangpur,2023-04-01,3500.0,False
+2023_Aug,37,Potato,Rangpur,2023-05-01,3700.0,False
+2023_Aug,37,Potato,Rangpur,2023-06-01,4200.0,False
+2023_Aug,37,Potato,Rangpur,2023-07-01,4000.0,False
+2023_Aug,37,Potato,Rangpur,2023-08-01,4200.0,False
+2023_Feb,29,Rice (Medium),Dhaka,2022-09-01,6400.0,False
+2023_Feb,29,Rice (Medium),Dhaka,2022-10-01,6500.0,False
+2023_Feb,29,Rice (Medium),Dhaka,2022-11-01,6500.0,False
+2023_Feb,29,Rice (Medium),Dhaka,2022-12-01,6400.0,False
+2023_Feb,29,Rice (Medium),Dhaka,2023-01-01,6500.0,False
+2023_Feb,29,Rice (Medium),Dhaka,2023-02-01,6500.0,False
+2023_Feb,29,Rice (Medium),Chattogram,2022-09-01,5300.0,False
+2023_Feb,29,Rice (Medium),Chattogram,2022-10-01,5300.0,False
+2023_Feb,29,Rice (Medium),Chattogram,2022-11-01,5600.0,False
+2023_Feb,29,Rice (Medium),Chattogram,2022-12-01,5600.0,False
+2023_Feb,29,Rice (Medium),Chattogram,2023-01-01,6200.0,False
+2023_Feb,29,Rice (Medium),Chattogram,2023-02-01,6000.0,False
+2023_Feb,29,Rice (Medium),Rajshahi,2022-09-01,5200.0,False
+2023_Feb,29,Rice (Medium),Rajshahi,2022-10-01,5200.0,False
+2023_Feb,29,Rice (Medium),Rajshahi,2022-11-01,5200.0,False
+2023_Feb,29,Rice (Medium),Rajshahi,2022-12-01,5200.0,False
+2023_Feb,29,Rice (Medium),Rajshahi,2023-01-01,5700.0,False
+2023_Feb,29,Rice (Medium),Rajshahi,2023-02-01,5800.0,False
+2023_Feb,29,Rice (Medium),Khulna,2022-09-01,5900.0,False
+2023_Feb,29,Rice (Medium),Khulna,2022-10-01,5900.0,False
+2023_Feb,29,Rice (Medium),Khulna,2022-11-01,5900.0,False
+2023_Feb,29,Rice (Medium),Khulna,2022-12-01,5900.0,False
+2023_Feb,29,Rice (Medium),Khulna,2023-01-01,5900.0,False
+2023_Feb,29,Rice (Medium),Khulna,2023-02-01,5900.0,False
+2023_Feb,29,Rice (Medium),Sylhet,2022-09-01,6600.0,False
+2023_Feb,29,Rice (Medium),Sylhet,2022-10-01,6600.0,False
+2023_Feb,29,Rice (Medium),Sylhet,2022-11-01,6690.0,False
+2023_Feb,29,Rice (Medium),Sylhet,2022-12-01,6690.0,False
+2023_Feb,29,Rice (Medium),Sylhet,2023-01-01,6760.0,False
+2023_Feb,29,Rice (Medium),Sylhet,2023-02-01,6700.0,False
+2023_Feb,29,Rice (Medium),Rangpur,2022-09-01,5500.0,False
+2023_Feb,29,Rice (Medium),Rangpur,2022-10-01,5500.0,False
+2023_Feb,29,Rice (Medium),Rangpur,2022-11-01,5600.0,False
+2023_Feb,29,Rice (Medium),Rangpur,2022-12-01,5500.0,False
+2023_Feb,29,Rice (Medium),Rangpur,2023-01-01,5480.0,False
+2023_Feb,29,Rice (Medium),Rangpur,2023-02-01,5500.0,False
+2023_Feb,29,Rice (Coarse),Dhaka,2022-09-01,5400.0,False
+2023_Feb,29,Rice (Coarse),Dhaka,2022-10-01,5500.0,False
+2023_Feb,29,Rice (Coarse),Dhaka,2022-11-01,5500.0,False
+2023_Feb,29,Rice (Coarse),Dhaka,2022-12-01,5500.0,False
+2023_Feb,29,Rice (Coarse),Dhaka,2023-01-01,5500.0,True
+2023_Feb,29,Rice (Coarse),Dhaka,2023-02-01,5500.0,True
+2023_Feb,29,Rice (Coarse),Chattogram,2022-09-01,5100.0,False
+2023_Feb,29,Rice (Coarse),Chattogram,2022-10-01,5200.0,False
+2023_Feb,29,Rice (Coarse),Chattogram,2022-11-01,4600.0,False
+2023_Feb,29,Rice (Coarse),Chattogram,2022-12-01,5200.0,False
+2023_Feb,29,Rice (Coarse),Chattogram,2023-01-01,5000.0,False
+2023_Feb,29,Rice (Coarse),Chattogram,2023-02-01,5100.0,False
+2023_Feb,29,Rice (Coarse),Rajshahi,2022-09-01,5100.0,False
+2023_Feb,29,Rice (Coarse),Rajshahi,2022-10-01,5100.0,False
+2023_Feb,29,Rice (Coarse),Rajshahi,2022-11-01,5100.0,False
+2023_Feb,29,Rice (Coarse),Rajshahi,2022-12-01,5100.0,False
+2023_Feb,29,Rice (Coarse),Rajshahi,2023-01-01,5333.0,False
+2023_Feb,29,Rice (Coarse),Rajshahi,2023-02-01,5400.0,False
+2023_Feb,29,Rice (Coarse),Khulna,2022-09-01,5300.0,False
+2023_Feb,29,Rice (Coarse),Khulna,2022-10-01,5300.0,False
+2023_Feb,29,Rice (Coarse),Khulna,2022-11-01,5300.0,False
+2023_Feb,29,Rice (Coarse),Khulna,2022-12-01,5300.0,False
+2023_Feb,29,Rice (Coarse),Khulna,2023-01-01,4800.0,False
+2023_Feb,29,Rice (Coarse),Khulna,2023-02-01,4800.0,False
+2023_Feb,29,Rice (Coarse),Sylhet,2022-09-01,5270.0,False
+2023_Feb,29,Rice (Coarse),Sylhet,2022-10-01,5300.0,False
+2023_Feb,29,Rice (Coarse),Sylhet,2022-11-01,5270.0,False
+2023_Feb,29,Rice (Coarse),Sylhet,2022-12-01,5300.0,False
+2023_Feb,29,Rice (Coarse),Sylhet,2023-01-01,5300.0,False
+2023_Feb,29,Rice (Coarse),Sylhet,2023-02-01,5280.0,False
+2023_Feb,29,Rice (Coarse),Rangpur,2022-09-01,5000.0,False
+2023_Feb,29,Rice (Coarse),Rangpur,2022-10-01,5000.0,False
+2023_Feb,29,Rice (Coarse),Rangpur,2022-11-01,5200.0,False
+2023_Feb,29,Rice (Coarse),Rangpur,2022-12-01,5200.0,False
+2023_Feb,29,Rice (Coarse),Rangpur,2023-01-01,4860.0,False
+2023_Feb,29,Rice (Coarse),Rangpur,2023-02-01,4900.0,False
+2023_Feb,29,Masur,Dhaka,2022-09-01,12000.0,False
+2023_Feb,29,Masur,Dhaka,2022-10-01,12100.0,False
+2023_Feb,29,Masur,Dhaka,2022-11-01,12100.0,False
+2023_Feb,29,Masur,Dhaka,2022-12-01,12100.0,False
+2023_Feb,29,Masur,Dhaka,2023-01-01,12100.0,True
+2023_Feb,29,Masur,Dhaka,2023-02-01,12100.0,True
+2023_Feb,29,Masur,Chattogram,2022-09-01,11500.0,False
+2023_Feb,29,Masur,Chattogram,2022-10-01,11500.0,False
+2023_Feb,29,Masur,Chattogram,2022-11-01,11800.0,False
+2023_Feb,29,Masur,Chattogram,2022-12-01,11500.0,False
+2023_Feb,29,Masur,Chattogram,2023-01-01,11800.0,False
+2023_Feb,29,Masur,Chattogram,2023-02-01,11800.0,False
+2023_Feb,29,Masur,Rajshahi,2022-09-01,13500.0,False
+2023_Feb,29,Masur,Rajshahi,2022-10-01,13600.0,False
+2023_Feb,29,Masur,Rajshahi,2022-11-01,13500.0,False
+2023_Feb,29,Masur,Rajshahi,2022-12-01,13600.0,False
+2023_Feb,29,Masur,Rajshahi,2023-01-01,13500.0,False
+2023_Feb,29,Masur,Rajshahi,2023-02-01,13700.0,False
+2023_Feb,29,Masur,Khulna,2022-09-01,10500.0,False
+2023_Feb,29,Masur,Khulna,2022-10-01,12500.0,False
+2023_Feb,29,Masur,Khulna,2022-11-01,12500.0,False
+2023_Feb,29,Masur,Khulna,2022-12-01,12500.0,False
+2023_Feb,29,Masur,Khulna,2023-01-01,12600.0,False
+2023_Feb,29,Masur,Khulna,2023-02-01,12600.0,False
+2023_Feb,29,Masur,Sylhet,2022-09-01,12200.0,False
+2023_Feb,29,Masur,Sylhet,2022-10-01,12100.0,False
+2023_Feb,29,Masur,Sylhet,2022-11-01,12300.0,False
+2023_Feb,29,Masur,Sylhet,2022-12-01,12300.0,False
+2023_Feb,29,Masur,Sylhet,2023-01-01,12500.0,False
+2023_Feb,29,Masur,Sylhet,2023-02-01,12500.0,False
+2023_Feb,29,Masur,Rangpur,2022-09-01,10800.0,False
+2023_Feb,29,Masur,Rangpur,2022-10-01,10800.0,False
+2023_Feb,29,Masur,Rangpur,2022-11-01,10800.0,False
+2023_Feb,29,Masur,Rangpur,2022-12-01,10800.0,False
+2023_Feb,29,Masur,Rangpur,2023-01-01,12500.0,False
+2023_Feb,29,Masur,Rangpur,2023-02-01,12500.0,False
+2023_Feb,30,Onion,Dhaka,2022-09-01,3600.0,False
+2023_Feb,30,Onion,Dhaka,2022-10-01,5000.0,False
+2023_Feb,30,Onion,Dhaka,2022-11-01,5000.0,False
+2023_Feb,30,Onion,Dhaka,2022-12-01,4800.0,False
+2023_Feb,30,Onion,Dhaka,2023-01-01,4500.0,False
+2023_Feb,30,Onion,Dhaka,2023-02-01,3800.0,False
+2023_Feb,30,Onion,Chattogram,2022-09-01,3500.0,False
+2023_Feb,30,Onion,Chattogram,2022-10-01,3200.0,False
+2023_Feb,30,Onion,Chattogram,2022-11-01,4700.0,False
+2023_Feb,30,Onion,Chattogram,2022-12-01,3200.0,False
+2023_Feb,30,Onion,Chattogram,2023-01-01,2800.0,False
+2023_Feb,30,Onion,Chattogram,2023-02-01,3200.0,False
+2023_Feb,30,Onion,Rajshahi,2022-09-01,4200.0,False
+2023_Feb,30,Onion,Rajshahi,2022-10-01,4200.0,False
+2023_Feb,30,Onion,Rajshahi,2022-11-01,3600.0,False
+2023_Feb,30,Onion,Rajshahi,2022-12-01,4200.0,False
+2023_Feb,30,Onion,Rajshahi,2023-01-01,2200.0,False
+2023_Feb,30,Onion,Rajshahi,2023-02-01,2500.0,False
+2023_Feb,30,Onion,Khulna,2022-09-01,6492.0,False
+2023_Feb,30,Onion,Khulna,2022-10-01,3700.0,False
+2023_Feb,30,Onion,Khulna,2022-11-01,3700.0,False
+2023_Feb,30,Onion,Khulna,2022-12-01,3700.0,False
+2023_Feb,30,Onion,Khulna,2023-01-01,2900.0,False
+2023_Feb,30,Onion,Khulna,2023-02-01,3000.0,False
+2023_Feb,30,Onion,Sylhet,2022-09-01,3500.0,False
+2023_Feb,30,Onion,Sylhet,2022-10-01,3340.0,False
+2023_Feb,30,Onion,Sylhet,2022-11-01,3600.0,False
+2023_Feb,30,Onion,Sylhet,2022-12-01,3500.0,False
+2023_Feb,30,Onion,Sylhet,2023-01-01,2800.0,False
+2023_Feb,30,Onion,Sylhet,2023-02-01,3200.0,False
+2023_Feb,30,Onion,Rangpur,2022-09-01,4500.0,False
+2023_Feb,30,Onion,Rangpur,2022-10-01,4500.0,False
+2023_Feb,30,Onion,Rangpur,2022-11-01,3500.0,False
+2023_Feb,30,Onion,Rangpur,2022-12-01,3400.0,False
+2023_Feb,30,Onion,Rangpur,2023-01-01,4500.0,False
+2023_Feb,30,Onion,Rangpur,2023-02-01,2800.0,False
+2023_Feb,31,Potato,Dhaka,2022-09-01,2800.0,False
+2023_Feb,31,Potato,Dhaka,2022-10-01,2800.0,False
+2023_Feb,31,Potato,Dhaka,2022-11-01,2800.0,False
+2023_Feb,31,Potato,Dhaka,2022-12-01,3000.0,False
+2023_Feb,31,Potato,Dhaka,2023-01-01,1900.0,False
+2023_Feb,31,Potato,Dhaka,2023-02-01,2000.0,False
+2023_Feb,31,Potato,Chattogram,2022-09-01,2800.0,False
+2023_Feb,31,Potato,Chattogram,2022-10-01,2800.0,False
+2023_Feb,31,Potato,Chattogram,2022-11-01,2800.0,False
+2023_Feb,31,Potato,Chattogram,2022-12-01,2800.0,False
+2023_Feb,31,Potato,Chattogram,2023-01-01,2800.0,False
+2023_Feb,31,Potato,Chattogram,2023-02-01,2800.0,False
+2023_Feb,31,Potato,Rajshahi,2022-09-01,2250.0,False
+2023_Feb,31,Potato,Rajshahi,2022-10-01,2300.0,False
+2023_Feb,31,Potato,Rajshahi,2022-11-01,2250.0,False
+2023_Feb,31,Potato,Rajshahi,2022-12-01,2300.0,False
+2023_Feb,31,Potato,Rajshahi,2023-01-01,1880.0,False
+2023_Feb,31,Potato,Rajshahi,2023-02-01,1800.0,False
+2023_Feb,31,Potato,Khulna,2022-09-01,2800.0,False
+2023_Feb,31,Potato,Khulna,2022-10-01,2600.0,False
+2023_Feb,31,Potato,Khulna,2022-11-01,2350.0,False
+2023_Feb,31,Potato,Khulna,2022-12-01,2400.0,False
+2023_Feb,31,Potato,Khulna,2023-01-01,2100.0,False
+2023_Feb,31,Potato,Khulna,2023-02-01,2200.0,False
+2023_Feb,31,Potato,Sylhet,2022-09-01,2000.0,False
+2023_Feb,31,Potato,Sylhet,2022-10-01,2000.0,False
+2023_Feb,31,Potato,Sylhet,2022-11-01,2000.0,False
+2023_Feb,31,Potato,Sylhet,2022-12-01,2000.0,False
+2023_Feb,31,Potato,Sylhet,2023-01-01,2000.0,False
+2023_Feb,31,Potato,Sylhet,2023-02-01,2000.0,False
+2023_Feb,31,Potato,Rangpur,2022-09-01,3800.0,False
+2023_Feb,31,Potato,Rangpur,2022-10-01,4000.0,False
+2023_Feb,31,Potato,Rangpur,2022-11-01,3800.0,False
+2023_Feb,31,Potato,Rangpur,2022-12-01,4000.0,False
+2023_Feb,31,Potato,Rangpur,2023-01-01,4000.0,False
+2023_Feb,31,Potato,Rangpur,2023-02-01,3500.0,False
+2024_Aug,35,Rice (Medium),Dhaka,2024-03-01,5550.0,False
+2024_Aug,35,Rice (Medium),Dhaka,2024-04-01,5560.0,False
+2024_Aug,35,Rice (Medium),Dhaka,2024-05-01,5562.0,False
+2024_Aug,35,Rice (Medium),Dhaka,2024-06-01,5562.0,False
+2024_Aug,35,Rice (Medium),Dhaka,2024-07-01,5500.0,False
+2024_Aug,35,Rice (Medium),Dhaka,2024-08-01,5500.0,False
+2024_Aug,35,Rice (Medium),Chattogram,2024-03-01,5350.0,False
+2024_Aug,35,Rice (Medium),Chattogram,2024-04-01,5360.0,False
+2024_Aug,35,Rice (Medium),Chattogram,2024-05-01,5362.0,False
+2024_Aug,35,Rice (Medium),Chattogram,2024-06-01,5364.0,False
+2024_Aug,35,Rice (Medium),Chattogram,2024-07-01,5500.0,False
+2024_Aug,35,Rice (Medium),Chattogram,2024-08-01,5550.0,False
+2024_Aug,35,Rice (Medium),Rajshahi,2024-03-01,5340.0,False
+2024_Aug,35,Rice (Medium),Rajshahi,2024-04-01,5370.0,False
+2024_Aug,35,Rice (Medium),Rajshahi,2024-05-01,5366.0,False
+2024_Aug,35,Rice (Medium),Rajshahi,2024-06-01,5368.0,False
+2024_Aug,35,Rice (Medium),Rajshahi,2024-07-01,5400.0,False
+2024_Aug,35,Rice (Medium),Rajshahi,2024-08-01,5450.0,False
+2024_Aug,35,Rice (Medium),Khulna,2024-03-01,5430.0,False
+2024_Aug,35,Rice (Medium),Khulna,2024-04-01,5430.0,False
+2024_Aug,35,Rice (Medium),Khulna,2024-05-01,5435.0,False
+2024_Aug,35,Rice (Medium),Khulna,2024-06-01,5432.0,False
+2024_Aug,35,Rice (Medium),Khulna,2024-07-01,5500.0,False
+2024_Aug,35,Rice (Medium),Khulna,2024-08-01,5600.0,False
+2024_Aug,35,Rice (Medium),Sylhet,2024-03-01,5250.0,False
+2024_Aug,35,Rice (Medium),Sylhet,2024-04-01,5250.0,False
+2024_Aug,35,Rice (Medium),Sylhet,2024-05-01,5248.0,False
+2024_Aug,35,Rice (Medium),Sylhet,2024-06-01,5250.0,False
+2024_Aug,35,Rice (Medium),Sylhet,2024-07-01,5100.0,False
+2024_Aug,35,Rice (Medium),Sylhet,2024-08-01,5150.0,False
+2024_Aug,35,Rice (Medium),Rangpur,2024-03-01,5020.0,False
+2024_Aug,35,Rice (Medium),Rangpur,2024-04-01,5020.0,False
+2024_Aug,35,Rice (Medium),Rangpur,2024-05-01,5030.0,False
+2024_Aug,35,Rice (Medium),Rangpur,2024-06-01,5025.0,False
+2024_Aug,35,Rice (Medium),Rangpur,2024-07-01,5000.0,False
+2024_Aug,35,Rice (Medium),Rangpur,2024-08-01,5020.0,False
+2024_Aug,35,Rice (Coarse),Dhaka,2024-03-01,5120.0,False
+2024_Aug,35,Rice (Coarse),Dhaka,2024-04-01,5150.0,False
+2024_Aug,35,Rice (Coarse),Dhaka,2024-05-01,5150.0,False
+2024_Aug,35,Rice (Coarse),Dhaka,2024-06-01,5150.0,False
+2024_Aug,35,Rice (Coarse),Dhaka,2024-07-01,5100.0,False
+2024_Aug,35,Rice (Coarse),Dhaka,2024-08-01,5050.0,False
+2024_Aug,35,Rice (Coarse),Chattogram,2024-03-01,4980.0,False
+2024_Aug,35,Rice (Coarse),Chattogram,2024-04-01,4990.0,False
+2024_Aug,35,Rice (Coarse),Chattogram,2024-05-01,4980.0,False
+2024_Aug,35,Rice (Coarse),Chattogram,2024-06-01,4990.0,False
+2024_Aug,35,Rice (Coarse),Chattogram,2024-07-01,5000.0,False
+2024_Aug,35,Rice (Coarse),Chattogram,2024-08-01,5000.0,False
+2024_Aug,35,Rice (Coarse),Rajshahi,2024-03-01,5200.0,False
+2024_Aug,35,Rice (Coarse),Rajshahi,2024-04-01,5200.0,False
+2024_Aug,35,Rice (Coarse),Rajshahi,2024-05-01,5210.0,False
+2024_Aug,35,Rice (Coarse),Rajshahi,2024-06-01,5205.0,False
+2024_Aug,35,Rice (Coarse),Rajshahi,2024-07-01,5200.0,False
+2024_Aug,35,Rice (Coarse),Rajshahi,2024-08-01,5200.0,False
+2024_Aug,35,Rice (Coarse),Khulna,2024-03-01,4600.0,False
+2024_Aug,35,Rice (Coarse),Khulna,2024-04-01,4600.0,False
+2024_Aug,35,Rice (Coarse),Khulna,2024-05-01,4620.0,False
+2024_Aug,35,Rice (Coarse),Khulna,2024-06-01,4620.0,False
+2024_Aug,35,Rice (Coarse),Khulna,2024-07-01,4780.0,False
+2024_Aug,35,Rice (Coarse),Khulna,2024-08-01,4820.0,False
+2024_Aug,35,Rice (Coarse),Sylhet,2024-03-01,4950.0,False
+2024_Aug,35,Rice (Coarse),Sylhet,2024-04-01,4970.0,False
+2024_Aug,35,Rice (Coarse),Sylhet,2024-05-01,4965.0,False
+2024_Aug,35,Rice (Coarse),Sylhet,2024-06-01,4968.0,False
+2024_Aug,35,Rice (Coarse),Sylhet,2024-07-01,4970.0,False
+2024_Aug,35,Rice (Coarse),Sylhet,2024-08-01,4960.0,False
+2024_Aug,35,Rice (Coarse),Rangpur,2024-03-01,4880.0,False
+2024_Aug,35,Rice (Coarse),Rangpur,2024-04-01,4890.0,False
+2024_Aug,35,Rice (Coarse),Rangpur,2024-05-01,4885.0,False
+2024_Aug,35,Rice (Coarse),Rangpur,2024-06-01,4890.0,False
+2024_Aug,35,Rice (Coarse),Rangpur,2024-07-01,4780.0,False
+2024_Aug,35,Rice (Coarse),Rangpur,2024-08-01,4790.0,False
+2024_Aug,35,Masur,Dhaka,2024-03-01,11620.0,False
+2024_Aug,35,Masur,Dhaka,2024-04-01,11640.0,False
+2024_Aug,35,Masur,Dhaka,2024-05-01,11642.0,False
+2024_Aug,35,Masur,Dhaka,2024-06-01,11640.0,False
+2024_Aug,35,Masur,Dhaka,2024-07-01,11800.0,False
+2024_Aug,35,Masur,Dhaka,2024-08-01,11950.0,False
+2024_Aug,35,Masur,Chattogram,2024-03-01,13100.0,False
+2024_Aug,35,Masur,Chattogram,2024-04-01,13100.0,False
+2024_Aug,35,Masur,Chattogram,2024-05-01,13100.0,False
+2024_Aug,35,Masur,Chattogram,2024-06-01,13100.0,False
+2024_Aug,35,Masur,Chattogram,2024-07-01,13150.0,False
+2024_Aug,35,Masur,Chattogram,2024-08-01,13125.0,False
+2024_Aug,35,Masur,Rajshahi,2024-03-01,13500.0,False
+2024_Aug,35,Masur,Rajshahi,2024-04-01,13500.0,False
+2024_Aug,35,Masur,Rajshahi,2024-05-01,13495.0,False
+2024_Aug,35,Masur,Rajshahi,2024-06-01,13490.0,False
+2024_Aug,35,Masur,Rajshahi,2024-07-01,13350.0,False
+2024_Aug,35,Masur,Rajshahi,2024-08-01,13390.0,False
+2024_Aug,35,Masur,Khulna,2024-03-01,13140.0,False
+2024_Aug,35,Masur,Khulna,2024-04-01,13143.0,False
+2024_Aug,35,Masur,Khulna,2024-05-01,13140.0,False
+2024_Aug,35,Masur,Khulna,2024-06-01,13135.0,False
+2024_Aug,35,Masur,Khulna,2024-07-01,13200.0,False
+2024_Aug,35,Masur,Khulna,2024-08-01,13250.0,False
+2024_Aug,35,Masur,Sylhet,2024-03-01,10580.0,False
+2024_Aug,35,Masur,Sylhet,2024-04-01,10580.0,False
+2024_Aug,35,Masur,Sylhet,2024-05-01,10585.0,False
+2024_Aug,35,Masur,Sylhet,2024-06-01,10582.0,False
+2024_Aug,35,Masur,Sylhet,2024-07-01,13000.0,False
+2024_Aug,35,Masur,Sylhet,2024-08-01,13000.0,False
+2024_Aug,35,Masur,Rangpur,2024-03-01,12700.0,False
+2024_Aug,35,Masur,Rangpur,2024-04-01,12800.0,False
+2024_Aug,35,Masur,Rangpur,2024-05-01,12810.0,False
+2024_Aug,35,Masur,Rangpur,2024-06-01,12812.0,False
+2024_Aug,35,Masur,Rangpur,2024-07-01,12900.0,False
+2024_Aug,35,Masur,Rangpur,2024-08-01,12920.0,False
+2024_Aug,36,Onion,Dhaka,2024-03-01,8000.0,False
+2024_Aug,36,Onion,Dhaka,2024-04-01,7900.0,False
+2024_Aug,36,Onion,Dhaka,2024-05-01,8000.0,False
+2024_Aug,36,Onion,Dhaka,2024-06-01,82000.0,False
+2024_Aug,36,Onion,Dhaka,2024-07-01,10000.0,False
+2024_Aug,36,Onion,Dhaka,2024-08-01,10200.0,False
+2024_Aug,36,Onion,Chattogram,2024-03-01,8100.0,False
+2024_Aug,36,Onion,Chattogram,2024-04-01,8000.0,False
+2024_Aug,36,Onion,Chattogram,2024-05-01,8200.0,False
+2024_Aug,36,Onion,Chattogram,2024-06-01,8250.0,False
+2024_Aug,36,Onion,Chattogram,2024-07-01,9000.0,False
+2024_Aug,36,Onion,Chattogram,2024-08-01,9200.0,False
+2024_Aug,36,Onion,Rajshahi,2024-03-01,7900.0,False
+2024_Aug,36,Onion,Rajshahi,2024-04-01,7000.0,False
+2024_Aug,36,Onion,Rajshahi,2024-05-01,7500.0,False
+2024_Aug,36,Onion,Rajshahi,2024-06-01,7800.0,False
+2024_Aug,36,Onion,Rajshahi,2024-07-01,7850.0,False
+2024_Aug,36,Onion,Rajshahi,2024-08-01,7890.0,False
+2024_Aug,36,Onion,Khulna,2024-03-01,7000.0,False
+2024_Aug,36,Onion,Khulna,2024-04-01,7000.0,False
+2024_Aug,36,Onion,Khulna,2024-05-01,7800.0,False
+2024_Aug,36,Onion,Khulna,2024-06-01,8000.0,False
+2024_Aug,36,Onion,Khulna,2024-07-01,8100.0,False
+2024_Aug,36,Onion,Khulna,2024-08-01,8200.0,False
+2024_Aug,36,Onion,Sylhet,2024-03-01,7200.0,False
+2024_Aug,36,Onion,Sylhet,2024-04-01,7000.0,False
+2024_Aug,36,Onion,Sylhet,2024-05-01,7600.0,False
+2024_Aug,36,Onion,Sylhet,2024-06-01,7800.0,False
+2024_Aug,36,Onion,Sylhet,2024-07-01,8000.0,False
+2024_Aug,36,Onion,Sylhet,2024-08-01,8200.0,False
+2024_Aug,36,Onion,Rangpur,2024-03-01,7200.0,False
+2024_Aug,36,Onion,Rangpur,2024-04-01,7100.0,False
+2024_Aug,36,Onion,Rangpur,2024-05-01,7500.0,False
+2024_Aug,36,Onion,Rangpur,2024-06-01,7600.0,False
+2024_Aug,36,Onion,Rangpur,2024-07-01,7900.0,False
+2024_Aug,36,Onion,Rangpur,2024-08-01,7950.0,False
+2024_Aug,37,Potato,Dhaka,2024-03-01,4700.0,False
+2024_Aug,37,Potato,Dhaka,2024-04-01,4700.0,False
+2024_Aug,37,Potato,Dhaka,2024-05-01,4900.0,False
+2024_Aug,37,Potato,Dhaka,2024-06-01,5000.0,False
+2024_Aug,37,Potato,Dhaka,2024-07-01,5800.0,False
+2024_Aug,37,Potato,Dhaka,2024-08-01,5750.0,False
+2024_Aug,37,Potato,Chattogram,2024-03-01,4700.0,False
+2024_Aug,37,Potato,Chattogram,2024-04-01,4700.0,False
+2024_Aug,37,Potato,Chattogram,2024-05-01,4890.0,False
+2024_Aug,37,Potato,Chattogram,2024-06-01,4960.0,False
+2024_Aug,37,Potato,Chattogram,2024-07-01,5100.0,False
+2024_Aug,37,Potato,Chattogram,2024-08-01,5200.0,False
+2024_Aug,37,Potato,Rajshahi,2024-03-01,4550.0,False
+2024_Aug,37,Potato,Rajshahi,2024-04-01,4600.0,False
+2024_Aug,37,Potato,Rajshahi,2024-05-01,4850.0,False
+2024_Aug,37,Potato,Rajshahi,2024-06-01,4900.0,False
+2024_Aug,37,Potato,Rajshahi,2024-07-01,5000.0,False
+2024_Aug,37,Potato,Rajshahi,2024-08-01,5100.0,False
+2024_Aug,37,Potato,Khulna,2024-03-01,4500.0,False
+2024_Aug,37,Potato,Khulna,2024-04-01,4600.0,False
+2024_Aug,37,Potato,Khulna,2024-05-01,4880.0,False
+2024_Aug,37,Potato,Khulna,2024-06-01,4900.0,False
+2024_Aug,37,Potato,Khulna,2024-07-01,5200.0,False
+2024_Aug,37,Potato,Khulna,2024-08-01,5300.0,False
+2024_Aug,37,Potato,Sylhet,2024-03-01,4400.0,False
+2024_Aug,37,Potato,Sylhet,2024-04-01,4400.0,False
+2024_Aug,37,Potato,Sylhet,2024-05-01,4780.0,False
+2024_Aug,37,Potato,Sylhet,2024-06-01,4850.0,False
+2024_Aug,37,Potato,Sylhet,2024-07-01,4890.0,False
+2024_Aug,37,Potato,Sylhet,2024-08-01,4900.0,False
+2024_Aug,37,Potato,Rangpur,2024-03-01,4600.0,False
+2024_Aug,37,Potato,Rangpur,2024-04-01,4700.0,False
+2024_Aug,37,Potato,Rangpur,2024-05-01,4800.0,False
+2024_Aug,37,Potato,Rangpur,2024-06-01,4870.0,False
+2024_Aug,37,Potato,Rangpur,2024-07-01,4900.0,False
+2024_Aug,37,Potato,Rangpur,2024-08-01,5000.0,False
+2024_Feb,35,Rice (Medium),Dhaka,2023-09-01,5620.0,False
+2024_Feb,35,Rice (Medium),Dhaka,2023-10-01,5600.0,False
+2024_Feb,35,Rice (Medium),Dhaka,2023-11-01,5620.0,False
+2024_Feb,35,Rice (Medium),Dhaka,2023-12-01,5630.0,False
+2024_Feb,35,Rice (Medium),Dhaka,2024-01-01,5630.0,False
+2024_Feb,35,Rice (Medium),Dhaka,2024-02-01,5635.0,False
+2024_Feb,35,Rice (Medium),Chattogram,2023-09-01,5500.0,False
+2024_Feb,35,Rice (Medium),Chattogram,2023-10-01,5300.0,False
+2024_Feb,35,Rice (Medium),Chattogram,2023-11-01,5300.0,False
+2024_Feb,35,Rice (Medium),Chattogram,2023-12-01,5300.0,False
+2024_Feb,35,Rice (Medium),Chattogram,2024-01-01,5300.0,False
+2024_Feb,35,Rice (Medium),Chattogram,2024-02-01,5305.0,False
+2024_Feb,35,Rice (Medium),Rajshahi,2023-09-01,5400.0,False
+2024_Feb,35,Rice (Medium),Rajshahi,2023-10-01,5400.0,False
+2024_Feb,35,Rice (Medium),Rajshahi,2023-11-01,5500.0,False
+2024_Feb,35,Rice (Medium),Rajshahi,2023-12-01,5500.0,False
+2024_Feb,35,Rice (Medium),Rajshahi,2024-01-01,5500.0,False
+2024_Feb,35,Rice (Medium),Rajshahi,2024-02-01,5510.0,False
+2024_Feb,35,Rice (Medium),Khulna,2023-09-01,5567.0,False
+2024_Feb,35,Rice (Medium),Khulna,2023-10-01,5567.0,False
+2024_Feb,35,Rice (Medium),Khulna,2023-11-01,5500.0,False
+2024_Feb,35,Rice (Medium),Khulna,2023-12-01,5500.0,False
+2024_Feb,35,Rice (Medium),Khulna,2024-01-01,5500.0,True
+2024_Feb,35,Rice (Medium),Khulna,2024-02-01,5500.0,True
+2024_Feb,35,Rice (Medium),Sylhet,2023-09-01,5000.0,False
+2024_Feb,35,Rice (Medium),Sylhet,2023-10-01,5100.0,False
+2024_Feb,35,Rice (Medium),Sylhet,2023-11-01,5200.0,False
+2024_Feb,35,Rice (Medium),Sylhet,2023-12-01,5250.0,False
+2024_Feb,35,Rice (Medium),Sylhet,2024-01-01,5250.0,False
+2024_Feb,35,Rice (Medium),Sylhet,2024-02-01,5255.0,False
+2024_Feb,35,Rice (Medium),Rangpur,2023-09-01,5000.0,False
+2024_Feb,35,Rice (Medium),Rangpur,2023-10-01,5200.0,False
+2024_Feb,35,Rice (Medium),Rangpur,2023-11-01,5200.0,False
+2024_Feb,35,Rice (Medium),Rangpur,2023-12-01,5200.0,False
+2024_Feb,35,Rice (Medium),Rangpur,2024-01-01,5200.0,False
+2024_Feb,35,Rice (Medium),Rangpur,2024-02-01,5210.0,False
+2024_Feb,35,Rice (Coarse),Dhaka,2023-09-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Dhaka,2023-10-01,5200.0,False
+2024_Feb,35,Rice (Coarse),Dhaka,2023-11-01,5200.0,False
+2024_Feb,35,Rice (Coarse),Dhaka,2023-12-01,5200.0,False
+2024_Feb,35,Rice (Coarse),Dhaka,2024-01-01,5200.0,False
+2024_Feb,35,Rice (Coarse),Dhaka,2024-02-01,5205.0,False
+2024_Feb,35,Rice (Coarse),Chattogram,2023-09-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Chattogram,2023-10-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Chattogram,2023-11-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Chattogram,2023-12-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Chattogram,2024-01-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Chattogram,2024-02-01,5005.0,False
+2024_Feb,35,Rice (Coarse),Rajshahi,2023-09-01,5300.0,False
+2024_Feb,35,Rice (Coarse),Rajshahi,2023-10-01,5300.0,False
+2024_Feb,35,Rice (Coarse),Rajshahi,2023-11-01,5400.0,False
+2024_Feb,35,Rice (Coarse),Rajshahi,2023-12-01,5400.0,False
+2024_Feb,35,Rice (Coarse),Rajshahi,2024-01-01,5400.0,False
+2024_Feb,35,Rice (Coarse),Rajshahi,2024-02-01,5405.0,False
+2024_Feb,35,Rice (Coarse),Khulna,2023-09-01,4550.0,False
+2024_Feb,35,Rice (Coarse),Khulna,2023-10-01,4500.0,False
+2024_Feb,35,Rice (Coarse),Khulna,2023-11-01,4550.0,False
+2024_Feb,35,Rice (Coarse),Khulna,2023-12-01,4550.0,False
+2024_Feb,35,Rice (Coarse),Khulna,2024-01-01,4560.0,False
+2024_Feb,35,Rice (Coarse),Khulna,2024-02-01,4570.0,False
+2024_Feb,35,Rice (Coarse),Sylhet,2023-09-01,5100.0,False
+2024_Feb,35,Rice (Coarse),Sylhet,2023-10-01,5200.0,False
+2024_Feb,35,Rice (Coarse),Sylhet,2023-11-01,5200.0,False
+2024_Feb,35,Rice (Coarse),Sylhet,2023-12-01,5250.0,False
+2024_Feb,35,Rice (Coarse),Sylhet,2024-01-01,5255.0,False
+2024_Feb,35,Rice (Coarse),Sylhet,2024-02-01,5260.0,False
+2024_Feb,35,Rice (Coarse),Rangpur,2023-09-01,4900.0,False
+2024_Feb,35,Rice (Coarse),Rangpur,2023-10-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Rangpur,2023-11-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Rangpur,2023-12-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Rangpur,2024-01-01,5000.0,False
+2024_Feb,35,Rice (Coarse),Rangpur,2024-02-01,5005.0,False
+2024_Feb,35,Masur,Dhaka,2023-09-01,11500.0,False
+2024_Feb,35,Masur,Dhaka,2023-10-01,11300.0,False
+2024_Feb,35,Masur,Dhaka,2023-11-01,11400.0,False
+2024_Feb,35,Masur,Dhaka,2023-12-01,11450.0,False
+2024_Feb,35,Masur,Dhaka,2024-01-01,11500.0,False
+2024_Feb,35,Masur,Dhaka,2024-02-01,11650.0,False
+2024_Feb,35,Masur,Chattogram,2023-09-01,13000.0,False
+2024_Feb,35,Masur,Chattogram,2023-10-01,13000.0,False
+2024_Feb,35,Masur,Chattogram,2023-11-01,13000.0,False
+2024_Feb,35,Masur,Chattogram,2023-12-01,13000.0,False
+2024_Feb,35,Masur,Chattogram,2024-01-01,13100.0,False
+2024_Feb,35,Masur,Chattogram,2024-02-01,13150.0,False
+2024_Feb,35,Masur,Rajshahi,2023-09-01,13500.0,False
+2024_Feb,35,Masur,Rajshahi,2023-10-01,13500.0,False
+2024_Feb,35,Masur,Rajshahi,2023-11-01,13500.0,False
+2024_Feb,35,Masur,Rajshahi,2023-12-01,13500.0,False
+2024_Feb,35,Masur,Rajshahi,2024-01-01,13500.0,False
+2024_Feb,35,Masur,Rajshahi,2024-02-01,13500.0,False
+2024_Feb,35,Masur,Khulna,2023-09-01,13000.0,False
+2024_Feb,35,Masur,Khulna,2023-10-01,12933.0,False
+2024_Feb,35,Masur,Khulna,2023-11-01,13100.0,False
+2024_Feb,35,Masur,Khulna,2023-12-01,13133.0,False
+2024_Feb,35,Masur,Khulna,2024-01-01,13140.0,False
+2024_Feb,35,Masur,Khulna,2024-02-01,13140.0,False
+2024_Feb,35,Masur,Sylhet,2023-09-01,10500.0,False
+2024_Feb,35,Masur,Sylhet,2023-10-01,10500.0,False
+2024_Feb,35,Masur,Sylhet,2023-11-01,10500.0,False
+2024_Feb,35,Masur,Sylhet,2023-12-01,10500.0,False
+2024_Feb,35,Masur,Sylhet,2024-01-01,10500.0,False
+2024_Feb,35,Masur,Sylhet,2024-02-01,10500.0,False
+2024_Feb,35,Masur,Rangpur,2023-09-01,12500.0,False
+2024_Feb,35,Masur,Rangpur,2023-10-01,12500.0,False
+2024_Feb,35,Masur,Rangpur,2023-11-01,12500.0,False
+2024_Feb,35,Masur,Rangpur,2023-12-01,12500.0,False
+2024_Feb,35,Masur,Rangpur,2024-01-01,12700.0,False
+2024_Feb,35,Masur,Rangpur,2024-02-01,12800.0,False
+2024_Feb,36,Onion,Dhaka,2023-09-01,15500.0,False
+2024_Feb,36,Onion,Dhaka,2023-10-01,16000.0,False
+2024_Feb,36,Onion,Dhaka,2023-11-01,11500.0,False
+2024_Feb,36,Onion,Dhaka,2023-12-01,11800.0,False
+2024_Feb,36,Onion,Dhaka,2024-01-01,11400.0,False
+2024_Feb,36,Onion,Dhaka,2024-02-01,10800.0,False
+2024_Feb,36,Onion,Chattogram,2023-09-01,8000.0,False
+2024_Feb,36,Onion,Chattogram,2023-10-01,8500.0,False
+2024_Feb,36,Onion,Chattogram,2023-11-01,10200.0,False
+2024_Feb,36,Onion,Chattogram,2023-12-01,10400.0,False
+2024_Feb,36,Onion,Chattogram,2024-01-01,10200.0,False
+2024_Feb,36,Onion,Chattogram,2024-02-01,10300.0,False
+2024_Feb,36,Onion,Rajshahi,2023-09-01,7500.0,False
+2024_Feb,36,Onion,Rajshahi,2023-10-01,7800.0,False
+2024_Feb,36,Onion,Rajshahi,2023-11-01,10600.0,False
+2024_Feb,36,Onion,Rajshahi,2023-12-01,10700.0,False
+2024_Feb,36,Onion,Rajshahi,2024-01-01,10500.0,False
+2024_Feb,36,Onion,Rajshahi,2024-02-01,10600.0,False
+2024_Feb,36,Onion,Khulna,2023-09-01,6700.0,False
+2024_Feb,36,Onion,Khulna,2023-10-01,6900.0,False
+2024_Feb,36,Onion,Khulna,2023-11-01,10400.0,False
+2024_Feb,36,Onion,Khulna,2023-12-01,10600.0,False
+2024_Feb,36,Onion,Khulna,2024-01-01,10300.0,False
+2024_Feb,36,Onion,Khulna,2024-02-01,10350.0,False
+2024_Feb,36,Onion,Sylhet,2023-09-01,6500.0,False
+2024_Feb,36,Onion,Sylhet,2023-10-01,6800.0,False
+2024_Feb,36,Onion,Sylhet,2023-11-01,9700.0,False
+2024_Feb,36,Onion,Sylhet,2023-12-01,9850.0,False
+2024_Feb,36,Onion,Sylhet,2024-01-01,10200.0,False
+2024_Feb,36,Onion,Sylhet,2024-02-01,10300.0,False
+2024_Feb,36,Onion,Rangpur,2023-09-01,8000.0,False
+2024_Feb,36,Onion,Rangpur,2023-10-01,8500.0,False
+2024_Feb,36,Onion,Rangpur,2023-11-01,9100.0,False
+2024_Feb,36,Onion,Rangpur,2023-12-01,9300.0,False
+2024_Feb,36,Onion,Rangpur,2024-01-01,9500.0,False
+2024_Feb,36,Onion,Rangpur,2024-02-01,9600.0,False
+2024_Feb,37,Potato,Dhaka,2023-09-01,3500.0,False
+2024_Feb,37,Potato,Dhaka,2023-10-01,3800.0,False
+2024_Feb,37,Potato,Dhaka,2023-11-01,4800.0,False
+2024_Feb,37,Potato,Dhaka,2023-12-01,5200.0,False
+2024_Feb,37,Potato,Dhaka,2024-01-01,5000.0,False
+2024_Feb,37,Potato,Dhaka,2024-02-01,4800.0,False
+2024_Feb,37,Potato,Chattogram,2023-09-01,4000.0,False
+2024_Feb,37,Potato,Chattogram,2023-10-01,4800.0,False
+2024_Feb,37,Potato,Chattogram,2023-11-01,4900.0,False
+2024_Feb,37,Potato,Chattogram,2023-12-01,5000.0,False
+2024_Feb,37,Potato,Chattogram,2024-01-01,4900.0,False
+2024_Feb,37,Potato,Chattogram,2024-02-01,4700.0,False
+2024_Feb,37,Potato,Rajshahi,2023-09-01,4500.0,False
+2024_Feb,37,Potato,Rajshahi,2023-10-01,4500.0,False
+2024_Feb,37,Potato,Rajshahi,2023-11-01,4500.0,False
+2024_Feb,37,Potato,Rajshahi,2023-12-01,4500.0,False
+2024_Feb,37,Potato,Rajshahi,2024-01-01,4550.0,False
+2024_Feb,37,Potato,Rajshahi,2024-02-01,4600.0,False
+2024_Feb,37,Potato,Khulna,2023-09-01,4500.0,False
+2024_Feb,37,Potato,Khulna,2023-10-01,4600.0,False
+2024_Feb,37,Potato,Khulna,2023-11-01,4500.0,False
+2024_Feb,37,Potato,Khulna,2023-12-01,4600.0,False
+2024_Feb,37,Potato,Khulna,2024-01-01,4300.0,False
+2024_Feb,37,Potato,Khulna,2024-02-01,4200.0,False
+2024_Feb,37,Potato,Sylhet,2023-09-01,4400.0,False
+2024_Feb,37,Potato,Sylhet,2023-10-01,4800.0,False
+2024_Feb,37,Potato,Sylhet,2023-11-01,4800.0,False
+2024_Feb,37,Potato,Sylhet,2023-12-01,4820.0,False
+2024_Feb,37,Potato,Sylhet,2024-01-01,4300.0,False
+2024_Feb,37,Potato,Sylhet,2024-02-01,4200.0,False
+2024_Feb,37,Potato,Rangpur,2023-09-01,4200.0,False
+2024_Feb,37,Potato,Rangpur,2023-10-01,4500.0,False
+2024_Feb,37,Potato,Rangpur,2023-11-01,5300.0,False
+2024_Feb,37,Potato,Rangpur,2023-12-01,5500.0,False
+2024_Feb,37,Potato,Rangpur,2024-01-01,4900.0,False
+2024_Feb,37,Potato,Rangpur,2024-02-01,4800.0,False
+2025_Aug,39,Rice (Medium),Dhaka,2025-03-01,6150.0,False
+2025_Aug,39,Rice (Medium),Dhaka,2025-04-01,6200.0,False
+2025_Aug,39,Rice (Medium),Dhaka,2025-05-01,6550.0,False
+2025_Aug,39,Rice (Medium),Dhaka,2025-06-01,6650.0,False
+2025_Aug,39,Rice (Medium),Dhaka,2025-07-01,6500.0,False
+2025_Aug,39,Rice (Medium),Dhaka,2025-08-01,6520.0,False
+2025_Aug,39,Rice (Medium),Chattogram,2025-03-01,5970.0,False
+2025_Aug,39,Rice (Medium),Chattogram,2025-04-01,5980.0,False
+2025_Aug,39,Rice (Medium),Chattogram,2025-05-01,6050.0,False
+2025_Aug,39,Rice (Medium),Chattogram,2025-06-01,6300.0,False
+2025_Aug,39,Rice (Medium),Chattogram,2025-07-01,6400.0,False
+2025_Aug,39,Rice (Medium),Chattogram,2025-08-01,6480.0,False
+2025_Aug,39,Rice (Medium),Rajshahi,2025-03-01,6440.0,False
+2025_Aug,39,Rice (Medium),Rajshahi,2025-04-01,6450.0,False
+2025_Aug,39,Rice (Medium),Rajshahi,2025-05-01,6440.0,False
+2025_Aug,39,Rice (Medium),Rajshahi,2025-06-01,6450.0,False
+2025_Aug,39,Rice (Medium),Rajshahi,2025-07-01,6450.0,False
+2025_Aug,39,Rice (Medium),Rajshahi,2025-08-01,6450.0,False
+2025_Aug,39,Rice (Medium),Khulna,2025-03-01,6000.0,False
+2025_Aug,39,Rice (Medium),Khulna,2025-04-01,6000.0,False
+2025_Aug,39,Rice (Medium),Khulna,2025-05-01,6300.0,False
+2025_Aug,39,Rice (Medium),Khulna,2025-06-01,6360.0,False
+2025_Aug,39,Rice (Medium),Khulna,2025-07-01,6400.0,False
+2025_Aug,39,Rice (Medium),Khulna,2025-08-01,6460.0,False
+2025_Aug,39,Rice (Medium),Sylhet,2025-03-01,6100.0,False
+2025_Aug,39,Rice (Medium),Sylhet,2025-04-01,6000.0,False
+2025_Aug,39,Rice (Medium),Sylhet,2025-05-01,6100.0,False
+2025_Aug,39,Rice (Medium),Sylhet,2025-06-01,6000.0,False
+2025_Aug,39,Rice (Medium),Sylhet,2025-07-01,6100.0,False
+2025_Aug,39,Rice (Medium),Sylhet,2025-08-01,6200.0,False
+2025_Aug,39,Rice (Medium),Rangpur,2025-03-01,5900.0,False
+2025_Aug,39,Rice (Medium),Rangpur,2025-04-01,5900.0,False
+2025_Aug,39,Rice (Medium),Rangpur,2025-05-01,6100.0,False
+2025_Aug,39,Rice (Medium),Rangpur,2025-06-01,6250.0,False
+2025_Aug,39,Rice (Medium),Rangpur,2025-07-01,6200.0,False
+2025_Aug,39,Rice (Medium),Rangpur,2025-08-01,6220.0,False
+2025_Aug,39,Rice (Coarse),Dhaka,2025-03-01,5500.0,False
+2025_Aug,39,Rice (Coarse),Dhaka,2025-04-01,5580.0,False
+2025_Aug,39,Rice (Coarse),Dhaka,2025-05-01,5600.0,False
+2025_Aug,39,Rice (Coarse),Dhaka,2025-06-01,5680.0,False
+2025_Aug,39,Rice (Coarse),Dhaka,2025-07-01,5800.0,False
+2025_Aug,39,Rice (Coarse),Dhaka,2025-08-01,5880.0,False
+2025_Aug,39,Rice (Coarse),Chattogram,2025-03-01,5340.0,False
+2025_Aug,39,Rice (Coarse),Chattogram,2025-04-01,5320.0,False
+2025_Aug,39,Rice (Coarse),Chattogram,2025-05-01,5440.0,False
+2025_Aug,39,Rice (Coarse),Chattogram,2025-06-01,5520.0,False
+2025_Aug,39,Rice (Coarse),Chattogram,2025-07-01,5600.0,False
+2025_Aug,39,Rice (Coarse),Chattogram,2025-08-01,5750.0,False
+2025_Aug,39,Rice (Coarse),Rajshahi,2025-03-01,5330.0,False
+2025_Aug,39,Rice (Coarse),Rajshahi,2025-04-01,5333.0,False
+2025_Aug,39,Rice (Coarse),Rajshahi,2025-05-01,5430.0,False
+2025_Aug,39,Rice (Coarse),Rajshahi,2025-06-01,5533.0,False
+2025_Aug,39,Rice (Coarse),Rajshahi,2025-07-01,5540.0,False
+2025_Aug,39,Rice (Coarse),Rajshahi,2025-08-01,5540.0,False
+2025_Aug,39,Rice (Coarse),Khulna,2025-03-01,5220.0,False
+2025_Aug,39,Rice (Coarse),Khulna,2025-04-01,5200.0,False
+2025_Aug,39,Rice (Coarse),Khulna,2025-05-01,5320.0,False
+2025_Aug,39,Rice (Coarse),Khulna,2025-06-01,5250.0,False
+2025_Aug,39,Rice (Coarse),Khulna,2025-07-01,5380.0,False
+2025_Aug,39,Rice (Coarse),Khulna,2025-08-01,5400.0,False
+2025_Aug,39,Rice (Coarse),Sylhet,2025-03-01,5100.0,False
+2025_Aug,39,Rice (Coarse),Sylhet,2025-04-01,5100.0,False
+2025_Aug,39,Rice (Coarse),Sylhet,2025-05-01,5300.0,False
+2025_Aug,39,Rice (Coarse),Sylhet,2025-06-01,5400.0,False
+2025_Aug,39,Rice (Coarse),Sylhet,2025-07-01,5500.0,False
+2025_Aug,39,Rice (Coarse),Sylhet,2025-08-01,5550.0,False
+2025_Aug,39,Rice (Coarse),Rangpur,2025-03-01,5330.0,False
+2025_Aug,39,Rice (Coarse),Rangpur,2025-04-01,5320.0,False
+2025_Aug,39,Rice (Coarse),Rangpur,2025-05-01,5430.0,False
+2025_Aug,39,Rice (Coarse),Rangpur,2025-06-01,5420.0,False
+2025_Aug,39,Rice (Coarse),Rangpur,2025-07-01,5440.0,False
+2025_Aug,39,Rice (Coarse),Rangpur,2025-08-01,5440.0,False
+2025_Aug,39,Masur,Dhaka,2025-03-01,13500.0,False
+2025_Aug,39,Masur,Dhaka,2025-04-01,13500.0,False
+2025_Aug,39,Masur,Dhaka,2025-05-01,13500.0,False
+2025_Aug,39,Masur,Dhaka,2025-06-01,13500.0,False
+2025_Aug,39,Masur,Dhaka,2025-07-01,13600.0,False
+2025_Aug,39,Masur,Dhaka,2025-08-01,13600.0,False
+2025_Aug,39,Masur,Chattogram,2025-03-01,13100.0,False
+2025_Aug,39,Masur,Chattogram,2025-04-01,13205.0,False
+2025_Aug,39,Masur,Chattogram,2025-05-01,13100.0,False
+2025_Aug,39,Masur,Chattogram,2025-06-01,13205.0,False
+2025_Aug,39,Masur,Chattogram,2025-07-01,13500.0,False
+2025_Aug,39,Masur,Chattogram,2025-08-01,13905.0,False
+2025_Aug,39,Masur,Rajshahi,2025-03-01,13330.0,False
+2025_Aug,39,Masur,Rajshahi,2025-04-01,13330.0,False
+2025_Aug,39,Masur,Rajshahi,2025-05-01,13330.0,False
+2025_Aug,39,Masur,Rajshahi,2025-06-01,13330.0,False
+2025_Aug,39,Masur,Rajshahi,2025-07-01,13360.0,False
+2025_Aug,39,Masur,Rajshahi,2025-08-01,13360.0,False
+2025_Aug,39,Masur,Khulna,2025-03-01,13300.0,False
+2025_Aug,39,Masur,Khulna,2025-04-01,13500.0,False
+2025_Aug,39,Masur,Khulna,2025-05-01,13300.0,False
+2025_Aug,39,Masur,Khulna,2025-06-01,13500.0,False
+2025_Aug,39,Masur,Khulna,2025-07-01,13550.0,False
+2025_Aug,39,Masur,Khulna,2025-08-01,13550.0,False
+2025_Aug,39,Masur,Sylhet,2025-03-01,13100.0,False
+2025_Aug,39,Masur,Sylhet,2025-04-01,13200.0,False
+2025_Aug,39,Masur,Sylhet,2025-05-01,13100.0,False
+2025_Aug,39,Masur,Sylhet,2025-06-01,13200.0,False
+2025_Aug,39,Masur,Sylhet,2025-07-01,13300.0,False
+2025_Aug,39,Masur,Sylhet,2025-08-01,13300.0,False
+2025_Aug,39,Masur,Rangpur,2025-03-01,13050.0,False
+2025_Aug,39,Masur,Rangpur,2025-04-01,13140.0,False
+2025_Aug,39,Masur,Rangpur,2025-05-01,13050.0,False
+2025_Aug,39,Masur,Rangpur,2025-06-01,13140.0,False
+2025_Aug,39,Masur,Rangpur,2025-07-01,13150.0,False
+2025_Aug,39,Masur,Rangpur,2025-08-01,13150.0,False
+2025_Aug,40,Onion,Dhaka,2025-03-01,4000.0,False
+2025_Aug,40,Onion,Dhaka,2025-04-01,4050.0,False
+2025_Aug,40,Onion,Dhaka,2025-05-01,4500.0,False
+2025_Aug,40,Onion,Dhaka,2025-06-01,4550.0,False
+2025_Aug,40,Onion,Dhaka,2025-07-01,6000.0,False
+2025_Aug,40,Onion,Dhaka,2025-08-01,6200.0,False
+2025_Aug,40,Onion,Chattogram,2025-03-01,4000.0,False
+2025_Aug,40,Onion,Chattogram,2025-04-01,4000.0,False
+2025_Aug,40,Onion,Chattogram,2025-05-01,4200.0,False
+2025_Aug,40,Onion,Chattogram,2025-06-01,4300.0,False
+2025_Aug,40,Onion,Chattogram,2025-07-01,4800.0,False
+2025_Aug,40,Onion,Chattogram,2025-08-01,5000.0,False
+2025_Aug,40,Onion,Rajshahi,2025-03-01,4120.0,False
+2025_Aug,40,Onion,Rajshahi,2025-04-01,4050.0,False
+2025_Aug,40,Onion,Rajshahi,2025-05-01,4220.0,False
+2025_Aug,40,Onion,Rajshahi,2025-06-01,4350.0,False
+2025_Aug,40,Onion,Rajshahi,2025-07-01,4850.0,False
+2025_Aug,40,Onion,Rajshahi,2025-08-01,4930.0,False
+2025_Aug,40,Onion,Khulna,2025-03-01,3500.0,False
+2025_Aug,40,Onion,Khulna,2025-04-01,3600.0,False
+2025_Aug,40,Onion,Khulna,2025-05-01,4200.0,False
+2025_Aug,40,Onion,Khulna,2025-06-01,4300.0,False
+2025_Aug,40,Onion,Khulna,2025-07-01,4700.0,False
+2025_Aug,40,Onion,Khulna,2025-08-01,4900.0,False
+2025_Aug,40,Onion,Sylhet,2025-03-01,4200.0,False
+2025_Aug,40,Onion,Sylhet,2025-04-01,4200.0,False
+2025_Aug,40,Onion,Sylhet,2025-05-01,4250.0,False
+2025_Aug,40,Onion,Sylhet,2025-06-01,4250.0,False
+2025_Aug,40,Onion,Sylhet,2025-07-01,5000.0,False
+2025_Aug,40,Onion,Sylhet,2025-08-01,5250.0,False
+2025_Aug,40,Onion,Rangpur,2025-03-01,4000.0,False
+2025_Aug,40,Onion,Rangpur,2025-04-01,4000.0,False
+2025_Aug,40,Onion,Rangpur,2025-05-01,4100.0,False
+2025_Aug,40,Onion,Rangpur,2025-06-01,4100.0,False
+2025_Aug,40,Onion,Rangpur,2025-07-01,4700.0,False
+2025_Aug,40,Onion,Rangpur,2025-08-01,4900.0,False
+2025_Aug,41,Potato,Dhaka,2025-03-01,2800.0,False
+2025_Aug,41,Potato,Dhaka,2025-04-01,2700.0,False
+2025_Aug,41,Potato,Dhaka,2025-05-01,2700.0,False
+2025_Aug,41,Potato,Dhaka,2025-06-01,4345.83,False
+2025_Aug,41,Potato,Dhaka,2025-07-01,2800.0,False
+2025_Aug,41,Potato,Dhaka,2025-08-01,2800.0,False
+2025_Aug,41,Potato,Chattogram,2025-03-01,2800.0,False
+2025_Aug,41,Potato,Chattogram,2025-04-01,2800.0,False
+2025_Aug,41,Potato,Chattogram,2025-05-01,2800.0,False
+2025_Aug,41,Potato,Chattogram,2025-06-01,2800.0,False
+2025_Aug,41,Potato,Chattogram,2025-07-01,2500.0,False
+2025_Aug,41,Potato,Chattogram,2025-08-01,2500.0,False
+2025_Aug,41,Potato,Rajshahi,2025-03-01,2040.0,False
+2025_Aug,41,Potato,Rajshahi,2025-04-01,2050.0,False
+2025_Aug,41,Potato,Rajshahi,2025-05-01,2050.0,False
+2025_Aug,41,Potato,Rajshahi,2025-06-01,2050.0,False
+2025_Aug,41,Potato,Rajshahi,2025-07-01,2200.0,False
+2025_Aug,41,Potato,Rajshahi,2025-08-01,2200.0,False
+2025_Aug,41,Potato,Khulna,2025-03-01,2250.0,False
+2025_Aug,41,Potato,Khulna,2025-04-01,2500.0,False
+2025_Aug,41,Potato,Khulna,2025-05-01,2350.0,False
+2025_Aug,41,Potato,Khulna,2025-06-01,2320.0,False
+2025_Aug,41,Potato,Khulna,2025-07-01,1900.0,False
+2025_Aug,41,Potato,Khulna,2025-08-01,1920.0,False
+2025_Aug,41,Potato,Sylhet,2025-03-01,2200.0,False
+2025_Aug,41,Potato,Sylhet,2025-04-01,2200.0,False
+2025_Aug,41,Potato,Sylhet,2025-05-01,2220.0,False
+2025_Aug,41,Potato,Sylhet,2025-06-01,2220.0,False
+2025_Aug,41,Potato,Sylhet,2025-07-01,2220.0,True
+2025_Aug,41,Potato,Sylhet,2025-08-01,2220.0,True
+2025_Aug,41,Potato,Rangpur,2025-03-01,2800.0,False
+2025_Aug,41,Potato,Rangpur,2025-04-01,2750.0,False
+2025_Aug,41,Potato,Rangpur,2025-05-01,2800.0,False
+2025_Aug,41,Potato,Rangpur,2025-06-01,2800.0,False
+2025_Aug,41,Potato,Rangpur,2025-07-01,2500.0,False
+2025_Aug,41,Potato,Rangpur,2025-08-01,2500.0,False
+2025_Feb,39,Rice (Medium),Dhaka,2024-09-01,5700.0,False
+2025_Feb,39,Rice (Medium),Dhaka,2024-10-01,5700.0,False
+2025_Feb,39,Rice (Medium),Dhaka,2024-11-01,5700.0,False
+2025_Feb,39,Rice (Medium),Dhaka,2024-12-01,5750.0,False
+2025_Feb,39,Rice (Medium),Dhaka,2025-01-01,5630.0,False
+2025_Feb,39,Rice (Medium),Dhaka,2025-02-01,5635.0,False
+2025_Feb,39,Rice (Medium),Chattogram,2024-09-01,5500.0,False
+2025_Feb,39,Rice (Medium),Chattogram,2024-10-01,5550.0,False
+2025_Feb,39,Rice (Medium),Chattogram,2024-11-01,5500.0,False
+2025_Feb,39,Rice (Medium),Chattogram,2024-12-01,5550.0,False
+2025_Feb,39,Rice (Medium),Chattogram,2025-01-01,5300.0,False
+2025_Feb,39,Rice (Medium),Chattogram,2025-02-01,5305.0,False
+2025_Feb,39,Rice (Medium),Rajshahi,2024-09-01,5400.0,False
+2025_Feb,39,Rice (Medium),Rajshahi,2024-10-01,5450.0,False
+2025_Feb,39,Rice (Medium),Rajshahi,2024-11-01,5400.0,False
+2025_Feb,39,Rice (Medium),Rajshahi,2024-12-01,5450.0,False
+2025_Feb,39,Rice (Medium),Rajshahi,2025-01-01,5500.0,False
+2025_Feb,39,Rice (Medium),Rajshahi,2025-02-01,5510.0,False
+2025_Feb,39,Rice (Medium),Khulna,2024-09-01,5773.0,False
+2025_Feb,39,Rice (Medium),Khulna,2024-10-01,5782.0,False
+2025_Feb,39,Rice (Medium),Khulna,2024-11-01,5785.0,False
+2025_Feb,39,Rice (Medium),Khulna,2024-12-01,5785.0,False
+2025_Feb,39,Rice (Medium),Khulna,2025-01-01,5500.0,False
+2025_Feb,39,Rice (Medium),Khulna,2025-02-01,5500.0,False
+2025_Feb,39,Rice (Medium),Sylhet,2024-09-01,5100.0,False
+2025_Feb,39,Rice (Medium),Sylhet,2024-10-01,5150.0,False
+2025_Feb,39,Rice (Medium),Sylhet,2024-11-01,5100.0,False
+2025_Feb,39,Rice (Medium),Sylhet,2024-12-01,5150.0,False
+2025_Feb,39,Rice (Medium),Sylhet,2025-01-01,5250.0,False
+2025_Feb,39,Rice (Medium),Sylhet,2025-02-01,5255.0,False
+2025_Feb,39,Rice (Medium),Rangpur,2024-09-01,5200.0,False
+2025_Feb,39,Rice (Medium),Rangpur,2024-10-01,5250.0,False
+2025_Feb,39,Rice (Medium),Rangpur,2024-11-01,5400.0,False
+2025_Feb,39,Rice (Medium),Rangpur,2024-12-01,5400.0,False
+2025_Feb,39,Rice (Medium),Rangpur,2025-01-01,5200.0,False
+2025_Feb,39,Rice (Medium),Rangpur,2025-02-01,5210.0,False
+2025_Feb,39,Rice (Coarse),Dhaka,2024-09-01,5100.0,False
+2025_Feb,39,Rice (Coarse),Dhaka,2024-10-01,5150.0,False
+2025_Feb,39,Rice (Coarse),Dhaka,2024-11-01,5150.0,False
+2025_Feb,39,Rice (Coarse),Dhaka,2024-12-01,5160.0,False
+2025_Feb,39,Rice (Coarse),Dhaka,2025-01-01,5200.0,False
+2025_Feb,39,Rice (Coarse),Dhaka,2025-02-01,5205.0,False
+2025_Feb,39,Rice (Coarse),Chattogram,2024-09-01,5050.0,False
+2025_Feb,39,Rice (Coarse),Chattogram,2024-10-01,5060.0,False
+2025_Feb,39,Rice (Coarse),Chattogram,2024-11-01,5020.0,False
+2025_Feb,39,Rice (Coarse),Chattogram,2024-12-01,5020.0,False
+2025_Feb,39,Rice (Coarse),Chattogram,2025-01-01,5000.0,False
+2025_Feb,39,Rice (Coarse),Chattogram,2025-02-01,5005.0,False
+2025_Feb,39,Rice (Coarse),Rajshahi,2024-09-01,5250.0,False
+2025_Feb,39,Rice (Coarse),Rajshahi,2024-10-01,5220.0,False
+2025_Feb,39,Rice (Coarse),Rajshahi,2024-11-01,5250.0,False
+2025_Feb,39,Rice (Coarse),Rajshahi,2024-12-01,5250.0,False
+2025_Feb,39,Rice (Coarse),Rajshahi,2025-01-01,5400.0,False
+2025_Feb,39,Rice (Coarse),Rajshahi,2025-02-01,5405.0,False
+2025_Feb,39,Rice (Coarse),Khulna,2024-09-01,4850.0,False
+2025_Feb,39,Rice (Coarse),Khulna,2024-10-01,4870.0,False
+2025_Feb,39,Rice (Coarse),Khulna,2024-11-01,4880.0,False
+2025_Feb,39,Rice (Coarse),Khulna,2024-12-01,4880.0,False
+2025_Feb,39,Rice (Coarse),Khulna,2025-01-01,4560.0,False
+2025_Feb,39,Rice (Coarse),Khulna,2025-02-01,4570.0,False
+2025_Feb,39,Rice (Coarse),Sylhet,2024-09-01,4970.0,False
+2025_Feb,39,Rice (Coarse),Sylhet,2024-10-01,4960.0,False
+2025_Feb,39,Rice (Coarse),Sylhet,2024-11-01,4970.0,False
+2025_Feb,39,Rice (Coarse),Sylhet,2024-12-01,4960.0,False
+2025_Feb,39,Rice (Coarse),Sylhet,2025-01-01,5255.0,False
+2025_Feb,39,Rice (Coarse),Sylhet,2025-02-01,5260.0,False
+2025_Feb,39,Rice (Coarse),Rangpur,2024-09-01,4770.0,False
+2025_Feb,39,Rice (Coarse),Rangpur,2024-10-01,4780.0,False
+2025_Feb,39,Rice (Coarse),Rangpur,2024-11-01,4780.0,False
+2025_Feb,39,Rice (Coarse),Rangpur,2024-12-01,4790.0,False
+2025_Feb,39,Rice (Coarse),Rangpur,2025-01-01,5000.0,False
+2025_Feb,39,Rice (Coarse),Rangpur,2025-02-01,5005.0,False
+2025_Feb,39,Masur,Dhaka,2024-09-01,12000.0,False
+2025_Feb,39,Masur,Dhaka,2024-10-01,12050.0,False
+2025_Feb,39,Masur,Dhaka,2024-11-01,12100.0,False
+2025_Feb,39,Masur,Dhaka,2024-12-01,12150.0,False
+2025_Feb,39,Masur,Dhaka,2025-01-01,11500.0,False
+2025_Feb,39,Masur,Dhaka,2025-02-01,11650.0,False
+2025_Feb,39,Masur,Chattogram,2024-09-01,13150.0,False
+2025_Feb,39,Masur,Chattogram,2024-10-01,13125.0,False
+2025_Feb,39,Masur,Chattogram,2024-11-01,13150.0,False
+2025_Feb,39,Masur,Chattogram,2024-12-01,13125.0,False
+2025_Feb,39,Masur,Chattogram,2025-01-01,13100.0,False
+2025_Feb,39,Masur,Chattogram,2025-02-01,13150.0,False
+2025_Feb,39,Masur,Rajshahi,2024-09-01,13350.0,False
+2025_Feb,39,Masur,Rajshahi,2024-10-01,13390.0,False
+2025_Feb,39,Masur,Rajshahi,2024-11-01,13350.0,False
+2025_Feb,39,Masur,Rajshahi,2024-12-01,13390.0,False
+2025_Feb,39,Masur,Rajshahi,2025-01-01,13500.0,False
+2025_Feb,39,Masur,Rajshahi,2025-02-01,13500.0,False
+2025_Feb,39,Masur,Khulna,2024-09-01,13200.0,False
+2025_Feb,39,Masur,Khulna,2024-10-01,13100.0,False
+2025_Feb,39,Masur,Khulna,2024-11-01,13000.0,False
+2025_Feb,39,Masur,Khulna,2024-12-01,12950.0,False
+2025_Feb,39,Masur,Khulna,2025-01-01,13140.0,False
+2025_Feb,39,Masur,Khulna,2025-02-01,13140.0,False
+2025_Feb,39,Masur,Sylhet,2024-09-01,13000.0,False
+2025_Feb,39,Masur,Sylhet,2024-10-01,13000.0,False
+2025_Feb,39,Masur,Sylhet,2024-11-01,13000.0,False
+2025_Feb,39,Masur,Sylhet,2024-12-01,13000.0,False
+2025_Feb,39,Masur,Sylhet,2025-01-01,10500.0,False
+2025_Feb,39,Masur,Sylhet,2025-02-01,10500.0,False
+2025_Feb,39,Masur,Rangpur,2024-09-01,12900.0,False
+2025_Feb,39,Masur,Rangpur,2024-10-01,12920.0,False
+2025_Feb,39,Masur,Rangpur,2024-11-01,12900.0,False
+2025_Feb,39,Masur,Rangpur,2024-12-01,12920.0,False
+2025_Feb,39,Masur,Rangpur,2025-01-01,12700.0,False
+2025_Feb,39,Masur,Rangpur,2025-02-01,12800.0,False
+2025_Feb,40,Onion,Dhaka,2024-09-01,8000.0,False
+2025_Feb,40,Onion,Dhaka,2024-10-01,8200.0,False
+2025_Feb,40,Onion,Dhaka,2024-11-01,8200.0,False
+2025_Feb,40,Onion,Dhaka,2024-12-01,8200.0,False
+2025_Feb,40,Onion,Dhaka,2025-01-01,11400.0,False
+2025_Feb,40,Onion,Dhaka,2025-02-01,10800.0,False
+2025_Feb,40,Onion,Chattogram,2024-09-01,8100.0,False
+2025_Feb,40,Onion,Chattogram,2024-10-01,8150.0,False
+2025_Feb,40,Onion,Chattogram,2024-11-01,8000.0,False
+2025_Feb,40,Onion,Chattogram,2024-12-01,8200.0,False
+2025_Feb,40,Onion,Chattogram,2025-01-01,10200.0,False
+2025_Feb,40,Onion,Chattogram,2025-02-01,10300.0,False
+2025_Feb,40,Onion,Rajshahi,2024-09-01,7600.0,False
+2025_Feb,40,Onion,Rajshahi,2024-10-01,7200.0,False
+2025_Feb,40,Onion,Rajshahi,2024-11-01,7000.0,False
+2025_Feb,40,Onion,Rajshahi,2024-12-01,7390.0,False
+2025_Feb,40,Onion,Rajshahi,2025-01-01,10500.0,False
+2025_Feb,40,Onion,Rajshahi,2025-02-01,10600.0,False
+2025_Feb,40,Onion,Khulna,2024-09-01,9850.0,False
+2025_Feb,40,Onion,Khulna,2024-10-01,9400.0,False
+2025_Feb,40,Onion,Khulna,2024-11-01,8200.0,False
+2025_Feb,40,Onion,Khulna,2024-12-01,7800.0,False
+2025_Feb,40,Onion,Khulna,2025-01-01,10300.0,False
+2025_Feb,40,Onion,Khulna,2025-02-01,10350.0,False
+2025_Feb,40,Onion,Sylhet,2024-09-01,7600.0,False
+2025_Feb,40,Onion,Sylhet,2024-10-01,7800.0,False
+2025_Feb,40,Onion,Sylhet,2024-11-01,8000.0,False
+2025_Feb,40,Onion,Sylhet,2024-12-01,8200.0,False
+2025_Feb,40,Onion,Sylhet,2025-01-01,10200.0,False
+2025_Feb,40,Onion,Sylhet,2025-02-01,10300.0,False
+2025_Feb,40,Onion,Rangpur,2024-09-01,8500.0,False
+2025_Feb,40,Onion,Rangpur,2024-10-01,8600.0,False
+2025_Feb,40,Onion,Rangpur,2024-11-01,8000.0,False
+2025_Feb,40,Onion,Rangpur,2024-12-01,7200.0,False
+2025_Feb,40,Onion,Rangpur,2025-01-01,9500.0,False
+2025_Feb,40,Onion,Rangpur,2025-02-01,9600.0,False
+2025_Feb,41,Potato,Dhaka,2024-09-01,5400.0,False
+2025_Feb,41,Potato,Dhaka,2024-10-01,5700.0,False
+2025_Feb,41,Potato,Dhaka,2024-11-01,5500.0,False
+2025_Feb,41,Potato,Dhaka,2024-12-01,5750.0,False
+2025_Feb,41,Potato,Dhaka,2025-01-01,5000.0,False
+2025_Feb,41,Potato,Dhaka,2025-02-01,4800.0,False
+2025_Feb,41,Potato,Chattogram,2024-09-01,4890.0,False
+2025_Feb,41,Potato,Chattogram,2024-10-01,4960.0,False
+2025_Feb,41,Potato,Chattogram,2024-11-01,5100.0,False
+2025_Feb,41,Potato,Chattogram,2024-12-01,5200.0,False
+2025_Feb,41,Potato,Chattogram,2025-01-01,4900.0,False
+2025_Feb,41,Potato,Chattogram,2025-02-01,4700.0,False
+2025_Feb,41,Potato,Rajshahi,2024-09-01,5200.0,False
+2025_Feb,41,Potato,Rajshahi,2024-10-01,5200.0,False
+2025_Feb,41,Potato,Rajshahi,2024-11-01,5000.0,False
+2025_Feb,41,Potato,Rajshahi,2024-12-01,5100.0,False
+2025_Feb,41,Potato,Rajshahi,2025-01-01,4550.0,False
+2025_Feb,41,Potato,Rajshahi,2025-02-01,4600.0,False
+2025_Feb,41,Potato,Khulna,2024-09-01,5800.0,False
+2025_Feb,41,Potato,Khulna,2024-10-01,5500.0,False
+2025_Feb,41,Potato,Khulna,2024-11-01,5400.0,False
+2025_Feb,41,Potato,Khulna,2024-12-01,5300.0,False
+2025_Feb,41,Potato,Khulna,2025-01-01,4300.0,False
+2025_Feb,41,Potato,Khulna,2025-02-01,4200.0,False
+2025_Feb,41,Potato,Sylhet,2024-09-01,4780.0,False
+2025_Feb,41,Potato,Sylhet,2024-10-01,4850.0,False
+2025_Feb,41,Potato,Sylhet,2024-11-01,4890.0,False
+2025_Feb,41,Potato,Sylhet,2024-12-01,4900.0,False
+2025_Feb,41,Potato,Sylhet,2025-01-01,4300.0,False
+2025_Feb,41,Potato,Sylhet,2025-02-01,4200.0,False
+2025_Feb,41,Potato,Rangpur,2024-09-01,5200.0,False
+2025_Feb,41,Potato,Rangpur,2024-10-01,5270.0,False
+2025_Feb,41,Potato,Rangpur,2024-11-01,4900.0,False
+2025_Feb,41,Potato,Rangpur,2024-12-01,5000.0,False
+2025_Feb,41,Potato,Rangpur,2025-01-01,4900.0,False
+2025_Feb,41,Potato,Rangpur,2025-02-01,4800.0,False
+2026_Aug,39,Rice (Medium),Dhaka,2026-03-01,6120.0,False
+2026_Aug,39,Rice (Medium),Dhaka,2026-04-01,6120.0,False
+2026_Aug,39,Rice (Medium),Dhaka,2026-05-01,6100.0,False
+2026_Aug,39,Rice (Medium),Dhaka,2026-06-01,6080.0,False
+2026_Aug,39,Rice (Medium),Dhaka,2026-07-01,6020.0,False
+2026_Aug,39,Rice (Medium),Dhaka,2026-08-01,6010.0,False
+2026_Aug,39,Rice (Medium),Chattogram,2026-03-01,6100.0,False
+2026_Aug,39,Rice (Medium),Chattogram,2026-04-01,6100.0,False
+2026_Aug,39,Rice (Medium),Chattogram,2026-05-01,6050.0,False
+2026_Aug,39,Rice (Medium),Chattogram,2026-06-01,6065.0,False
+2026_Aug,39,Rice (Medium),Chattogram,2026-07-01,6000.0,False
+2026_Aug,39,Rice (Medium),Chattogram,2026-08-01,6000.0,False
+2026_Aug,39,Rice (Medium),Rajshahi,2026-03-01,6000.0,False
+2026_Aug,39,Rice (Medium),Rajshahi,2026-04-01,6000.0,False
+2026_Aug,39,Rice (Medium),Rajshahi,2026-05-01,6000.0,False
+2026_Aug,39,Rice (Medium),Rajshahi,2026-06-01,5950.0,False
+2026_Aug,39,Rice (Medium),Rajshahi,2026-07-01,5930.0,False
+2026_Aug,39,Rice (Medium),Rajshahi,2026-08-01,5925.0,False
+2026_Aug,39,Rice (Medium),Khulna,2026-03-01,6425.0,False
+2026_Aug,39,Rice (Medium),Khulna,2026-04-01,6420.0,False
+2026_Aug,39,Rice (Medium),Khulna,2026-05-01,6300.0,False
+2026_Aug,39,Rice (Medium),Khulna,2026-06-01,6300.0,False
+2026_Aug,39,Rice (Medium),Khulna,2026-07-01,6295.0,False
+2026_Aug,39,Rice (Medium),Khulna,2026-08-01,6290.0,False
+2026_Aug,39,Rice (Medium),Sylhet,2026-03-01,6100.0,False
+2026_Aug,39,Rice (Medium),Sylhet,2026-04-01,6100.0,False
+2026_Aug,39,Rice (Medium),Sylhet,2026-05-01,6080.0,False
+2026_Aug,39,Rice (Medium),Sylhet,2026-06-01,6020.0,False
+2026_Aug,39,Rice (Medium),Sylhet,2026-07-01,6020.0,False
+2026_Aug,39,Rice (Medium),Sylhet,2026-08-01,6020.0,False
+2026_Aug,39,Rice (Medium),Rangpur,2026-03-01,6100.0,False
+2026_Aug,39,Rice (Medium),Rangpur,2026-04-01,6080.0,False
+2026_Aug,39,Rice (Medium),Rangpur,2026-05-01,6000.0,False
+2026_Aug,39,Rice (Medium),Rangpur,2026-06-01,6000.0,False
+2026_Aug,39,Rice (Medium),Rangpur,2026-07-01,6000.0,True
+2026_Aug,39,Rice (Medium),Rangpur,2026-08-01,6000.0,True
+2026_Aug,39,Rice (Coarse),Dhaka,2026-03-01,5420.0,False
+2026_Aug,39,Rice (Coarse),Dhaka,2026-04-01,5420.0,False
+2026_Aug,39,Rice (Coarse),Dhaka,2026-05-01,5400.0,False
+2026_Aug,39,Rice (Coarse),Dhaka,2026-06-01,5400.0,False
+2026_Aug,39,Rice (Coarse),Dhaka,2026-07-01,5350.0,False
+2026_Aug,39,Rice (Coarse),Dhaka,2026-08-01,5340.0,False
+2026_Aug,39,Rice (Coarse),Chattogram,2026-03-01,5520.0,False
+2026_Aug,39,Rice (Coarse),Chattogram,2026-04-01,5520.0,False
+2026_Aug,39,Rice (Coarse),Chattogram,2026-05-01,5520.0,False
+2026_Aug,39,Rice (Coarse),Chattogram,2026-06-01,5500.0,False
+2026_Aug,39,Rice (Coarse),Chattogram,2026-07-01,5490.0,False
+2026_Aug,39,Rice (Coarse),Chattogram,2026-08-01,5490.0,False
+2026_Aug,39,Rice (Coarse),Rajshahi,2026-03-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Rajshahi,2026-04-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Rajshahi,2026-05-01,5370.0,False
+2026_Aug,39,Rice (Coarse),Rajshahi,2026-06-01,5390.0,False
+2026_Aug,39,Rice (Coarse),Rajshahi,2026-07-01,5320.0,False
+2026_Aug,39,Rice (Coarse),Rajshahi,2026-08-01,5320.0,False
+2026_Aug,39,Rice (Coarse),Khulna,2026-03-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Khulna,2026-04-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Khulna,2026-05-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Khulna,2026-06-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Khulna,2026-07-01,5350.0,False
+2026_Aug,39,Rice (Coarse),Khulna,2026-08-01,5350.0,False
+2026_Aug,39,Rice (Coarse),Sylhet,2026-03-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Sylhet,2026-04-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Sylhet,2026-05-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Sylhet,2026-06-01,5380.0,False
+2026_Aug,39,Rice (Coarse),Sylhet,2026-07-01,5350.0,False
+2026_Aug,39,Rice (Coarse),Sylhet,2026-08-01,5350.0,False
+2026_Aug,39,Rice (Coarse),Rangpur,2026-03-01,5220.0,False
+2026_Aug,39,Rice (Coarse),Rangpur,2026-04-01,5220.0,False
+2026_Aug,39,Rice (Coarse),Rangpur,2026-05-01,5225.0,False
+2026_Aug,39,Rice (Coarse),Rangpur,2026-06-01,5230.0,False
+2026_Aug,39,Rice (Coarse),Rangpur,2026-07-01,5225.0,False
+2026_Aug,39,Rice (Coarse),Rangpur,2026-08-01,5220.0,False
+2026_Aug,39,Masur,Dhaka,2026-03-01,13650.0,False
+2026_Aug,39,Masur,Dhaka,2026-04-01,13650.0,False
+2026_Aug,39,Masur,Dhaka,2026-05-01,13670.0,False
+2026_Aug,39,Masur,Dhaka,2026-06-01,13660.0,False
+2026_Aug,39,Masur,Dhaka,2026-07-01,13630.0,False
+2026_Aug,39,Masur,Dhaka,2026-08-01,13600.0,False
+2026_Aug,39,Masur,Chattogram,2026-03-01,13570.0,False
+2026_Aug,39,Masur,Chattogram,2026-04-01,13570.0,False
+2026_Aug,39,Masur,Chattogram,2026-05-01,13570.0,False
+2026_Aug,39,Masur,Chattogram,2026-06-01,13570.0,False
+2026_Aug,39,Masur,Chattogram,2026-07-01,13570.0,False
+2026_Aug,39,Masur,Chattogram,2026-08-01,13570.0,False
+2026_Aug,39,Masur,Rajshahi,2026-03-01,13380.0,False
+2026_Aug,39,Masur,Rajshahi,2026-04-01,13380.0,False
+2026_Aug,39,Masur,Rajshahi,2026-05-01,13380.0,False
+2026_Aug,39,Masur,Rajshahi,2026-06-01,13380.0,False
+2026_Aug,39,Masur,Rajshahi,2026-07-01,13390.0,False
+2026_Aug,39,Masur,Rajshahi,2026-08-01,13380.0,False
+2026_Aug,39,Masur,Khulna,2026-03-01,13560.0,False
+2026_Aug,39,Masur,Khulna,2026-04-01,13560.0,False
+2026_Aug,39,Masur,Khulna,2026-05-01,13560.0,False
+2026_Aug,39,Masur,Khulna,2026-06-01,13560.0,False
+2026_Aug,39,Masur,Khulna,2026-07-01,13565.0,False
+2026_Aug,39,Masur,Khulna,2026-08-01,13565.0,False
+2026_Aug,39,Masur,Sylhet,2026-03-01,13320.0,False
+2026_Aug,39,Masur,Sylhet,2026-04-01,13310.0,False
+2026_Aug,39,Masur,Sylhet,2026-05-01,13300.0,False
+2026_Aug,39,Masur,Sylhet,2026-06-01,13310.0,False
+2026_Aug,39,Masur,Sylhet,2026-07-01,13310.0,False
+2026_Aug,39,Masur,Sylhet,2026-08-01,13310.0,False
+2026_Aug,39,Masur,Rangpur,2026-03-01,13220.0,False
+2026_Aug,39,Masur,Rangpur,2026-04-01,13220.0,False
+2026_Aug,39,Masur,Rangpur,2026-05-01,13220.0,False
+2026_Aug,39,Masur,Rangpur,2026-06-01,13220.0,False
+2026_Aug,39,Masur,Rangpur,2026-07-01,13220.0,False
+2026_Aug,39,Masur,Rangpur,2026-08-01,13220.0,False
+2026_Aug,40,Onion,Dhaka,2026-03-01,3500.0,False
+2026_Aug,40,Onion,Dhaka,2026-04-01,3500.0,False
+2026_Aug,40,Onion,Dhaka,2026-05-01,3820.0,False
+2026_Aug,40,Onion,Dhaka,2026-06-01,3820.0,False
+2026_Aug,40,Onion,Dhaka,2026-07-01,3880.0,False
+2026_Aug,40,Onion,Dhaka,2026-08-01,4000.0,False
+2026_Aug,40,Onion,Chattogram,2026-03-01,3600.0,False
+2026_Aug,40,Onion,Chattogram,2026-04-01,3600.0,False
+2026_Aug,40,Onion,Chattogram,2026-05-01,3600.0,False
+2026_Aug,40,Onion,Chattogram,2026-06-01,3600.0,False
+2026_Aug,40,Onion,Chattogram,2026-07-01,3680.0,False
+2026_Aug,40,Onion,Chattogram,2026-08-01,3660.0,False
+2026_Aug,40,Onion,Rajshahi,2026-03-01,3500.0,False
+2026_Aug,40,Onion,Rajshahi,2026-04-01,3600.0,False
+2026_Aug,40,Onion,Rajshahi,2026-05-01,3500.0,False
+2026_Aug,40,Onion,Rajshahi,2026-06-01,3600.0,False
+2026_Aug,40,Onion,Rajshahi,2026-07-01,3633.0,False
+2026_Aug,40,Onion,Rajshahi,2026-08-01,3638.0,False
+2026_Aug,40,Onion,Khulna,2026-03-01,3800.0,False
+2026_Aug,40,Onion,Khulna,2026-04-01,3600.0,False
+2026_Aug,40,Onion,Khulna,2026-05-01,3800.0,False
+2026_Aug,40,Onion,Khulna,2026-06-01,3800.0,False
+2026_Aug,40,Onion,Khulna,2026-07-01,3800.0,True
+2026_Aug,40,Onion,Khulna,2026-08-01,3800.0,True
+2026_Aug,40,Onion,Sylhet,2026-03-01,3800.0,False
+2026_Aug,40,Onion,Sylhet,2026-04-01,3800.0,False
+2026_Aug,40,Onion,Sylhet,2026-05-01,3800.0,False
+2026_Aug,40,Onion,Sylhet,2026-06-01,3800.0,False
+2026_Aug,40,Onion,Sylhet,2026-07-01,3900.0,False
+2026_Aug,40,Onion,Sylhet,2026-08-01,3910.0,False
+2026_Aug,40,Onion,Rangpur,2026-03-01,3500.0,False
+2026_Aug,40,Onion,Rangpur,2026-04-01,3500.0,False
+2026_Aug,40,Onion,Rangpur,2026-05-01,3500.0,False
+2026_Aug,40,Onion,Rangpur,2026-06-01,3500.0,False
+2026_Aug,40,Onion,Rangpur,2026-07-01,3500.0,False
+2026_Aug,40,Onion,Rangpur,2026-08-01,3500.0,False
+2026_Aug,41,Potato,Dhaka,2026-03-01,1600.0,False
+2026_Aug,41,Potato,Dhaka,2026-04-01,1600.0,False
+2026_Aug,41,Potato,Dhaka,2026-05-01,1700.0,False
+2026_Aug,41,Potato,Dhaka,2026-06-01,1720.0,False
+2026_Aug,41,Potato,Dhaka,2026-07-01,1750.0,False
+2026_Aug,41,Potato,Dhaka,2026-08-01,1760.0,False
+2026_Aug,41,Potato,Chattogram,2026-03-01,1600.0,False
+2026_Aug,41,Potato,Chattogram,2026-04-01,1600.0,False
+2026_Aug,41,Potato,Chattogram,2026-05-01,1680.0,False
+2026_Aug,41,Potato,Chattogram,2026-06-01,1700.0,False
+2026_Aug,41,Potato,Chattogram,2026-07-01,1720.0,False
+2026_Aug,41,Potato,Chattogram,2026-08-01,1750.0,False
+2026_Aug,41,Potato,Rajshahi,2026-03-01,1680.0,False
+2026_Aug,41,Potato,Rajshahi,2026-04-01,1680.0,False
+2026_Aug,41,Potato,Rajshahi,2026-05-01,1680.0,False
+2026_Aug,41,Potato,Rajshahi,2026-06-01,1680.0,False
+2026_Aug,41,Potato,Rajshahi,2026-07-01,1690.0,False
+2026_Aug,41,Potato,Rajshahi,2026-08-01,1690.0,False
+2026_Aug,41,Potato,Khulna,2026-03-01,1500.0,False
+2026_Aug,41,Potato,Khulna,2026-04-01,1600.0,False
+2026_Aug,41,Potato,Khulna,2026-05-01,1600.0,False
+2026_Aug,41,Potato,Khulna,2026-06-01,1600.0,False
+2026_Aug,41,Potato,Khulna,2026-07-01,1630.0,False
+2026_Aug,41,Potato,Khulna,2026-08-01,1650.0,False
+2026_Aug,41,Potato,Sylhet,2026-03-01,1620.0,False
+2026_Aug,41,Potato,Sylhet,2026-04-01,1650.0,False
+2026_Aug,41,Potato,Sylhet,2026-05-01,1660.0,False
+2026_Aug,41,Potato,Sylhet,2026-06-01,1650.0,False
+2026_Aug,41,Potato,Sylhet,2026-07-01,1660.0,False
+2026_Aug,41,Potato,Sylhet,2026-08-01,1660.0,False
+2026_Aug,41,Potato,Rangpur,2026-03-01,1600.0,False
+2026_Aug,41,Potato,Rangpur,2026-04-01,1610.0,False
+2026_Aug,41,Potato,Rangpur,2026-05-01,1620.0,False
+2026_Aug,41,Potato,Rangpur,2026-06-01,1615.0,False
+2026_Aug,41,Potato,Rangpur,2026-07-01,1620.0,True
+2026_Aug,41,Potato,Rangpur,2026-08-01,1615.0,True
+2026_Feb,39,Rice (Medium),Dhaka,2025-09-01,6500.0,False
+2026_Feb,39,Rice (Medium),Dhaka,2025-10-01,6500.0,False
+2026_Feb,39,Rice (Medium),Dhaka,2025-11-01,6200.0,False
+2026_Feb,39,Rice (Medium),Dhaka,2025-12-01,6150.0,False
+2026_Feb,39,Rice (Medium),Dhaka,2026-01-01,6180.0,False
+2026_Feb,39,Rice (Medium),Dhaka,2026-02-01,6150.0,False
+2026_Feb,39,Rice (Medium),Chattogram,2025-09-01,6480.0,False
+2026_Feb,39,Rice (Medium),Chattogram,2025-10-01,6480.0,False
+2026_Feb,39,Rice (Medium),Chattogram,2025-11-01,6150.0,False
+2026_Feb,39,Rice (Medium),Chattogram,2025-12-01,6180.0,False
+2026_Feb,39,Rice (Medium),Chattogram,2026-01-01,6170.0,False
+2026_Feb,39,Rice (Medium),Chattogram,2026-02-01,6180.0,False
+2026_Feb,39,Rice (Medium),Rajshahi,2025-09-01,6450.0,False
+2026_Feb,39,Rice (Medium),Rajshahi,2025-10-01,6450.0,False
+2026_Feb,39,Rice (Medium),Rajshahi,2025-11-01,6100.0,False
+2026_Feb,39,Rice (Medium),Rajshahi,2025-12-01,6120.0,False
+2026_Feb,39,Rice (Medium),Rajshahi,2026-01-01,6100.0,True
+2026_Feb,39,Rice (Medium),Rajshahi,2026-02-01,6120.0,True
+2026_Feb,39,Rice (Medium),Khulna,2025-09-01,6460.0,False
+2026_Feb,39,Rice (Medium),Khulna,2025-10-01,6460.0,False
+2026_Feb,39,Rice (Medium),Khulna,2025-11-01,6460.0,False
+2026_Feb,39,Rice (Medium),Khulna,2025-12-01,6460.0,False
+2026_Feb,39,Rice (Medium),Khulna,2026-01-01,6460.0,False
+2026_Feb,39,Rice (Medium),Khulna,2026-02-01,6460.0,False
+2026_Feb,39,Rice (Medium),Sylhet,2025-09-01,6100.0,False
+2026_Feb,39,Rice (Medium),Sylhet,2025-10-01,6100.0,False
+2026_Feb,39,Rice (Medium),Sylhet,2025-11-01,6100.0,False
+2026_Feb,39,Rice (Medium),Sylhet,2025-12-01,6100.0,False
+2026_Feb,39,Rice (Medium),Sylhet,2026-01-01,6100.0,False
+2026_Feb,39,Rice (Medium),Sylhet,2026-02-01,6100.0,False
+2026_Feb,39,Rice (Medium),Rangpur,2025-09-01,6200.0,False
+2026_Feb,39,Rice (Medium),Rangpur,2025-10-01,6200.0,False
+2026_Feb,39,Rice (Medium),Rangpur,2025-11-01,6100.0,False
+2026_Feb,39,Rice (Medium),Rangpur,2025-12-01,6080.0,False
+2026_Feb,39,Rice (Medium),Rangpur,2026-01-01,6100.0,True
+2026_Feb,39,Rice (Medium),Rangpur,2026-02-01,6080.0,True
+2026_Feb,39,Rice (Coarse),Dhaka,2025-09-01,5880.0,False
+2026_Feb,39,Rice (Coarse),Dhaka,2025-10-01,5885.0,False
+2026_Feb,39,Rice (Coarse),Dhaka,2025-11-01,5500.0,False
+2026_Feb,39,Rice (Coarse),Dhaka,2025-12-01,5520.0,False
+2026_Feb,39,Rice (Coarse),Dhaka,2026-01-01,5500.0,True
+2026_Feb,39,Rice (Coarse),Dhaka,2026-02-01,5520.0,True
+2026_Feb,39,Rice (Coarse),Chattogram,2025-09-01,5740.0,False
+2026_Feb,39,Rice (Coarse),Chattogram,2025-10-01,5750.0,False
+2026_Feb,39,Rice (Coarse),Chattogram,2025-11-01,5600.0,False
+2026_Feb,39,Rice (Coarse),Chattogram,2025-12-01,5580.0,False
+2026_Feb,39,Rice (Coarse),Chattogram,2026-01-01,5600.0,True
+2026_Feb,39,Rice (Coarse),Chattogram,2026-02-01,5580.0,True
+2026_Feb,39,Rice (Coarse),Rajshahi,2025-09-01,5540.0,False
+2026_Feb,39,Rice (Coarse),Rajshahi,2025-10-01,5540.0,False
+2026_Feb,39,Rice (Coarse),Rajshahi,2025-11-01,5400.0,False
+2026_Feb,39,Rice (Coarse),Rajshahi,2025-12-01,5380.0,False
+2026_Feb,39,Rice (Coarse),Rajshahi,2026-01-01,5400.0,True
+2026_Feb,39,Rice (Coarse),Rajshahi,2026-02-01,5380.0,True
+2026_Feb,39,Rice (Coarse),Khulna,2025-09-01,5400.0,False
+2026_Feb,39,Rice (Coarse),Khulna,2025-10-01,5400.0,False
+2026_Feb,39,Rice (Coarse),Khulna,2025-11-01,5380.0,False
+2026_Feb,39,Rice (Coarse),Khulna,2025-12-01,5380.0,False
+2026_Feb,39,Rice (Coarse),Khulna,2026-01-01,5380.0,True
+2026_Feb,39,Rice (Coarse),Khulna,2026-02-01,5380.0,True
+2026_Feb,39,Rice (Coarse),Sylhet,2025-09-01,5550.0,False
+2026_Feb,39,Rice (Coarse),Sylhet,2025-10-01,5545.0,False
+2026_Feb,39,Rice (Coarse),Sylhet,2025-11-01,5400.0,False
+2026_Feb,39,Rice (Coarse),Sylhet,2025-12-01,5370.0,False
+2026_Feb,39,Rice (Coarse),Sylhet,2026-01-01,5400.0,False
+2026_Feb,39,Rice (Coarse),Sylhet,2026-02-01,5390.0,False
+2026_Feb,39,Rice (Coarse),Rangpur,2025-09-01,5440.0,False
+2026_Feb,39,Rice (Coarse),Rangpur,2025-10-01,5440.0,False
+2026_Feb,39,Rice (Coarse),Rangpur,2025-11-01,5280.0,False
+2026_Feb,39,Rice (Coarse),Rangpur,2025-12-01,5300.0,False
+2026_Feb,39,Rice (Coarse),Rangpur,2026-01-01,5280.0,True
+2026_Feb,39,Rice (Coarse),Rangpur,2026-02-01,5300.0,True
+2026_Feb,39,Masur,Dhaka,2025-09-01,13620.0,False
+2026_Feb,39,Masur,Dhaka,2025-10-01,13620.0,False
+2026_Feb,39,Masur,Dhaka,2025-11-01,13680.0,False
+2026_Feb,39,Masur,Dhaka,2025-12-01,13650.0,False
+2026_Feb,39,Masur,Dhaka,2026-01-01,13680.0,True
+2026_Feb,39,Masur,Dhaka,2026-02-01,13650.0,True
+2026_Feb,39,Masur,Chattogram,2025-09-01,13560.0,False
+2026_Feb,39,Masur,Chattogram,2025-10-01,13560.0,False
+2026_Feb,39,Masur,Chattogram,2025-11-01,13570.0,False
+2026_Feb,39,Masur,Chattogram,2025-12-01,13580.0,False
+2026_Feb,39,Masur,Chattogram,2026-01-01,13570.0,True
+2026_Feb,39,Masur,Chattogram,2026-02-01,13580.0,True
+2026_Feb,39,Masur,Rajshahi,2025-09-01,13360.0,False
+2026_Feb,39,Masur,Rajshahi,2025-10-01,13360.0,False
+2026_Feb,39,Masur,Rajshahi,2025-11-01,13400.0,False
+2026_Feb,39,Masur,Rajshahi,2025-12-01,13385.0,False
+2026_Feb,39,Masur,Rajshahi,2026-01-01,13400.0,True
+2026_Feb,39,Masur,Rajshahi,2026-02-01,13385.0,True
+2026_Feb,39,Masur,Khulna,2025-09-01,13550.0,False
+2026_Feb,39,Masur,Khulna,2025-10-01,13550.0,False
+2026_Feb,39,Masur,Khulna,2025-11-01,13560.0,False
+2026_Feb,39,Masur,Khulna,2025-12-01,13550.0,False
+2026_Feb,39,Masur,Khulna,2026-01-01,13560.0,False
+2026_Feb,39,Masur,Khulna,2026-02-01,13560.0,False
+2026_Feb,39,Masur,Sylhet,2025-09-01,13300.0,False
+2026_Feb,39,Masur,Sylhet,2025-10-01,13300.0,False
+2026_Feb,39,Masur,Sylhet,2025-11-01,13320.0,False
+2026_Feb,39,Masur,Sylhet,2025-12-01,13310.0,False
+2026_Feb,39,Masur,Sylhet,2026-01-01,13320.0,True
+2026_Feb,39,Masur,Sylhet,2026-02-01,13310.0,True
+2026_Feb,39,Masur,Rangpur,2025-09-01,13150.0,False
+2026_Feb,39,Masur,Rangpur,2025-10-01,13150.0,False
+2026_Feb,39,Masur,Rangpur,2025-11-01,13220.0,False
+2026_Feb,39,Masur,Rangpur,2025-12-01,13220.0,False
+2026_Feb,39,Masur,Rangpur,2026-01-01,13220.0,True
+2026_Feb,39,Masur,Rangpur,2026-02-01,13220.0,True
+2026_Feb,40,Onion,Dhaka,2025-09-01,6300.0,False
+2026_Feb,40,Onion,Dhaka,2025-10-01,6320.0,False
+2026_Feb,40,Onion,Dhaka,2025-11-01,5100.0,False
+2026_Feb,40,Onion,Dhaka,2025-12-01,5000.0,False
+2026_Feb,40,Onion,Dhaka,2026-01-01,4200.0,False
+2026_Feb,40,Onion,Dhaka,2026-02-01,4200.0,False
+2026_Feb,40,Onion,Chattogram,2025-09-01,5000.0,False
+2026_Feb,40,Onion,Chattogram,2025-10-01,5000.0,False
+2026_Feb,40,Onion,Chattogram,2025-11-01,4900.0,False
+2026_Feb,40,Onion,Chattogram,2025-12-01,4920.0,False
+2026_Feb,40,Onion,Chattogram,2026-01-01,4900.0,True
+2026_Feb,40,Onion,Chattogram,2026-02-01,4920.0,True
+2026_Feb,40,Onion,Rajshahi,2025-09-01,5000.0,False
+2026_Feb,40,Onion,Rajshahi,2025-10-01,5030.0,False
+2026_Feb,40,Onion,Rajshahi,2025-11-01,4850.0,False
+2026_Feb,40,Onion,Rajshahi,2025-12-01,5820.0,False
+2026_Feb,40,Onion,Rajshahi,2026-01-01,4850.0,True
+2026_Feb,40,Onion,Rajshahi,2026-02-01,5820.0,True
+2026_Feb,40,Onion,Khulna,2025-09-01,4980.0,False
+2026_Feb,40,Onion,Khulna,2025-10-01,5000.0,False
+2026_Feb,40,Onion,Khulna,2025-11-01,4900.0,False
+2026_Feb,40,Onion,Khulna,2025-12-01,4900.0,False
+2026_Feb,40,Onion,Khulna,2026-01-01,4900.0,True
+2026_Feb,40,Onion,Khulna,2026-02-01,4900.0,True
+2026_Feb,40,Onion,Sylhet,2025-09-01,5220.0,False
+2026_Feb,40,Onion,Sylhet,2025-10-01,5250.0,False
+2026_Feb,40,Onion,Sylhet,2025-11-01,5000.0,False
+2026_Feb,40,Onion,Sylhet,2025-12-01,5100.0,False
+2026_Feb,40,Onion,Sylhet,2026-01-01,5000.0,True
+2026_Feb,40,Onion,Sylhet,2026-02-01,5100.0,True
+2026_Feb,40,Onion,Rangpur,2025-09-01,4920.0,False
+2026_Feb,40,Onion,Rangpur,2025-10-01,4900.0,False
+2026_Feb,40,Onion,Rangpur,2025-11-01,4900.0,False
+2026_Feb,40,Onion,Rangpur,2025-12-01,4900.0,False
+2026_Feb,40,Onion,Rangpur,2026-01-01,4900.0,True
+2026_Feb,40,Onion,Rangpur,2026-02-01,4900.0,True
+2026_Feb,41,Potato,Dhaka,2025-09-01,1800.0,False
+2026_Feb,41,Potato,Dhaka,2025-10-01,1900.0,False
+2026_Feb,41,Potato,Dhaka,2025-11-01,1600.0,False
+2026_Feb,41,Potato,Dhaka,2025-12-01,1600.0,False
+2026_Feb,41,Potato,Dhaka,2026-01-01,1600.0,True
+2026_Feb,41,Potato,Dhaka,2026-02-01,1600.0,True
+2026_Feb,41,Potato,Chattogram,2025-09-01,2000.0,False
+2026_Feb,41,Potato,Chattogram,2025-10-01,1900.0,False
+2026_Feb,41,Potato,Chattogram,2025-11-01,1600.0,False
+2026_Feb,41,Potato,Chattogram,2025-12-01,1600.0,False
+2026_Feb,41,Potato,Chattogram,2026-01-01,1600.0,True
+2026_Feb,41,Potato,Chattogram,2026-02-01,1600.0,True
+2026_Feb,41,Potato,Rajshahi,2025-09-01,2000.0,False
+2026_Feb,41,Potato,Rajshahi,2025-10-01,2000.0,False
+2026_Feb,41,Potato,Rajshahi,2025-11-01,1680.0,False
+2026_Feb,41,Potato,Rajshahi,2025-12-01,1680.0,False
+2026_Feb,41,Potato,Rajshahi,2026-01-01,1680.0,True
+2026_Feb,41,Potato,Rajshahi,2026-02-01,1680.0,True
+2026_Feb,41,Potato,Khulna,2025-09-01,1900.0,False
+2026_Feb,41,Potato,Khulna,2025-10-01,1880.0,False
+2026_Feb,41,Potato,Khulna,2025-11-01,1500.0,False
+2026_Feb,41,Potato,Khulna,2025-12-01,1600.0,False
+2026_Feb,41,Potato,Khulna,2026-01-01,1500.0,True
+2026_Feb,41,Potato,Khulna,2026-02-01,1600.0,True
+2026_Feb,41,Potato,Sylhet,2025-09-01,2000.0,False
+2026_Feb,41,Potato,Sylhet,2025-10-01,2000.0,False
+2026_Feb,41,Potato,Sylhet,2025-11-01,1620.0,False
+2026_Feb,41,Potato,Sylhet,2025-12-01,1650.0,False
+2026_Feb,41,Potato,Sylhet,2026-01-01,1620.0,True
+2026_Feb,41,Potato,Sylhet,2026-02-01,1650.0,True
+2026_Feb,41,Potato,Rangpur,2025-09-01,2000.0,False
+2026_Feb,41,Potato,Rangpur,2025-10-01,2000.0,False
+2026_Feb,41,Potato,Rangpur,2025-11-01,1600.0,False
+2026_Feb,41,Potato,Rangpur,2025-12-01,1610.0,False
+2026_Feb,41,Potato,Rangpur,2026-01-01,1600.0,True
+2026_Feb,41,Potato,Rangpur,2026-02-01,1610.0,True

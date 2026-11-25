@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+{% block title %}Sell or wait?{% endblock %}
+{% block content %}
+<div class="row g-4">
+  <div class="col-lg-5">
+    <div class="dk-card">
+      <h3 class="fw-bold mb-1">বেচব না রাখব?</h3>
+      <p class="en mb-4">Sell now or wait a month?</p>
+      <form method="POST" action="/decide">
+        <div class="mb-3">
+          <label class="form-label fw-semibold">ফসল ও এলাকা <span class="en">Crop and area</span></label>
+          <select class="form-select" name="series" required>
+            {% for o in options %}
+            <option value="{{ o.id }}" {{ 'selected' if o.id == selected.series }}>{{ o.label }} ({{ o.label_en }})</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label fw-semibold">পরিমাণ <span class="en">Quantity</span></label>
+          <div class="input-group">
+            <input type="text" inputmode="decimal" class="form-control" name="quantity" value="{{ selected.quantity }}" required>
+            <select class="form-select" name="unit" style="max-width: 130px">
+              <option value="maund" {{ 'selected' if selected.unit == 'maund' }}>মণ (maund)</option>
+              <option value="kg" {{ 'selected' if selected.unit == 'kg' }}>কেজি (kg)</option>
+            </select>
+          </div>
+        </div>
+        <div class="mb-4">
+          <label class="form-label fw-semibold">সংরক্ষণ <span class="en">Storage cost per month</span></label>
+          {% for value, bn, en in storage_options %}
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="storage" id="s{{ loop.index }}" value="{{ value }}"
+                   {{ 'checked' if value|string == selected.storage }}>
+            <label class="form-check-label" for="s{{ loop.index }}">{{ bn }} <span class="en">{{ en }}</span></label>
+          </div>
+          {% endfor %}
+          <div class="form-text">ভাড়া, ইঁদুর-পোকায় নষ্ট, শুকিয়ে ওজন কমা, ঋণের সুদ সব মিলিয়ে।</div>
+        </div>
+        <button class="btn btn-green w-100">⚖️ হিসাব করুন · Calculate</button>
+      </form>
+      {% if error %}<div class="alert alert-danger mt-3 mb-0">{{ error }}</div>{% endif %}
+    </div>
+  </div>
+
+  <div class="col-lg-7">
+    {% if advice %}
+    {% set a = advice %}
+    {% set wait = a.decision == 'wait' %}
+    <div class="dk-card" style="border-left: 8px solid {{ '#2f8f46' if wait else '#c0762b' }}">
+      <div class="text-uppercase en mb-1">{{ a.crop | crop_bn }} · {{ a.market | market_bn }} · {{ a.data_month | month_bn }}-এর দাম অনুযায়ী</div>
+      {% if wait %}
+        <h2 class="fw-bold" style="color:#2f8f46">⏳ এক মাস অপেক্ষা করুন</h2>
+        <p class="lead mb-1">আনুমানিক বাড়তি আয় <strong>{{ a.gain_tk | tk }}</strong> (সংরক্ষণ খরচ বাদে)</p>
+        <p class="en">Waiting a month is expected to earn about Tk {{ '{:,.0f}'.format(a.gain_tk) }} more, after storage cost.</p>
+      {% else %}
+        <h2 class="fw-bold" style="color:#c0762b">💰 এখনই বিক্রি করুন</h2>
+        {% if a.reason == 'forecast_unreliable' %}
+          <p class="mb-1">পূর্বাভাস দাম বাড়ার কথা বলছে (আনুমানিক {{ a.gain_tk | tk }} বাড়তি), কিন্তু অতীতের পরীক্ষায় এই এলাকার এই ফসলে
+            পূর্বাভাস মেনে চলে লাভ হয়নি ({{ '%+.2f' | format(a.backtest_gain_pct) }}%)। তাই ঝুঁকি না নিয়ে এখন বিক্রিই নিরাপদ।</p>
+          <p class="en">The forecast points up, but following it here lost money in past tests, so selling now is the safer choice.</p>
+        {% else %}
+          <p class="mb-1">সংরক্ষণ খরচ বাদ দিলে অপেক্ষা করে লাভ হবে না বলে পূর্বাভাস
+            (অপেক্ষা করলে আনুমানিক {{ a.gain_tk | tk }})।</p>
+          <p class="en">After storage cost, waiting is not expected to pay (about Tk {{ '{:,.0f}'.format(a.gain_tk) }} if you wait).</p>
+        {% endif %}
+      {% endif %}
+
+      <table class="table mt-3 mb-3">
+        <tbody>
+        <tr><td>এখনকার দাম <span class="en">Price now</span></td>
+            <td class="text-end">{{ a.price_now_maund | tk }}/মণ <span class="en">(৳{{ '%.2f' | format(a.price_now) }}/kg)</span></td></tr>
+        <tr><td>পরের মাসের পূর্বাভাস <span class="en">Forecast, next month</span></td>
+            <td class="text-end">{{ a.price_next_maund | tk }}/মণ <span class="en">(৳{{ '%.2f' | format(a.price_next) }}/kg)</span></td></tr>
+        <tr><td>সম্ভাব্য সীমা (৮০%) <span class="en">Likely range</span></td>
+            <td class="text-end">{{ (a.price_next_lo * KG_PER_MAUND) | tk }} – {{ (a.price_next_hi * KG_PER_MAUND) | tk }}/মণ</td></tr>
+        <tr><td>অপেক্ষা করলে লাভ/ক্ষতির সীমা <span class="en">Gain range if you wait</span></td>
+            <td class="text-end">{{ a.gain_lo_tk | tk }} থেকে {{ a.gain_hi_tk | tk }}</td></tr>
+        </tbody>
+      </table>
+
+      {% if a.backtest_months %}
+      <div class="p-3 rounded" style="background: var(--bg)">
+        <strong>এই পরামর্শ কতটা ভরসাযোগ্য?</strong><br>
+        {% if a.wait_share == 0 %}
+        অতীতের {{ a.backtest_months | bn }} মাসে এই এলাকায় এই ফসলে মডেল প্রতিবারই "এখনই বিক্রি" বলেছে, আর
+        <strong>{{ a.hit_rate | bn }}%</strong> ক্ষেত্রে সেটাই সঠিক সিদ্ধান্ত ছিল।
+        <div class="en mt-1">In the last {{ a.backtest_months }} test months the model always advised selling now,
+          which was the best choice {{ '%.0f' | format(a.hit_rate) }}% of the time.</div>
+        {% else %}
+        অতীতের {{ a.backtest_months | bn }} মাসে এই এলাকায় এই ফসলে পরামর্শটি <strong>{{ a.hit_rate | bn }}%</strong> ক্ষেত্রে
+        সঠিক ছিল। পরামর্শ মেনে চললে গড়ে সবসময় তখনই বিক্রির চেয়ে <strong>{{ '%+.2f' | format(a.backtest_gain_pct) }}%</strong> আয় হতো।
+        <div class="en mt-1">In the last {{ a.backtest_months }} test months, this advice matched the best choice
+          {{ '%.0f' | format(a.hit_rate) }}% of the time, and changed revenue by {{ '%+.2f' | format(a.backtest_gain_pct) }}% vs always selling now.</div>
+        {% endif %}
+      </div>
+      {% endif %}
+      <p class="en mt-3 mb-0">Prices are {{ a.price_type | lower }} prices ({{ meta.get('source', '').split(',')[0] }}),
+        used as a signal for farm-gate price movements. This is advice, not a guarantee.</p>
+    </div>
+    {% else %}
+    <div class="dk-card h-100 d-flex flex-column justify-content-center">
+      <h5 class="fw-bold">বাম পাশের ঘরগুলো পূরণ করুন</h5>
+      <p class="mb-0">ফল দেখাবে: এখন বেচবেন নাকি রাখবেন, কত টাকা লাভ বা ক্ষতি হতে পারে, আর অতীতে এই পরামর্শ কতবার সঠিক ছিল।</p>
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

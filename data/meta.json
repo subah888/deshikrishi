@@ -1,0 +1,17 @@
+{
+  "source": "Bangladesh Bureau of Statistics (BBS), Monthly Statistical Bulletin, Table 3.1 Average Wholesale Prices (Mar 2020 - Aug 2026)",
+  "source_url": "https://bbs.gov.bd/",
+  "test_start": "2024-07-01",
+  "data_start": "2020-03-01",
+  "data_end": "2026-08-01",
+  "built_at": "2026-11-25",
+  "model": "Gradient Boosting on monthly price changes, pooled across series",
+  "test_months": 25,
+  "crops": [
+    "Masur",
+    "Onion",
+    "Potato",
+    "Rice (Coarse)",
+    "Rice (Medium)"
+  ]
+}

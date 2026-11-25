@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}AgriBot{% endblock %}
+{% block head %}
+<style>
+  #log { height: 420px; overflow-y: auto; background: var(--bg); border-radius: 12px; padding: 16px; }
+  .msg { max-width: 80%; padding: 10px 14px; border-radius: 14px; margin-bottom: 10px; white-space: pre-line; }
+  .bot { background: #fff; border: 1px solid #dfe9dc; }
+  .me { background: var(--green); color: #fff; margin-left: auto; }
+  .chip { cursor: pointer; }
+</style>
+{% endblock %}
+{% block content %}
+<div class="dk-card mx-auto" style="max-width: 760px">
+  <h3 class="fw-bold mb-0">🤖 AgriBot</h3>
+  <p class="en">Ask in Bangla or English: crop, area, and quantity.</p>
+  <div id="log">
+    <div class="msg bot">আসসালামু আলাইকুম! ফসল, এলাকা আর পরিমাণ লিখুন, আমি বলব এখন বেচবেন নাকি এক মাস রাখবেন।
+যেমন: "রংপুরে ২০ মণ চাল এখন বেচব?"</div>
+  </div>
+  <div class="my-2">
+    <span class="badge rounded-pill text-bg-light border chip">ঢাকায় ১০ মণ চাল বেচব?</span>
+    <span class="badge rounded-pill text-bg-light border chip">খুলনায় ৫০০ কেজি মসুর ডাল</span>
+    <span class="badge rounded-pill text-bg-light border chip">Should I sell rice in Rajshahi?</span>
+  </div>
+  <form id="f" class="input-group mt-2">
+    <input id="q" class="form-control" placeholder="প্রশ্ন লিখুন… Type your question" autocomplete="off" maxlength="500">
+    <button class="btn btn-green">পাঠান</button>
+  </form>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+  const log = document.getElementById('log'), q = document.getElementById('q');
+  let context = '';   // the earlier question, while AgriBot waits for a crop or an area
+  function add(text, cls) {
+    const d = document.createElement('div'); d.className = 'msg ' + cls; d.textContent = text;
+    log.appendChild(d); log.scrollTop = log.scrollHeight;
+  }
+  async function ask(text) {
+    if (!text.trim()) return;
+    add(text, 'me'); q.value = '';
+    try {
+      const r = await fetch('/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+                                           body: JSON.stringify({ message: text, context }) });
+      const data = await r.json();
+      context = data.context || '';
+      add(data.response, 'bot');
+    } catch (e) { add('দুঃখিত, সংযোগে সমস্যা হয়েছে। আবার চেষ্টা করুন।', 'bot'); }
+  }
+  document.getElementById('f').addEventListener('submit', e => { e.preventDefault(); ask(q.value); });
+  document.querySelectorAll('.chip').forEach(c => c.addEventListener('click', () => ask(c.textContent)));
+</script>
+{% endblock %}

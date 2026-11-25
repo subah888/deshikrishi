@@ -1,0 +1,25 @@
+Window,Storage,Strategy,Mean gain (%),Series with gain,p (vs sell now)
+Pre-crisis,1%,Seasonal change,-0.24,9/30,0.086
+Pre-crisis,1%,Random Forest,+0.07,11/30,0.737
+Pre-crisis,1%,Gradient Boosting,+0.41,11/30,0.355
+Pre-crisis,1%,Perfect foresight,+1.62,27/30,
+Pre-crisis,2%,Seasonal change,-0.35,6/30,0.058
+Pre-crisis,2%,Random Forest,-0.14,6/30,0.334
+Pre-crisis,2%,Gradient Boosting,+0.24,7/30,0.970
+Pre-crisis,2%,Perfect foresight,+1.35,20/30,
+Pre-crisis,5%,Seasonal change,-0.60,2/30,0.000 *
+Pre-crisis,5%,Random Forest,-0.17,0/30,0.018 *
+Pre-crisis,5%,Gradient Boosting,+0.05,5/30,0.917
+Pre-crisis,5%,Perfect foresight,+0.92,13/30,
+Crisis,1%,Seasonal change,-0.46,3/30,0.000 *
+Crisis,1%,Random Forest,-1.27,1/30,0.002 *
+Crisis,1%,Gradient Boosting,-0.70,7/30,0.035 *
+Crisis,1%,Perfect foresight,+1.03,29/30,
+Crisis,2%,Seasonal change,-0.64,2/30,0.000 *
+Crisis,2%,Random Forest,-1.29,1/30,0.002 *
+Crisis,2%,Gradient Boosting,-0.36,5/30,0.113
+Crisis,2%,Perfect foresight,+0.85,26/30,
+Crisis,5%,Seasonal change,-0.72,0/30,0.000 *
+Crisis,5%,Random Forest,-0.72,1/30,0.002 *
+Crisis,5%,Gradient Boosting,-0.64,1/30,0.002 *
+Crisis,5%,Perfect foresight,+0.59,22/30,

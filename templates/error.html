@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}{{ code }}{% endblock %}
+{% block content %}
+<div class="dk-card mx-auto text-center" style="max-width: 520px">
+  <div class="display-4 fw-bold" style="color: var(--green)">{{ code }}</div>
+  <p class="lead mt-2 mb-1">{{ bn }}</p>
+  <p class="en">{{ en }}</p>
+  <a href="/" class="btn btn-green mt-2">🏠 হোমে ফিরুন · Home</a>
+</div>
+{% endblock %}

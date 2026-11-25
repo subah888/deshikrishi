@@ -1,0 +1,1081 @@
+window,storage,series,commodity,model,gain_pct,share_of_perfect
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Chattogram,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Chattogram,Masur,Seasonal change,-0.08116999641106792,-63.71639863834656
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Chattogram,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Chattogram,Masur,Gradient Boosting,-0.14373728914941486,-112.83014438314618
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Chattogram,Masur,Always wait,-0.8756430194999387,-687.3576710881795
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Chattogram,Masur,Perfect foresight,0.12739263069745377,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Dhaka,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Dhaka,Masur,Seasonal change,-0.12602211129146834,-23.13097245643707
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Dhaka,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Dhaka,Masur,Gradient Boosting,-0.0413438275196798,-7.588532883642738
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Dhaka,Masur,Always wait,-0.45426147674026973,-83.37830241708855
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Dhaka,Masur,Perfect foresight,0.544819771537064,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Khulna,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Khulna,Masur,Seasonal change,-0.2820662156713616,-438.0333951764053
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Khulna,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Khulna,Masur,Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Khulna,Masur,Always wait,-0.8920747278347907,-1385.34322820079
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Khulna,Masur,Perfect foresight,0.06439376969369359,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rajshahi,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rajshahi,Masur,Seasonal change,-0.051877765817487376,
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rajshahi,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rajshahi,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rajshahi,Masur,Always wait,-0.9911194833154058,
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rajshahi,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rangpur,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rangpur,Masur,Seasonal change,-0.1465802031078045,-401.00418410073786
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rangpur,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rangpur,Masur,Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rangpur,Masur,Always wait,-0.9030955585464295,-2470.627615064477
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Rangpur,Masur,Perfect foresight,0.036553285207374664,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Sylhet,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Sylhet,Masur,Seasonal change,-0.05017302814659397,-6.596462805454078
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Sylhet,Masur,Random Forest,0.6482240226733493,85.22478736330584
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Sylhet,Masur,Gradient Boosting,0.5983179815779005,78.66342648845853
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Sylhet,Masur,Always wait,-0.9054557777024685,-119.04414742811018
+Crisis (Jul 2024–Jul 2026),0.01,Masur | Sylhet,Masur,Perfect foresight,0.7606050337327863,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Chattogram,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Chattogram,Onion,Seasonal change,-0.7339264613887453,-35.38301722404664
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Chattogram,Onion,Random Forest,-4.989087370542844,-240.5267743448842
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Chattogram,Onion,Gradient Boosting,-0.6042260373948838,-29.13008511493964
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Chattogram,Onion,Always wait,-4.674567317717382,-225.36358152938936
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Chattogram,Onion,Perfect foresight,2.0742336831861996,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Dhaka,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Dhaka,Onion,Seasonal change,-0.5092243731323776,-13.82783559710686
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Dhaka,Onion,Random Forest,-2.091983889827198,-56.80719703651423
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Dhaka,Onion,Gradient Boosting,0.04456281668181461,1.210089962956366
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Dhaka,Onion,Always wait,-4.8586462258022545,-131.93508555300747
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Dhaka,Onion,Perfect foresight,3.6826036117967975,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Khulna,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Khulna,Onion,Seasonal change,-1.2115552961774245,-31.091225639777836
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Khulna,Onion,Random Forest,-3.8662095126933416,-99.21560551884326
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Khulna,Onion,Gradient Boosting,1.1564050189670105,29.675945859931947
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Khulna,Onion,Always wait,-4.105485847680201,-105.35597281764288
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Khulna,Onion,Perfect foresight,3.896775605485847,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rajshahi,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rajshahi,Onion,Seasonal change,-0.6768445118694011,-18.71646905896694
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rajshahi,Onion,Random Forest,-3.3411038225678813,-92.39000275731641
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rajshahi,Onion,Gradient Boosting,1.8902658775097336,52.27065033284723
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rajshahi,Onion,Always wait,-3.9699365398175313,-109.77882380746067
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rajshahi,Onion,Perfect foresight,3.61630449491821,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rangpur,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rangpur,Onion,Seasonal change,0.32977315917344097,13.241572491064815
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rangpur,Onion,Random Forest,-3.3507974309013533,-134.54650825847656
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rangpur,Onion,Gradient Boosting,0.6980587428736307,28.029556650246157
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rangpur,Onion,Always wait,-4.143537562242916,-166.37786148942416
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Rangpur,Onion,Perfect foresight,2.4904380457530406,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Sylhet,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Sylhet,Onion,Seasonal change,1.7212192751006938,73.10232969625564
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Sylhet,Onion,Random Forest,-4.907860019441745,-208.44293718667163
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Sylhet,Onion,Gradient Boosting,-1.029232051104012,-43.712769094662505
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Sylhet,Onion,Always wait,-3.811484516039443,-161.87850191683958
+Crisis (Jul 2024–Jul 2026),0.01,Onion | Sylhet,Onion,Perfect foresight,2.354534092487137,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Chattogram,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Chattogram,Potato,Seasonal change,-0.8705410821643222,-227.11746253049645
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Chattogram,Potato,Random Forest,-2.2476953907815678,-586.4064133844522
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Chattogram,Potato,Gradient Boosting,-4.780761523046095,-1247.2638550017396
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Chattogram,Potato,Always wait,-5.430861723446901,-1416.8699895433908
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Chattogram,Potato,Perfect foresight,0.3832999331997433,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Dhaka,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Dhaka,Potato,Seasonal change,0.3110740435602777,11.268486784311731
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Dhaka,Potato,Random Forest,-5.506085537558436,-199.45493170420932
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Dhaka,Potato,Gradient Boosting,-3.0752695950474807,-111.39995607918178
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Dhaka,Potato,Always wait,-5.979840213317855,-216.61643525397932
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Dhaka,Potato,Perfect foresight,2.760566254498009,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Khulna,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Khulna,Potato,Seasonal change,-3.228967428967433,-258.85555555555584
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Khulna,Potato,Random Forest,-4.121275121275147,-330.38888888889113
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Khulna,Potato,Gradient Boosting,-4.666435666435675,-374.0925925925941
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Khulna,Potato,Always wait,-5.871101871101847,-470.6666666666659
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Khulna,Potato,Perfect foresight,1.2474012474012364,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rajshahi,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rajshahi,Potato,Seasonal change,-1.0486917587799072,-269.6043165467632
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rajshahi,Potato,Random Forest,-0.7222610885686098,-185.68345323740576
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rajshahi,Potato,Gradient Boosting,-4.395830418357338,-1130.1079136690591
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rajshahi,Potato,Always wait,-5.585000699594211,-1435.8273381294882
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rajshahi,Potato,Perfect foresight,0.38897439485099383,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rangpur,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rangpur,Potato,Seasonal change,-1.3486058568025983,-335.01566306997154
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rangpur,Potato,Random Forest,-1.7735042735042672,-440.56735120084227
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rangpur,Potato,Gradient Boosting,-1.996613890056509,-495.9914143172134
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rangpur,Potato,Always wait,-5.556746532156376,-1380.3863557257505
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Rangpur,Potato,Perfect foresight,0.40255009107468265,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Sylhet,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Sylhet,Potato,Seasonal change,-3.1814521926671446,-4562.268041236877
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Sylhet,Potato,Random Forest,-1.7473759884974793,-2505.7731958761615
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Sylhet,Potato,Gradient Boosting,-4.319482386772123,-6194.226804123417
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Sylhet,Potato,Always wait,-5.59769949676493,-8027.21649484497
+Crisis (Jul 2024–Jul 2026),0.01,Potato | Sylhet,Potato,Perfect foresight,0.06973400431344867,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Seasonal change,-0.24188329800294284,-66.57113613102904
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Gradient Boosting,-0.10457808025586823,-28.781985670423126
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Always wait,-0.6391833091598742,-175.91606960083058
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Perfect foresight,0.3633456060098572,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Seasonal change,-0.26800127572924604,-98.25508184924924
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Gradient Boosting,-0.056156620298819515,-20.58823529411934
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Always wait,-0.825126959593725,-302.5094441446264
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Perfect foresight,0.27276072716566624,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Seasonal change,-0.11899047766507076,-20.747840172781824
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Gradient Boosting,-0.027637996438800716,-4.819114470841992
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Always wait,-0.5631338546102094,-98.19114470842231
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Perfect foresight,0.5735077804443822,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Seasonal change,-0.1294467065155125,-93.30900896068212
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Always wait,-0.9115683224034554,-657.0853678167871
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Perfect foresight,0.1387290551655651,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Seasonal change,-0.24077156312497516,-63.81138011216218
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Gradient Boosting,-0.0489258757499611,-12.966762412803629
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Always wait,-0.6627830462550888,-175.65654493229354
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Perfect foresight,0.37731759241339535,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Seasonal change,-0.20845348307788614,-57.17556457489127
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Gradient Boosting,0.03490666261949382,9.574357373292726
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Always wait,-0.7145242070117019,-195.98293266730977
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Perfect foresight,0.36458491425099826,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Chattogram,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Chattogram,Rice (Medium),Seasonal change,-0.2996507488750022,-52.30363423212009
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Chattogram,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Chattogram,Rice (Medium),Gradient Boosting,-0.04634293773927434,-8.089097303634107
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Chattogram,Rice (Medium),Always wait,-0.667539794479155,-116.51817116061108
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Chattogram,Rice (Medium),Perfect foresight,0.5729061723420026,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Dhaka,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Dhaka,Rice (Medium),Seasonal change,-0.2226540627779161,-36.96008747949897
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Dhaka,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Dhaka,Rice (Medium),Gradient Boosting,-0.02338526398999452,-3.881902679060335
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Dhaka,Rice (Medium),Always wait,-0.6674022594776119,-110.78731547293769
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Dhaka,Rice (Medium),Perfect foresight,0.6024175751786709,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Khulna,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Khulna,Rice (Medium),Seasonal change,-0.1697804169793371,-31.111961447855652
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Khulna,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Khulna,Rice (Medium),Gradient Boosting,-0.07335965284348545,-13.443026773648562
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Khulna,Rice (Medium),Always wait,-0.48964077131392614,-89.72580625874633
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Khulna,Rice (Medium),Perfect foresight,0.5457078534373272,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Seasonal change,-0.13658275307980583,-23.567467652496234
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Always wait,-0.6520152651312228,-112.50577634011172
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Perfect foresight,0.5795393679699945,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rangpur,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rangpur,Rice (Medium),Seasonal change,-0.3752784243061025,-46.216674372010196
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rangpur,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rangpur,Rice (Medium),Gradient Boosting,0.0638186050003764,7.859454461395686
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rangpur,Rice (Medium),Always wait,-0.2567009535249909,-31.613499768832998
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Rangpur,Rice (Medium),Perfect foresight,0.8119978977400688,100.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Sylhet,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Sylhet,Rice (Medium),Seasonal change,-0.2942457231726259,-44.928759894458054
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Sylhet,Rice (Medium),Random Forest,-0.0708484534300835,-10.817941952503741
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Sylhet,Rice (Medium),Gradient Boosting,-0.0708484534300835,-10.817941952503741
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Sylhet,Rice (Medium),Always wait,-0.37045101088646337,-56.564643799471156
+Crisis (Jul 2024–Jul 2026),0.01,Rice (Medium) | Sylhet,Rice (Medium),Perfect foresight,0.6549161914636281,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Chattogram,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Chattogram,Masur,Seasonal change,-0.16233999282212475,-357.340355497147
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Chattogram,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Chattogram,Masur,Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Chattogram,Masur,Always wait,-1.876899150616107,-4131.402238315533
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Chattogram,Masur,Perfect foresight,0.04543007536785826,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Dhaka,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Dhaka,Masur,Seasonal change,-0.0836064067620268,-17.278481012659768
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Dhaka,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Dhaka,Masur,Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Dhaka,Masur,Always wait,-1.4597739870762072,-301.6835443037786
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Dhaka,Masur,Perfect foresight,0.4838759072673504,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Khulna,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Khulna,Masur,Seasonal change,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Khulna,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Khulna,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Khulna,Masur,Always wait,-1.8931648820990854,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Khulna,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rajshahi,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rajshahi,Masur,Seasonal change,-0.09179523980383797,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rajshahi,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rajshahi,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rajshahi,Masur,Always wait,-1.9912091855041392,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rajshahi,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rangpur,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rangpur,Masur,Seasonal change,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rangpur,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rangpur,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rangpur,Masur,Always wait,-1.9040743912884017,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Rangpur,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Sylhet,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Sylhet,Masur,Seasonal change,-0.132179127773846,-18.351867693185064
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Sylhet,Masur,Random Forest,0.4944600186890913,68.65126889078763
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Sylhet,Masur,Gradient Boosting,0.5591530349239537,77.6333048189316
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Sylhet,Masur,Always wait,-1.906410769846889,-264.6877673224948
+Crisis (Jul 2024–Jul 2026),0.02,Masur | Sylhet,Masur,Perfect foresight,0.7202489140815116,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Chattogram,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Chattogram,Onion,Seasonal change,-1.3121568082296586,-75.86400900176888
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Chattogram,Onion,Random Forest,-5.627024397025082,-325.33354766114815
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Chattogram,Onion,Gradient Boosting,-1.1813442691318676,-68.30091625140724
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Chattogram,Onion,Always wait,-5.637450476124273,-325.93634463912593
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Chattogram,Onion,Perfect foresight,1.7296170153610957,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Dhaka,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Dhaka,Onion,Seasonal change,-1.2520462517863984,-38.108984498576135
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Dhaka,Onion,Random Forest,-2.895153956086771,-88.1208478329637
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Dhaka,Onion,Gradient Boosting,1.415876315447595,43.09553938627077
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Dhaka,Onion,Always wait,-5.8196700012991815,-177.13540018981251
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Dhaka,Onion,Perfect foresight,3.285435884110699,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Khulna,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Khulna,Onion,Seasonal change,-1.6318451512498666,-46.24629591344488
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Khulna,Onion,Random Forest,-4.051356871899614,-114.81496795534467
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Khulna,Onion,Gradient Boosting,0.39859935803909785,11.296258011163783
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Khulna,Onion,Always wait,-5.074117303764236,-143.79987595617223
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Khulna,Onion,Perfect foresight,3.5285964400350034,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rajshahi,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rajshahi,Onion,Seasonal change,-1.0808363543988952,-33.10919113903843
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rajshahi,Onion,Random Forest,-1.1750888513778368,-35.99642187022791
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rajshahi,Onion,Gradient Boosting,2.076484595533312,63.6088202353417
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rajshahi,Onion,Always wait,-4.939937180829467,-151.32478073046204
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rajshahi,Onion,Perfect foresight,3.264460161107663,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rangpur,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rangpur,Onion,Seasonal change,0.20586466527143799,9.154899443730585
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rangpur,Onion,Random Forest,-5.380962690337022,-239.29396662387842
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rangpur,Onion,Gradient Boosting,0.2407447499458426,10.706033376122164
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rangpur,Onion,Always wait,-5.111784657573814,-227.3234916559713
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Rangpur,Onion,Perfect foresight,2.2486829761131366,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Sylhet,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Sylhet,Onion,Seasonal change,1.1048002592232375,57.46238112435299
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Sylhet,Onion,Random Forest,-5.457853075961683,-283.8714337305916
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Sylhet,Onion,Gradient Boosting,-1.171087348979316,-60.91007583965414
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Sylhet,Onion,Always wait,-4.783085682544086,-248.77573131094465
+Crisis (Jul 2024–Jul 2026),0.02,Onion | Sylhet,Onion,Perfect foresight,1.9226496319955322,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Chattogram,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Chattogram,Potato,Seasonal change,-0.9795591182364616,-868.7203791468837
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Chattogram,Potato,Random Forest,-2.180895123580484,-1934.1232227487537
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Chattogram,Potato,Gradient Boosting,-2.1763527054108445,-1930.0947867298228
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Chattogram,Potato,Always wait,-6.386105544422183,-5663.507109004596
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Chattogram,Potato,Perfect foresight,0.1127588510354105,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Dhaka,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Dhaka,Potato,Seasonal change,-2.0285291205980327,-81.14045157525331
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Dhaka,Potato,Random Forest,-2.909658780840607,-116.38532817202343
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Dhaka,Potato,Gradient Boosting,-3.5655319754524073,-142.62002534571562
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Dhaka,Potato,Always wait,-6.929538797021717,-277.1791153941226
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Dhaka,Potato,Perfect foresight,2.5000219757425057,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Khulna,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Khulna,Potato,Seasonal change,-3.711711711711707,-371.94444444443866
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Khulna,Potato,Random Forest,-4.69438669438671,-470.41666666666197
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Khulna,Potato,Gradient Boosting,-1.6659736659736635,-166.94444444444173
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Khulna,Potato,Always wait,-6.821898821898831,-683.6111111111027
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Khulna,Potato,Perfect foresight,0.9979209979210202,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rajshahi,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rajshahi,Potato,Seasonal change,-0.09626416678326644,-64.9056603773608
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rajshahi,Potato,Random Forest,-1.0852105778648369,-731.6981132075978
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rajshahi,Potato,Gradient Boosting,-1.2852945291730755,-866.6037735849611
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rajshahi,Potato,Always wait,-6.538687561214496,-4408.67924528332
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rajshahi,Potato,Perfect foresight,0.1483139778928111,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rangpur,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rangpur,Potato,Seasonal change,-1.6174863387978244,-1202.5000000000568
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rangpur,Potato,Random Forest,-2.2145626080052327,-1646.3888888889549
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rangpur,Potato,Gradient Boosting,-2.376675540609985,-1766.9097222223052
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rangpur,Potato,Always wait,-6.510718789407333,-4840.312500000211
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Rangpur,Potato,Perfect foresight,0.13451029844471218,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Sylhet,Potato,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Sylhet,Potato,Seasonal change,-3.32278936017254,
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Sylhet,Potato,Random Forest,-1.511430625449306,
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Sylhet,Potato,Gradient Boosting,-1.813946800862687,
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Sylhet,Potato,Always wait,-6.55125808770668,
+Crisis (Jul 2024–Jul 2026),0.02,Potato | Sylhet,Potato,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Seasonal change,-0.26077578191827655,-127.7696793003181
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Always wait,-1.6428279221986974,-804.9198250729919
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Perfect foresight,0.2040983301721644,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Seasonal change,-0.25887490493364806,-186.10229276894515
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Always wait,-1.8268933539412613,-1313.3333333331843
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Perfect foresight,0.1391035548686359,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Seasonal change,-0.2553224432917722,-56.70563961485032
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Always wait,-1.5675466439575625,-348.1430536450972
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Perfect foresight,0.450259348145865,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Seasonal change,-0.08009468442247147,-256.1904761905181
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Always wait,-1.9124615716720972,-6117.190476191826
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Perfect foresight,0.031263724402808,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Seasonal change,-0.3701180568995599,-144.96664645239477
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Always wait,-1.6661892781111076,-652.607640994543
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Perfect foresight,0.25531256047997,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Seasonal change,-0.1408407952648516,-65.375132088777
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Always wait,-1.7174078008802773,-797.182106375547
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Perfect foresight,0.21543481560175604,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Chattogram,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Chattogram,Rice (Medium),Seasonal change,-0.22587144872053821,-50.224014336919694
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Chattogram,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Chattogram,Rice (Medium),Gradient Boosting,-0.10746188461280282,-23.894862604540712
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Chattogram,Rice (Medium),Always wait,-1.6708979783733091,-371.5352449223547
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Chattogram,Rice (Medium),Perfect foresight,0.4497279871045645,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Dhaka,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Dhaka,Rice (Medium),Seasonal change,-0.292743980764798,-63.758967001433554
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Dhaka,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Dhaka,Rice (Medium),Gradient Boosting,-0.04874674747209484,-10.616929698709345
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Dhaka,Rice (Medium),Always wait,-1.6707618326142204,-363.88809182209116
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Dhaka,Rice (Medium),Perfect foresight,0.45914166200060613,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Khulna,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Khulna,Rice (Medium),Seasonal change,-0.3139808802897326,-78.68005363508772
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Khulna,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Khulna,Rice (Medium),Gradient Boosting,-0.0783059806192754,-19.622592144423542
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Khulna,Rice (Medium),Always wait,-1.4947959150380274,-374.578931876914
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Khulna,Rice (Medium),Perfect foresight,0.3990603282325589,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Seasonal change,-0.10712372790574465,-19.970044932604004
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Always wait,-1.655530262453142,-308.6245631552801
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Perfect foresight,0.5364220674879405,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rangpur,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rangpur,Rice (Medium),Seasonal change,-0.6429411617488889,-107.9865489701549
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rangpur,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rangpur,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rangpur,Rice (Medium),Always wait,-1.2642090247015458,-212.33291298864452
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Rangpur,Rice (Medium),Perfect foresight,0.5953900442976279,100.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Sylhet,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Sylhet,Rice (Medium),Seasonal change,-0.084326939692414,-16.874135546334642
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Sylhet,Rice (Medium),Random Forest,-0.1416969068601892,-28.35408022129784
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Sylhet,Rice (Medium),Gradient Boosting,-0.1416969068601892,-28.35408022129784
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Sylhet,Rice (Medium),Always wait,-1.3768100915845682,-275.50484094052183
+Crisis (Jul 2024–Jul 2026),0.02,Rice (Medium) | Sylhet,Rice (Medium),Perfect foresight,0.4997407983411195,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Chattogram,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Chattogram,Masur,Seasonal change,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Chattogram,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Chattogram,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Chattogram,Masur,Always wait,-4.88066754396459,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Chattogram,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Dhaka,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Dhaka,Masur,Seasonal change,-0.20901601690502813,-58.08510638297805
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Dhaka,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Dhaka,Masur,Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Dhaka,Masur,Always wait,-4.476311518084108,-1243.9574468085157
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Dhaka,Masur,Perfect foresight,0.3598444247082888,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Khulna,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Khulna,Masur,Seasonal change,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Khulna,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Khulna,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Khulna,Masur,Always wait,-4.896435344891959,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Khulna,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rajshahi,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rajshahi,Masur,Seasonal change,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rajshahi,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rajshahi,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rajshahi,Masur,Always wait,-4.991478292070339,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rajshahi,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rangpur,Masur,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rangpur,Masur,Seasonal change,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rangpur,Masur,Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rangpur,Masur,Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rangpur,Masur,Always wait,-4.907010889514263,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Rangpur,Masur,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Sylhet,Masur,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Sylhet,Masur,Seasonal change,-0.37819742665556877,-63.119108826048794
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Sylhet,Masur,Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Sylhet,Masur,Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Sylhet,Masur,Always wait,-4.909275746280162,-819.331619537285
+Crisis (Jul 2024–Jul 2026),0.05,Masur | Sylhet,Masur,Perfect foresight,0.5991805551276874,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Chattogram,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Chattogram,Onion,Seasonal change,-2.029957600611665,-166.88571428571345
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Chattogram,Onion,Random Forest,-1.8322096336971017,-150.628571428572
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Chattogram,Onion,Gradient Boosting,-1.0982136651143448,-90.28571428571463
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Chattogram,Onion,Always wait,-8.526099951344968,-700.9428571428549
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Chattogram,Onion,Perfect foresight,1.2163758949051307,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Dhaka,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Dhaka,Onion,Seasonal change,-1.9179550474210827,-71.41993226898894
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Dhaka,Onion,Random Forest,0.37189814213329786,13.848572810836876
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Dhaka,Onion,Gradient Boosting,0.241977393789794,9.01064344460574
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Dhaka,Onion,Always wait,-8.702741327790054,-324.06869859699975
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Dhaka,Onion,Perfect foresight,2.685461868260375,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Khulna,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Khulna,Onion,Seasonal change,-1.664964497616983,-61.55990110137171
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Khulna,Onion,Random Forest,-0.8029374574457848,-29.687570240503725
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Khulna,Onion,Gradient Boosting,-0.8138799727652968,-30.09215554057113
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Khulna,Onion,Always wait,-7.980011672016374,-295.0505731625093
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Khulna,Onion,Perfect foresight,2.7046250364750613,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rajshahi,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rajshahi,Onion,Seasonal change,-1.2509110679021496,-49.585450781102686
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rajshahi,Onion,Random Forest,-1.5895909156736998,-63.01054018445357
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rajshahi,Onion,Gradient Boosting,-1.8272282880945068,-72.43035949557667
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rajshahi,Onion,Always wait,-7.849939103865311,-311.1674195369847
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rajshahi,Onion,Perfect foresight,2.5227381181313735,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rangpur,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rangpur,Onion,Seasonal change,-1.7314955136994659,-103.64290856731586
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rangpur,Onion,Random Forest,-1.3001852252772395,-77.82577393808535
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rangpur,Onion,Gradient Boosting,-1.3081234514445095,-78.30093592512604
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rangpur,Onion,Always wait,-8.016525943566432,-479.84881209503556
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Rangpur,Onion,Perfect foresight,1.6706357797503069,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Sylhet,Onion,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Sylhet,Onion,Seasonal change,-0.9263759663009852,-67.04355108877813
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Sylhet,Onion,Random Forest,-1.7348284960422178,-125.55276381909688
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Sylhet,Onion,Gradient Boosting,-0.8483775401564753,-61.39865996650098
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Sylhet,Onion,Always wait,-7.697889182058049,-557.1105527638249
+Crisis (Jul 2024–Jul 2026),0.05,Onion | Sylhet,Onion,Perfect foresight,1.3817525343702064,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Chattogram,Potato,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Chattogram,Potato,Seasonal change,-0.23780895123580725,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Chattogram,Potato,Random Forest,-1.5377421509686018,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Chattogram,Potato,Gradient Boosting,-2.3660654642618573,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Chattogram,Potato,Always wait,-9.25183700734803,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Chattogram,Potato,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Dhaka,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Dhaka,Potato,Seasonal change,-2.7943806345523847,-153.34957023679465
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Dhaka,Potato,Random Forest,-5.607026659626147,-307.70150563173104
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Dhaka,Potato,Gradient Boosting,-2.4559292981221947,-134.7760923269206
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Dhaka,Potato,Always wait,-9.778634548133292,-536.6303312143871
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Dhaka,Potato,Perfect foresight,1.8222291919288924,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Khulna,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Khulna,Potato,Seasonal change,-3.7837837837837784,-727.9999999999889
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Khulna,Potato,Random Forest,-2.340956340956346,-450.39999999999554
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Khulna,Potato,Gradient Boosting,-2.4241164241164292,-466.3999999999935
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Khulna,Potato,Always wait,-9.674289674289682,-1861.333333333308
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Khulna,Potato,Perfect foresight,0.5197505197505281,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rajshahi,Potato,Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rajshahi,Potato,Seasonal change,-0.47152651462150086,-842.4999999998739
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rajshahi,Potato,Random Forest,-1.311039597033714,-2342.4999999997185
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rajshahi,Potato,Gradient Boosting,-1.7566811249475345,-3138.749999999661
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rajshahi,Potato,Always wait,-9.399748146075293,-16794.999999998145
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rajshahi,Potato,Perfect foresight,0.05596753882748384,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rangpur,Potato,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rangpur,Potato,Seasonal change,-1.1328289197141572,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rangpur,Potato,Random Forest,-2.193965718555868,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rangpur,Potato,Gradient Boosting,-2.929568913175462,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rangpur,Potato,Always wait,-9.37263556116018,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Rangpur,Potato,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Sylhet,Potato,Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Sylhet,Potato,Seasonal change,-0.3788641265276782,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Sylhet,Potato,Random Forest,-1.459381739755572,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Sylhet,Potato,Gradient Boosting,-1.3271028037383115,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Sylhet,Potato,Always wait,-9.411933860531995,
+Crisis (Jul 2024–Jul 2026),0.05,Potato | Sylhet,Potato,Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Seasonal change,-0.22016437948603196,-435.2941176471679
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Always wait,-4.653761761315067,-9201.102941178755
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Perfect foresight,0.05057830339543212,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Seasonal change,-0.2239886165697591,-1521.6666666661351
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Always wait,-4.832192536983881,-32827.499999989006
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Perfect foresight,0.014719952896147248,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Seasonal change,-0.2082526902531412,-69.15167095114786
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Always wait,-4.580785011999677,-1521.0796915166366
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Perfect foresight,0.3011535186188796,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Naive,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Seasonal change,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Random Forest,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Gradient Boosting,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Always wait,-4.915141319478056,
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Perfect foresight,0.0,
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Seasonal change,-0.2226953099799922,-491.73789173783086
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Always wait,-4.67640797367912,-10326.068376067356
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Perfect foresight,0.04528740081286564,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Seasonal change,-0.18212171801488264,-744.1860465123657
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Always wait,-4.726058582485981,-19311.627906995265
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Perfect foresight,0.02447260585822786,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Chattogram,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Chattogram,Rice (Medium),Seasonal change,-0.25858015984956406,-105.04774897681044
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Chattogram,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Chattogram,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Chattogram,Rice (Medium),Always wait,-4.680972530055749,-1901.6371077762728
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Chattogram,Rice (Medium),Perfect foresight,0.24615487944119607,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Dhaka,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Dhaka,Rice (Medium),Seasonal change,-0.4354270280952588,-287.3913043478099
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Dhaka,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Dhaka,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Dhaka,Rice (Medium),Always wait,-4.680840552023979,-3089.4565217389354
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Dhaka,Rice (Medium),Perfect foresight,0.1515101610618963,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Khulna,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Khulna,Rice (Medium),Seasonal change,-0.2324708799634534,-178.12500000000168
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Khulna,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Khulna,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Khulna,Rice (Medium),Always wait,-4.510261346210321,-3455.87500000008
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Khulna,Rice (Medium),Perfect foresight,0.13050996769878864,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Seasonal change,-0.22763792179968378,-55.92105263158135
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Always wait,-4.666075254418878,-1146.2582236842427
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Perfect foresight,0.4070701660417786,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rangpur,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rangpur,Rice (Medium),Seasonal change,-0.22399079009935985,-75.52742616033544
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rangpur,Rice (Medium),Random Forest,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rangpur,Rice (Medium),Gradient Boosting,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rangpur,Rice (Medium),Always wait,-4.286733238231077,-1445.4430379746393
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Rangpur,Rice (Medium),Perfect foresight,0.29656881147233083,100.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Sylhet,Rice (Medium),Naive,0.0,0.0
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Sylhet,Rice (Medium),Seasonal change,-0.21081734923101836,-56.481481481476
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Sylhet,Rice (Medium),Random Forest,-0.21081734923101836,-56.481481481476
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Sylhet,Rice (Medium),Gradient Boosting,-0.21081734923101836,-56.481481481476
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Sylhet,Rice (Medium),Always wait,-4.395887333678927,-1177.731481481434
+Crisis (Jul 2024–Jul 2026),0.05,Rice (Medium) | Sylhet,Rice (Medium),Perfect foresight,0.37325038880249295,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Chattogram,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Chattogram,Masur,Seasonal change,-0.47978350843680406,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Chattogram,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Chattogram,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Chattogram,Masur,Always wait,-1.031518624641825,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Chattogram,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Dhaka,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Dhaka,Masur,Seasonal change,-0.8687639293673999,-1610.8609271527037
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Dhaka,Masur,Random Forest,-0.2335847762729215,-433.1125827815474
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Dhaka,Masur,Gradient Boosting,-0.2335847762729215,-433.1125827815474
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Dhaka,Masur,Always wait,-1.3535916338076714,-2509.8278145701584
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Dhaka,Masur,Perfect foresight,0.053931653237304644,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Khulna,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Khulna,Masur,Seasonal change,-0.2498850604071179,-369.17924528308953
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Khulna,Masur,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Khulna,Masur,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Khulna,Masur,Always wait,-0.7471328957114776,-1103.8113207550055
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Khulna,Masur,Perfect foresight,0.06768664912770728,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rajshahi,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rajshahi,Masur,Seasonal change,-0.23267342070204533,-227.57575757572909
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rajshahi,Masur,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rajshahi,Masur,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rajshahi,Masur,Always wait,-0.9079840133841444,-888.0909090907995
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rajshahi,Masur,Perfect foresight,0.10223998512874921,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rangpur,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rangpur,Masur,Seasonal change,0.04820963928624522,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rangpur,Masur,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rangpur,Masur,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rangpur,Masur,Always wait,-0.6513056226968184,-1350.9863013698023
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Rangpur,Masur,Perfect foresight,0.04820963928624522,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Sylhet,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Sylhet,Masur,Seasonal change,-0.25667232780284266,-14.59790209790224
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Sylhet,Masur,Random Forest,-0.16138080490597506,-9.178321678321531
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Sylhet,Masur,Gradient Boosting,-0.2420712073589848,-13.767482517483415
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Sylhet,Masur,Always wait,-0.5435228661230695,-30.912150349649103
+Pre-crisis (Jul 2023–Jun 2024),0.01,Masur | Sylhet,Masur,Perfect foresight,1.758282293451785,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Chattogram,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Chattogram,Onion,Seasonal change,1.5765330758087615,39.441894177337204
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Chattogram,Onion,Random Forest,0.3471752776436521,8.68567286784243
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Chattogram,Onion,Gradient Boosting,2.021728633510378,50.5798502053635
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Chattogram,Onion,Always wait,1.2945436986962822,32.38705001208011
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Chattogram,Onion,Perfect foresight,3.997102848865275,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Dhaka,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Dhaka,Onion,Seasonal change,1.2241935483870758,14.024390243902316
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Dhaka,Onion,Random Forest,-1.8298387096774227,-20.96267553584631
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Dhaka,Onion,Gradient Boosting,4.206451612903228,48.18920916481899
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Dhaka,Onion,Always wait,1.5548387096774308,17.81226903178129
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Dhaka,Onion,Perfect foresight,8.729032258064496,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Khulna,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Khulna,Onion,Seasonal change,-2.6840506329113833,-53.97067806963945
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Khulna,Onion,Random Forest,0.9599999999999831,19.303604153939936
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Khulna,Onion,Gradient Boosting,0.35443037974682845,7.126858073711842
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Khulna,Onion,Always wait,0.5037974683544277,10.130319690490547
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Khulna,Onion,Perfect foresight,4.9731645569620175,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rajshahi,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rajshahi,Onion,Seasonal change,-2.963126843657826,-73.17872753763963
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rajshahi,Onion,Random Forest,-0.5176991150442456,-12.785332685769738
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rajshahi,Onion,Gradient Boosting,3.802851524090456,93.91694997571611
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rajshahi,Onion,Always wait,0.022123893805314765,0.5463817387080271
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rajshahi,Onion,Perfect foresight,4.049164208456246,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rangpur,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rangpur,Onion,Seasonal change,-1.8449691991786477,-67.58179766829637
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rangpur,Onion,Random Forest,1.1786447638603592,43.17412561113181
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rangpur,Onion,Gradient Boosting,2.4425051334702186,89.46972546069884
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rangpur,Onion,Always wait,0.01642710472280484,0.601729973674407
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Rangpur,Onion,Perfect foresight,2.7299794661191035,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Sylhet,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Sylhet,Onion,Seasonal change,4.016503352243439,87.93045049113714
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Sylhet,Onion,Random Forest,1.1026302217638007,24.139099017726103
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Sylhet,Onion,Gradient Boosting,0.3135636926250518,6.864626848820066
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Sylhet,Onion,Always wait,0.22537390407426638,4.933950547589614
+Pre-crisis (Jul 2023–Jun 2024),0.01,Onion | Sylhet,Onion,Perfect foresight,4.567818463125328,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Chattogram,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Chattogram,Potato,Seasonal change,-0.1408071748878914,-6.2227506936184795
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Chattogram,Potato,Random Forest,0.1962331838564868,8.672215616329076
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Chattogram,Potato,Gradient Boosting,-0.0477130044843288,-2.1086008719788683
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Chattogram,Potato,Always wait,0.9533632286995442,42.13238208481935
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Chattogram,Potato,Perfect foresight,2.2627802690582843,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Dhaka,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Dhaka,Potato,Seasonal change,-1.1459854014598703,-25.06986027944148
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Dhaka,Potato,Random Forest,1.3905109489051215,30.419161676646972
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Dhaka,Potato,Gradient Boosting,0.03649635036497845,0.79840319361307
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Dhaka,Potato,Always wait,1.8905109489051108,41.35728542914157
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Dhaka,Potato,Perfect foresight,4.57116788321168,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Khulna,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Khulna,Potato,Seasonal change,0.6929429429429312,24.414759952386856
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Khulna,Potato,Random Forest,1.5671921921921905,55.21756381431009
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Khulna,Potato,Gradient Boosting,1.6816816816816793,59.25142176960727
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Khulna,Potato,Always wait,1.6013513513513544,56.42110831900514
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Khulna,Potato,Perfect foresight,2.8382132132132254,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rajshahi,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rajshahi,Potato,Seasonal change,0.03168685927306125,1.8478260869557703
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rajshahi,Potato,Random Forest,0.03261882572225261,1.9021739130426774
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rajshahi,Potato,Gradient Boosting,-0.06896551724138167,-4.021739130434837
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rajshahi,Potato,Always wait,1.2143522833177878,70.81521739130397
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rajshahi,Potato,Perfect foresight,1.714818266542406,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rangpur,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rangpur,Potato,Seasonal change,1.0454142274259226,41.172360790889364
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rangpur,Potato,Random Forest,-1.3973744899769547,-55.03388527911783
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rangpur,Potato,Gradient Boosting,0.39205251020044685,15.440508628519323
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rangpur,Potato,Always wait,0.5806279936136027,22.867323412282317
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Rangpur,Potato,Perfect foresight,2.539116551357079,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Sylhet,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Sylhet,Potato,Seasonal change,0.9248384118190289,49.20900068782645
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Sylhet,Potato,Random Forest,0.023268698060951998,1.2380858799253764
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Sylhet,Potato,Gradient Boosting,-1.1961218836565202,-63.6435098752098
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Sylhet,Potato,Always wait,0.26149584487533684,13.913727031541208
+Pre-crisis (Jul 2023–Jun 2024),0.01,Potato | Sylhet,Potato,Perfect foresight,1.8794090489381299,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Seasonal change,-1.103405418841663,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Always wait,-1.4921700223713419,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Chattogram,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Seasonal change,-0.8908578332662009,-373.64864864863836
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Random Forest,0.2384212645992756,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Gradient Boosting,0.1578735400725062,66.21621621621856
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Always wait,-1.637937978252113,-686.9932432432322
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Dhaka,Rice (Coarse),Perfect foresight,0.2384212645992756,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Seasonal change,-0.438420956885599,-206.51242502144166
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Gradient Boosting,-0.08277242132072038,-38.98886032562417
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Always wait,-0.8559214116791058,-403.1705227078228
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Khulna,Rice (Coarse),Perfect foresight,0.21229761688192905,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Seasonal change,-0.24528450172899285,-339.23913043468707
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Always wait,-1.1556114429424613,-1598.260869564882
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rajshahi,Rice (Coarse),Perfect foresight,0.0723043068217688,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Seasonal change,0.001693480101616629,0.9900990099001543
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Always wait,-1.0335309060118703,-604.257425742623
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Rangpur,Rice (Coarse),Perfect foresight,0.17104149026248017,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Seasonal change,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Gradient Boosting,-0.048357159139023054,-61.87500000001255
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Always wait,-1.3170080432446385,-1685.166666666689
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Coarse) | Sylhet,Rice (Coarse),Perfect foresight,0.07815298446709473,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Chattogram,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Chattogram,Rice (Medium),Seasonal change,-1.195765911951563,-973.4567901232954
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Chattogram,Rice (Medium),Random Forest,-0.4640511972824113,-377.77777777771695
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Chattogram,Rice (Medium),Gradient Boosting,-0.6248009584325365,-508.6419753085697
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Chattogram,Rice (Medium),Always wait,-2.2010736870838765,-1791.8641975305845
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Chattogram,Rice (Medium),Perfect foresight,0.12283708163360885,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Dhaka,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Dhaka,Rice (Medium),Seasonal change,-1.070134518622845,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Dhaka,Rice (Medium),Random Forest,-0.16459094309729805,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Dhaka,Rice (Medium),Gradient Boosting,-0.16459094309729805,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Dhaka,Rice (Medium),Always wait,-1.8713638163974755,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Dhaka,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Khulna,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Khulna,Rice (Medium),Seasonal change,-0.08730086204270515,-36.432975274899725
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Khulna,Rice (Medium),Random Forest,-0.06448566815923096,-26.911587109889346
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Khulna,Rice (Medium),Gradient Boosting,-0.06448566815923096,-26.911587109889346
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Khulna,Rice (Medium),Always wait,-0.9999999999999898,-417.32663827621866
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Khulna,Rice (Medium),Perfect foresight,0.23962045752232708,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Seasonal change,-0.27469673358389013,-399.5555555556165
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Always wait,-1.3025025208543317,-1894.533333333606
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rajshahi,Rice (Medium),Perfect foresight,0.06875057292143882,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rangpur,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rangpur,Rice (Medium),Seasonal change,-0.5755629623607983,-239.18918918919337
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rangpur,Rice (Medium),Random Forest,0.1560848711486651,64.86486486485691
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rangpur,Rice (Medium),Gradient Boosting,0.1560848711486651,64.86486486485691
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rangpur,Rice (Medium),Always wait,-1.3219250467441546,-549.3581081080983
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Rangpur,Rice (Medium),Perfect foresight,0.24063084302090587,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Sylhet,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Sylhet,Rice (Medium),Seasonal change,-0.00689623465587319,-4.639175257727473
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Sylhet,Rice (Medium),Random Forest,-0.4007172084041999,-269.56701030925433
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Sylhet,Rice (Medium),Gradient Boosting,-0.41527592601106056,-279.36082474225213
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Sylhet,Rice (Medium),Always wait,-3.275757436439697,-2203.639175257598
+Pre-crisis (Jul 2023–Jun 2024),0.01,Rice (Medium) | Sylhet,Rice (Medium),Perfect foresight,0.14865216924893065,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Chattogram,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Chattogram,Masur,Seasonal change,-0.7602674307545354,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Chattogram,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Chattogram,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Chattogram,Masur,Always wait,-2.031200254695953,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Chattogram,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Dhaka,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Dhaka,Masur,Seasonal change,-0.7714726555803075,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Dhaka,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Dhaka,Masur,Gradient Boosting,-0.3043031030344645,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Dhaka,Masur,Always wait,-2.3500200011429273,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Dhaka,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Khulna,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Khulna,Masur,Seasonal change,-0.3714209087890441,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Khulna,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Khulna,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Khulna,Masur,Always wait,-1.7496871088861332,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Khulna,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rajshahi,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rajshahi,Masur,Seasonal change,-0.1449948880007601,-779.999999999909
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rajshahi,Masur,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rajshahi,Masur,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rajshahi,Masur,Always wait,-1.9089134677944264,-10268.999999997784
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rajshahi,Masur,Perfect foresight,0.018589088205223092,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rangpur,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rangpur,Masur,Seasonal change,-0.03566192495145781,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rangpur,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rangpur,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rangpur,Masur,Always wait,-1.6548277881241136,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Rangpur,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Sylhet,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Sylhet,Masur,Seasonal change,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Sylhet,Masur,Random Forest,-0.16138080490597506,-9.731232622798661
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Sylhet,Masur,Gradient Boosting,-0.16138080490597506,-9.731232622798661
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Sylhet,Masur,Always wait,-1.5481337462632472,-93.35217794253764
+Pre-crisis (Jul 2023–Jun 2024),0.02,Masur | Sylhet,Masur,Perfect foresight,1.6583798904147518,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Chattogram,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Chattogram,Onion,Seasonal change,1.0767745050700217,31.532805429864602
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Chattogram,Onion,Random Forest,-0.335103814582316,-9.813348416289376
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Chattogram,Onion,Gradient Boosting,1.4360212457749766,42.05316742081397
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Chattogram,Onion,Always wait,0.2713664896185186,7.946832579185068
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Chattogram,Onion,Perfect foresight,3.414775470787057,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Dhaka,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Dhaka,Onion,Seasonal change,0.8354838709677459,10.249307479224488
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Dhaka,Onion,Random Forest,-3.09516129032259,-37.96992481203007
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Dhaka,Onion,Gradient Boosting,3.412903225806474,41.867827463395486
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Dhaka,Onion,Always wait,0.5290322580645102,6.489908982983768
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Dhaka,Onion,Perfect foresight,8.151612903225814,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Khulna,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Khulna,Onion,Seasonal change,-3.1787341772152033,-71.40582347588752
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Khulna,Onion,Random Forest,0.03848101265822024,0.8644222020014232
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Khulna,Onion,Gradient Boosting,0.48810126582277125,10.964513193812301
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Khulna,Onion,Always wait,-0.5113924050632934,-11.487716105550547
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Khulna,Onion,Perfect foresight,4.451645569620255,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rajshahi,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rajshahi,Onion,Seasonal change,-3.61553588987219,-101.12761276127698
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rajshahi,Onion,Random Forest,-1.0452310717797508,-29.235423542354503
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rajshahi,Onion,Gradient Boosting,3.269419862340217,91.44664466446667
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rajshahi,Onion,Always wait,-0.9882005899705115,-27.64026402640295
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rajshahi,Onion,Perfect foresight,3.575221238938031,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rangpur,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rangpur,Onion,Seasonal change,-2.2525667351129486,-111.82466870540412
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rangpur,Onion,Random Forest,0.2895277207392244,14.373088685015336
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rangpur,Onion,Gradient Boosting,1.1170431211499077,55.453618756371334
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rangpur,Onion,Always wait,-0.9938398357289602,-49.33741080530131
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Rangpur,Onion,Perfect foresight,2.0143737166324227,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Sylhet,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Sylhet,Onion,Seasonal change,3.4945848375451227,89.06414300736031
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Sylhet,Onion,Random Forest,0.34863331614234383,8.885383806519437
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Sylhet,Onion,Gradient Boosting,-0.5074780814853019,-12.933753943217551
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Sylhet,Onion,Always wait,-0.7870036101083056,-20.057833859095815
+Pre-crisis (Jul 2023–Jun 2024),0.02,Onion | Sylhet,Onion,Perfect foresight,3.923671995874156,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Chattogram,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Chattogram,Potato,Seasonal change,-0.3892376681614462,-22.78932997269553
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Chattogram,Potato,Random Forest,0.015784753363212722,0.9241755933620757
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Chattogram,Potato,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Chattogram,Potato,Always wait,-0.06636771300448929,-3.885738290275192
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Chattogram,Potato,Perfect foresight,1.7079820627802667,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Dhaka,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Dhaka,Potato,Seasonal change,-1.7445255474452415,-43.257918552035775
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Dhaka,Potato,Random Forest,0.9562043795620534,23.71040723981902
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Dhaka,Potato,Gradient Boosting,-0.29197080291970545,-7.239819004524854
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Dhaka,Potato,Always wait,0.861313868613145,21.357466063348646
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Dhaka,Potato,Perfect foresight,4.032846715328464,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Khulna,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Khulna,Potato,Seasonal change,0.25975975975975896,12.093673540719859
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Khulna,Potato,Random Forest,1.2199699699699584,56.79832226494186
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Khulna,Potato,Gradient Boosting,1.2462462462462298,58.02167074449409
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Khulna,Potato,Always wait,0.5750750750750822,26.773855295351858
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Khulna,Potato,Perfect foresight,2.14789789789791,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rajshahi,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rajshahi,Potato,Seasonal change,-0.4026095060577939,-28.30930537352675
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rajshahi,Potato,Random Forest,-0.23112767940355328,-16.25163826998783
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rajshahi,Potato,Gradient Boosting,-0.14165890027958428,-9.960681520314472
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rajshahi,Potato,Always wait,0.19198508853679463,13.499344692004197
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rajshahi,Potato,Perfect foresight,1.4221808014911463,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rangpur,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rangpur,Potato,Seasonal change,0.5474543196736015,27.553571428571683
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rangpur,Potato,Random Forest,-1.351782863225115,-68.0357142857138
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rangpur,Potato,Gradient Boosting,0.07450771687069757,3.750000000001142
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rangpur,Potato,Always wait,-0.435337945715808,-21.91071428571452
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Rangpur,Potato,Perfect foresight,1.9868724498846912,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Sylhet,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Sylhet,Potato,Seasonal change,0.575438596491229,38.35548990645022
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Sylhet,Potato,Random Forest,-0.15660203139425954,-10.438207779418123
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Sylhet,Potato,Gradient Boosting,-0.5012003693444234,-33.40718857705634
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Sylhet,Potato,Always wait,-0.7512465373961219,-50.07385524372213
+Pre-crisis (Jul 2023–Jun 2024),0.02,Potato | Sylhet,Potato,Perfect foresight,1.500277008310258,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Seasonal change,-0.3148562432678692,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Always wait,-2.487198608003982,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Chattogram,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Seasonal change,-0.40596053161496837,-262.4999999999745
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Gradient Boosting,-0.0064438179621317815,-4.166666666662596
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Always wait,-2.63149416028996,-1701.5624999998743
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Dhaka,Rice (Coarse),Perfect foresight,0.1546516310914292,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Seasonal change,-0.16554484264146296,-141.3043478261091
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Always wait,-1.8573767509550643,-1585.4037267081321
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Khulna,Rice (Coarse),Perfect foresight,0.11715481171548081,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Seasonal change,-0.33637220999684914,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Always wait,-2.154039610185443,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rajshahi,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Seasonal change,-0.1659610499576747,-4900.000000004689
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Always wait,-2.0331922099915523,-60030.000000055166
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Rangpur,Rice (Coarse),Perfect foresight,0.0033869602032110535,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Gradient Boosting,-0.1292780618059819,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Always wait,-2.313805941797742,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Coarse) | Sylhet,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Chattogram,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Chattogram,Rice (Medium),Seasonal change,-0.3760937808040432,-953.8461538460681
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Chattogram,Rice (Medium),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Chattogram,Rice (Medium),Gradient Boosting,-0.6248009584325365,-1584.6153846152686
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Chattogram,Rice (Medium),Always wait,-3.188941629638631,-8087.769230768661
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Chattogram,Rice (Medium),Perfect foresight,0.039429186697192975,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Dhaka,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Dhaka,Rice (Medium),Seasonal change,-1.0479836875999404,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Dhaka,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Dhaka,Rice (Medium),Gradient Boosting,-0.19363640364389312,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Dhaka,Rice (Medium),Always wait,-2.8625621616863994,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Dhaka,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Khulna,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Khulna,Rice (Medium),Seasonal change,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Khulna,Rice (Medium),Random Forest,-0.23101526089737145,-171.08053237084752
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Khulna,Rice (Medium),Gradient Boosting,-0.23101526089737145,-171.08053237084752
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Khulna,Rice (Medium),Always wait,-2.0000000000000018,-1481.1188811188606
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Khulna,Rice (Medium),Perfect foresight,0.13503305004720634,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Seasonal change,-0.3391694930791167,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Always wait,-2.299446939835603,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rajshahi,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rangpur,Rice (Medium),Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rangpur,Rice (Medium),Seasonal change,-0.48776522233964226,-312.4999999999789
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rangpur,Rice (Medium),Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rangpur,Rice (Medium),Gradient Boosting,-0.013007072595727642,-8.333333333334075
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rangpur,Rice (Medium),Always wait,-2.318673278595229,-1485.5208333332268
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Rangpur,Rice (Medium),Perfect foresight,0.1560848711486873,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Sylhet,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Sylhet,Rice (Medium),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Sylhet,Rice (Medium),Random Forest,-0.5592999555576017,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Sylhet,Rice (Medium),Gradient Boosting,-0.6405835747015365,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Sylhet,Rice (Medium),Always wait,-4.252769987586769,
+Pre-crisis (Jul 2023–Jun 2024),0.02,Rice (Medium) | Sylhet,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Chattogram,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Chattogram,Masur,Seasonal change,-0.990130531677802,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Chattogram,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Chattogram,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Chattogram,Masur,Always wait,-5.030245144858325,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Chattogram,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Dhaka,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Dhaka,Masur,Seasonal change,-1.017915309446249,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Dhaka,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Dhaka,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Dhaka,Masur,Always wait,-5.339305103148795,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Dhaka,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Khulna,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Khulna,Masur,Seasonal change,-0.45570355801894946,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Khulna,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Khulna,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Khulna,Masur,Always wait,-4.7573497484100224,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Khulna,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rajshahi,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rajshahi,Masur,Seasonal change,-0.23236360256528865,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rajshahi,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rajshahi,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rajshahi,Masur,Always wait,-4.911701831025206,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rajshahi,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rangpur,Masur,Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rangpur,Masur,Seasonal change,-0.2872766176645336,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rangpur,Masur,Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rangpur,Masur,Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rangpur,Masur,Always wait,-4.665394284406066,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Rangpur,Masur,Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Sylhet,Masur,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Sylhet,Masur,Seasonal change,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Sylhet,Masur,Random Forest,-0.40345201226493765,-29.69457013574669
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Sylhet,Masur,Gradient Boosting,-0.40345201226493765,-29.69457013574669
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Sylhet,Masur,Always wait,-4.561966386683769,-335.7664027149327
+Pre-crisis (Jul 2023–Jun 2024),0.05,Masur | Sylhet,Masur,Perfect foresight,1.358672681303652,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Chattogram,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Chattogram,Onion,Seasonal change,-0.42250120714631967,-18.498942917548067
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Chattogram,Onion,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Chattogram,Onion,Gradient Boosting,0.7725736359246671,33.82663847780082
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Chattogram,Onion,Always wait,-2.798165137614683,-122.51585623678692
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Chattogram,Onion,Perfect foresight,2.2839208112023224,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Dhaka,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Dhaka,Onion,Seasonal change,0.06854838709675626,0.98722415795576
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Dhaka,Onion,Random Forest,-2.979838709677418,-42.91521486643438
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Dhaka,Onion,Gradient Boosting,1.463709677419378,21.080139372822547
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Dhaka,Onion,Always wait,-2.548387096774185,-36.70150987224149
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Dhaka,Onion,Perfect foresight,6.943548387096765,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Khulna,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Khulna,Onion,Seasonal change,-0.384810126582269,-10.749646393210648
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Khulna,Onion,Random Forest,-0.35443037974683955,-9.900990099010087
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Khulna,Onion,Gradient Boosting,-0.24810126582278658,-6.930693069306916
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Khulna,Onion,Always wait,-3.556962025316446,-99.36350777934946
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Khulna,Onion,Perfect foresight,3.5797468354430206,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rajshahi,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rajshahi,Onion,Seasonal change,-4.006882989183868,-161.7063492063483
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rajshahi,Onion,Random Forest,-0.08849557522123686,-3.571428571428692
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rajshahi,Onion,Gradient Boosting,2.266470009832866,91.46825396825432
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rajshahi,Onion,Always wait,-4.019174041297935,-162.20238095238028
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rajshahi,Onion,Perfect foresight,2.4778761061946986,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rangpur,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rangpur,Onion,Seasonal change,-3.3778234086242365,-441.61073825503206
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rangpur,Onion,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rangpur,Onion,Gradient Boosting,0.22587268993841114,29.530201342282307
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rangpur,Onion,Always wait,-4.0246406570842,-526.1744966442942
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Rangpur,Onion,Perfect foresight,0.7648870636550287,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Sylhet,Onion,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Sylhet,Onion,Seasonal change,2.093862815884462,75.88785046728988
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Sylhet,Onion,Random Forest,-0.7632800412583851,-27.66355140186962
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Sylhet,Onion,Gradient Boosting,-1.5936049510056671,-57.75700934579439
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Sylhet,Onion,Always wait,-3.8241361526560103,-138.59813084112224
+Pre-crisis (Jul 2023–Jun 2024),0.05,Onion | Sylhet,Onion,Perfect foresight,2.7591542031975225,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Chattogram,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Chattogram,Potato,Seasonal change,-0.8152466367713274,-81.16071428571627
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Chattogram,Potato,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Chattogram,Potato,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Chattogram,Potato,Always wait,-3.125560538116612,-311.1607142857148
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Chattogram,Potato,Perfect foresight,1.00448430493274,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Dhaka,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Dhaka,Potato,Seasonal change,-2.3083941605839264,-83.22368421052538
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Dhaka,Potato,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Dhaka,Potato,Gradient Boosting,-0.821167883211682,-29.60526315789459
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Dhaka,Potato,Always wait,-2.226277372262775,-80.26315789473638
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Dhaka,Potato,Perfect foresight,2.7737226277372296,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Khulna,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Khulna,Potato,Seasonal change,-0.2139639639639479,-21.673003802279176
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Khulna,Potato,Random Forest,-0.17830330330330657,-18.060836501900663
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Khulna,Potato,Gradient Boosting,0.703828828828823,71.29277566539821
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Khulna,Potato,Always wait,-2.5037537537537458,-253.6121673003761
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Khulna,Potato,Perfect foresight,0.9872372372372595,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rajshahi,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rajshahi,Potato,Seasonal change,-0.8667287977632832,-96.37305699481846
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rajshahi,Potato,Random Forest,-0.35414725069896624,-39.37823834196807
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rajshahi,Potato,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rajshahi,Potato,Always wait,-2.8751164958061404,-319.68911917098046
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rajshahi,Potato,Perfect foresight,0.899347623485558,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rangpur,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rangpur,Potato,Seasonal change,-0.9464254035834729,-87.45901639344162
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rangpur,Potato,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rangpur,Potato,Gradient Boosting,-0.01773993258825657,-1.6393442622949677
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rangpur,Potato,Always wait,-3.48323576370414,-321.8852459016387
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Rangpur,Potato,Perfect foresight,1.0821358878836396,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Sylhet,Potato,Naive,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Sylhet,Potato,Seasonal change,-0.09510618651895619,-17.109634551499337
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Sylhet,Potato,Random Forest,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Sylhet,Potato,Gradient Boosting,0.0,0.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Sylhet,Potato,Always wait,-3.7894736842105425,-681.7275747508357
+Pre-crisis (Jul 2023–Jun 2024),0.05,Potato | Sylhet,Potato,Perfect foresight,0.5558633425669424,100.0
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Seasonal change,-0.4142845306156273,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Always wait,-5.472284364901803,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Chattogram,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Seasonal change,-0.8940797422472668,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Gradient Boosting,-0.09665726943212105,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Always wait,-5.612162706403534,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Dhaka,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Seasonal change,-0.413862106603613,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Always wait,-4.861742768782973,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Khulna,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Always wait,-5.149324111914488,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rajshahi,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Seasonal change,-0.24555461473328988,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Always wait,-5.032176121930587,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Rangpur,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Always wait,-5.304199637456975,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Coarse) | Sylhet,Rice (Coarse),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Chattogram,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Chattogram,Rice (Medium),Seasonal change,-0.8037488057505926,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Chattogram,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Chattogram,Rice (Medium),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Chattogram,Rice (Medium),Always wait,-6.152545457302749,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Chattogram,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Dhaka,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Dhaka,Rice (Medium),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Dhaka,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Dhaka,Rice (Medium),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Dhaka,Rice (Medium),Always wait,-5.836157197553171,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Dhaka,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Khulna,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Khulna,Rice (Medium),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Khulna,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Khulna,Rice (Medium),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Khulna,Rice (Medium),Always wait,-5.000000000000004,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Khulna,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Seasonal change,-0.8479237326977862,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Gradient Boosting,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Always wait,-5.290280196779429,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rajshahi,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rangpur,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rangpur,Rice (Medium),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rangpur,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rangpur,Rice (Medium),Gradient Boosting,-0.42272985936102625,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rangpur,Rice (Medium),Always wait,-5.308917974148453,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Rangpur,Rice (Medium),Perfect foresight,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Sylhet,Rice (Medium),Naive,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Sylhet,Rice (Medium),Seasonal change,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Sylhet,Rice (Medium),Random Forest,0.0,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Sylhet,Rice (Medium),Gradient Boosting,-0.23753697148023445,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Sylhet,Rice (Medium),Always wait,-7.183807641027995,
+Pre-crisis (Jul 2023–Jun 2024),0.05,Rice (Medium) | Sylhet,Rice (Medium),Perfect foresight,0.0,

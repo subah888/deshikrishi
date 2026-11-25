@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}Method{% endblock %}
+{% block content %}
+<div class="dk-card mx-auto" style="max-width: 860px">
+  <h3 class="fw-bold">পদ্ধতি ও সীমাবদ্ধতা <span class="en">Method and limitations</span></h3>
+
+  <h5 class="fw-bold mt-4">প্রশ্নটা কী? <span class="en">The question</span></h5>
+  <p>ফসল তোলার পর কৃষক এখনই বিক্রি করতে পারেন, অথবা সংরক্ষণ করে এক মাস পর বিক্রি করতে পারেন। অপেক্ষা করলে
+    খরচ আছে (গুদাম ভাড়া, নষ্ট হওয়া, সুদ)। DeshiKrishi হিসাব করে, দামের পূর্বাভাস অনুযায়ী অপেক্ষা করা লাভজনক কিনা।</p>
+  <p class="en">After harvest a farmer can sell now or store and sell next month, paying a storage cost.
+    DeshiKrishi recommends waiting only if forecast price × (1 − storage cost) beats today's price.</p>
+
+  <h5 class="fw-bold mt-4">মডেল <span class="en">Model</span></h5>
+  <ul>
+    <li>Gradient Boosting, trained on month-to-month price changes, pooled across all crop–area series.</li>
+    <li>Features use only information available at the time: recent price changes (1, 2, 3, 12 months),
+      last year's change for the same month, distance from the 6-month average, and season.</li>
+    <li>Evaluated with rolling-origin backtesting over {{ meta.get('test_months', 24) }} test months
+      {% if meta.get('test_start') %}(from {{ meta.test_start }}){% endif %}: every month the model is retrained on the past only.</li>
+    <li>The 80% price range comes from the model's past forecast errors for the same crop.</li>
+  </ul>
+
+  <h5 class="fw-bold mt-4">সততার নিয়ম <span class="en">The honesty rule</span></h5>
+  <p>যদি অতীতের পরীক্ষায় কোনো এলাকার কোনো ফসলে পূর্বাভাস মেনে চললে "সবসময় তখনই বিক্রি"-এর চেয়ে কম আয় হতো,
+    তাহলে DeshiKrishi পূর্বাভাস যা-ই বলুক, এখনই বিক্রির পরামর্শ দেয় এবং কারণটা জানায়।</p>
+  <p class="en">If following the forecast for a crop and area would have earned less than always selling right away
+    in past tests, DeshiKrishi recommends selling now and says why. Every result also shows how often the advice was right.</p>
+
+  <h5 class="fw-bold mt-4">ডেটা <span class="en">Data</span></h5>
+  {% if ready %}
+  <p>{{ meta.source }} (<a href="{{ meta.source_url }}" target="_blank" rel="noopener">link</a>),
+    {{ meta.data_start }} to {{ meta.data_end }}. Built {{ meta.built_at }}.</p>
+  {% endif %}
+
+  <h5 class="fw-bold mt-4">সীমাবদ্ধতা <span class="en">Limitations</span></h5>
+  <ul>
+    <li><strong>মাসিক তথ্য:</strong> বিবিএস প্রতি দুই মাসে বুলেটিন প্রকাশ করে, কয়েক মাস দেরিতে। এটি গবেষণা প্রোটোটাইপ, আজকের বাজারের পরামর্শ নয়।
+      <span class="en">BBS bulletins are monthly and published with a delay: this is a research prototype, not live market advice.</span></li>
+    <li><strong>পাইকারি দাম:</strong> কৃষক যে দাম পান (খামার পর্যায়ের দাম) তা পাইকারি দামের চেয়ে কিছুটা কম। এখানে পাইকারি দামের ওঠানামাকে
+      সংকেত হিসেবে ব্যবহার করা হয়েছে। <span class="en">Wholesale prices are used as a signal for farm-gate price movements.</span></li>
+    <li><strong>তথ্য পরিষ্কার:</strong> বুলেটিনের কিছু কপি-ভুল ও ছাপার ভুল সরানো হয়েছে। <span class="en">Copied months and digit typos
+      in the bulletins were removed (see data/raw/bbs_wholesale_flagged.csv).</span></li>
+    <li><strong>ধান বনাম চাল:</strong> কৃষক ধান বিক্রি করেন, কিন্তু তথ্য চালের। <span class="en">Farmers sell paddy; the data is for rice.</span></li>
+    <li>পূর্বাভাস নিশ্চয়তা নয়। <span class="en">A forecast is not a guarantee.</span></li>
+  </ul>
+
+  <h5 class="fw-bold mt-4" id="sadai">বাজার ও আজকের দাম <span class="en">Markets and today's prices</span></h5>
+  <p>বাজারের তালিকা, পাইকার ও আজকের দামের জন্য কৃষি বিপণন অধিদপ্তরের সরকারি প্ল্যাটফর্ম
+    <a href="{{ sadai_url }}" target="_blank" rel="noopener">সদাই</a> ব্যবহার করুন। DeshiKrishi বাজার তালিকা নয়;
+    এটি শুধু "বেচব না রাখব" সিদ্ধান্তে সাহায্য করে।</p>
+  <p class="en">For market directories and today's prices, use the Department of Agricultural Marketing's
+    <a href="{{ sadai_url }}" target="_blank" rel="noopener">Sadai</a> platform. DeshiKrishi focuses only on the sell-or-wait decision.</p>
+</div>
+{% endblock %}
